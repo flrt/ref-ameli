@@ -8,7 +8,3 @@ RUN pip install html5lib
 RUN pip install bs4
 RUN pip install mailer
 RUN pip install xlrd
-
-
-# docker build -t py_ameli .
-# docker run -it --rm -v "$PWD":/opt -w /opt py_ameli /bin/bash

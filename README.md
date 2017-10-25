@@ -22,9 +22,10 @@ Ce projet permet de
 
 | Nomenclature | Résultat |
 | ------------ | -------- |
-| CCAM | <a href="https://validator.w3.org/feed/check.cgi?url=https%3A//www.opikanoba.org/feeds/ameli_ccam.xml"><img src="valid-atom.png" alt="[Valid Atom 1.0]" title="Valider le flux CCAM" /></a> |
-| UCD  | <a href="https://validator.w3.org/feed/check.cgi?url=https%3A//www.opikanoba.org/feeds/ameli_ucd.xml"><img src="valid-atom.png" alt="[Valid Atom 1.0]" title="Valider le flux UCD" /></a> |
-| LPP  | <a href="https://validator.w3.org/feed/check.cgi?url=https%3A//www.opikanoba.org/feeds/ameli_lpp.xml"><img src="valid-atom.png" alt="[Valid Atom 1.0]" title="Valider le flux LPP" /></a> |
+| CCAM | [![CCAM](https://validator.w3.org/feed/images/valid-atom.png)](https://validator.w3.org/feed/check.cgi?url=https%3A//www.opikanoba.org/feeds/ameli_ccam.xml) |
+| UCD  | [![UCD](https://validator.w3.org/feed/images/valid-atom.png)](https://validator.w3.org/feed/check.cgi?url=https%3A//www.opikanoba.org/feeds/ameli_ucd.xml) |
+| LPP  | [![LPP](https://validator.w3.org/feed/images/valid-atom.png)](https://validator.w3.org/feed/check.cgi?url=https%3A//www.opikanoba.org/feeds/ameli_lpp.xml) |
+
 
 # Fonctionnement de la détection
 La détection de la présence d'une nouvelle version se fait par évaluation prédictive. 
