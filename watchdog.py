@@ -91,7 +91,7 @@ class WatchDog(versions.VersionDetector):
                 os.makedirs(self.data_conf['backup_dir'])
 
             dn = datetime.datetime.strftime(datetime.datetime.now(), "%Y%m%d")
-            fn = os.path.join(self.data_conf['backups_dir'], "{0}_{1}.html".format(dn, self.nomen.upper()))
+            fn = os.path.join(self.data_conf['backup_dir'], "{0}_{1}.html".format(dn, self.nomen.upper()))
 
             with open(fn, "w") as fout:
                 fout.write(content)

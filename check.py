@@ -44,7 +44,7 @@ def main():
     data_conf = {
         'download': 'download' in args.action,
         'ftp_config': args.dataftp,
-        'backup_dir': args.savedir if args.savedir else 'backup',
+        'backup_dir': args.backupdir if args.backupdir else 'backup',
         'download_dir': args.downdir if args.downdir else 'down'
     }
 
