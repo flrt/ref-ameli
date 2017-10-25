@@ -1,0 +1,18 @@
+{
+  "header":{
+    "title": "Versions du référentiel AMELI - LPP",
+    "subtitle": "Referentiel - Liste des produits et prestations",
+    "link" : "https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp",
+    "author": {"name":"Frederic LAURENT", "email":"frederic.laurent@gmail.com"},
+    "id":"http://www.opikanoba.org/feeds/ameli/lpp",
+    "category":"referentiel,ameli,LPP",
+    "feedname": "ameli_lpp.xml"
+  },
+  "entry" : {
+    "link_mask":"http://",
+    "urn_mask":"urn:ameli:lpp:v",
+    "title_mask" : "Version",
+    "content_mask": "Version"
+
+  }
+}

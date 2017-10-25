@@ -1,0 +1,15 @@
+{
+    "versions": [
+        {
+            "compl": "<div>\n    <h1>Informations sur la version 49</h1>\n    <p>Les informations relatives \u00e0 la version sont consultables dans le document <a\n            href=\"https://www.ameli.fr/fileadmin/user_upload/documents/Ccam_Note_V49.pdf\">de notes sur le site ameli.</a></p>\n</div>",
+            "date": "2017-10-24T15:34:58.046414+00:00",
+            "files": [
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART1.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART2.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART3.zip"
+            ],
+            "url": null,
+            "version": "49"
+        }
+    ]
+}

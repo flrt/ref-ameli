@@ -1,0 +1,18 @@
+{
+  "header":{
+    "title": "Versions du référentiel AMELI - UCD",
+    "subtitle": "Referentiel - Médicaments remboursables par l'Assurance Maladie",
+    "link" : "https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/medicaments",
+    "author": {"name":"Frederic LAURENT", "email":"frederic.laurent@gmail.com"},
+    "id":"https://www.opikanoba.org/feeds/ameli/ucd",
+    "category":"referentiel,ameli,UCD",
+    "feedname": "ameli_ucd.xml"
+  },
+  "entry" : {
+    "link_mask":"http://",
+    "urn_mask":"urn:ameli:ucd:v",
+    "title_mask" : "Version",
+    "content_mask": "Version"
+
+  }
+}

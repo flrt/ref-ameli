@@ -1,0 +1,17 @@
+{
+  "header":{
+    "title": "Versions du référentiel AMELI - CCAM",
+    "subtitle": "Referentiel - Le codage des actes médicaux - CCAM",
+    "link" : "https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/nomenclatures-codage/codage-actes-medicaux-ccam",
+    "author": {"name":"Frederic LAURENT", "email":"frederic.laurent@gmail.com"},
+    "id":"http://www.opikanoba.org/feeds/ameli/ccam",
+    "category":"referentiel,ameli,CCAM",
+    "feedname": "ameli_ccam.xml"
+  },
+  "entry" : {
+    "link_mask":"http://",
+    "urn_mask":"urn:ameli:ccam:v",
+    "title_mask" : "Version",
+    "content_mask": "Version"
+  }
+}

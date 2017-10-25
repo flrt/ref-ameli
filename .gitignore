@@ -1,0 +1,9 @@
+*.pyc
+__pycache__
+*.dbf
+*.xls
+*.zip
+.idea/
+.DS_Store
+backup/*.html
+myconf/

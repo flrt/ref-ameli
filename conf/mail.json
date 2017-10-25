@@ -1,0 +1,11 @@
+{
+  "server":"smtp.gmail.com",
+  "port":465,
+  "user":"TODO",
+  "passwd":"TODO",
+  "usessl":true,
+  "from":"TODO",
+  "to" : ["TODO"],
+  "subject":"Mise à jour du référentiel"
+
+}
