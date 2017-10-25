@@ -1,6 +1,8 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import datetime
 import logging
-import pprint
 import unittest
 
 import xlrd
@@ -8,56 +10,49 @@ import xlrd
 import helpers
 
 
-class TestRegex(unittest.TestXLS):
+class TestRegex(unittest.TestCase):
     def test_xls_extract_lpp_info(self):
         logger = logging.getLogger('tests')
-        filename=""
-        workbook = xlrd.open_workbook()
+        filename = "/opt/down/LPP_TDB466.xls"
+        workbook = xlrd.open_workbook(filename)
         all_worksheets = workbook.sheet_names()
-        logger.info(all_worksheets)
 
-        for worksheet_name in all_worksheets:
-            worksheet = workbook.sheet_by_name(worksheet_name)
-            logger.info(worksheet_name)
-            logger.info("Nb row : %d" % worksheet.nrows)
+        # test nb sheet
+        self.assertEqual(1, len(all_worksheets))
 
-        # for rownum in range(worksheet.nrows):
-        #    logger.debug(worksheet.row_values(rownum))
+        # test nom sheet
+        worksheet = workbook.sheet_by_index(0)
+        self.assertEqual('TBD', worksheet.name)
 
+        # test nb lignes significatives
+        self.assertEqual(487, worksheet.nrows)
 
-        version = 466
-        for rownum in range(workbook.sheet_by_index(0).nrows):
+        # version a examiner
+        version = 430
+
+        # recuperation des infos sur les versions
+        d = {}
+        for rownum in range(worksheet.nrows):
             vals = worksheet.row_values(rownum)
-            file_version = 0
+
             try:
-                file_version = int(vals[0])
+                d[int(vals[0])] = vals
             except:
                 pass
 
-            pp = pprint.PrettyPrinter(indent=4)
+        # 6 valeurs pour chaque version
+        self.assertEqual(6, len(d[version]))
 
-            if file_version == version:
-                for i in range(len(vals)):
-                    print("%d |%s|" % (i, vals[i]))
-                    if type(vals[i]) == type(""):
-                        strvals = list(filter(lambda x: len(x) > 0, vals[i].split('\n')))
-                        print(strvals)
-                    if type(vals[i]) == type(0.0):
-                        a1_as_datetime = datetime.datetime(*xlrd.xldate_as_tuple(vals[i], workbook.datemode))
-                        print(a1_as_datetime.strftime("%d-%m-%Y"))
+        # test du titre/chapitre
+        chap = d[version][1].replace('\n', ' ').strip()
+        self.assertEqual('T1 ch1 et ch2 T2 ch3 et ch7 T3 ch1 et ch4', chap)
 
-                compl = {'version': version,
-                         'titres_chapitres': vals[1].replace('\n', ' ').strip(),
-                         'dates_arretes': vals[2].replace('\n', ''),
-                         'date_jo': vals[3],
-                         'date_ameli': vals[4],
-                         'commentaire': vals[5].replace('\n', '').strip()}
-                pp.pprint(compl)
-
-                logger.info(compl)
+        # test de la date
+        date_as_datetime = datetime.datetime(*xlrd.xldate_as_tuple(d[version][3], workbook.datemode))
+        logger.info(date_as_datetime)
+        self.assertEqual('2016-12-13T00:00:00', date_as_datetime.isoformat(sep='T'))
 
 
 if __name__ == '__main__':
     loggers = helpers.stdout_logger(['tests'], logging.DEBUG)
-
     unittest.main()
