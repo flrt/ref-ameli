@@ -5,7 +5,7 @@
   <subtitle>Referentiel - Médicaments remboursables par l'Assurance Maladie</subtitle>
   <link href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/medicaments" rel="related"/>
   <link href="https://www.opikanoba.org/feeds/ameli_ucd.xml" rel="self"/>
-  <updated>2017-10-26T08:58:46.150728+00:00</updated>
+  <updated>2017-11-03T16:55:03.198512+00:00</updated>
   <author>
     <name>Frederic LAURENT</name>
     <email>frederic.laurent@gmail.com</email>
@@ -13,6 +13,39 @@
   <category term="referentiel,ameli,UCD"/>
   <generator uri="https://github.com/flrt" version="1.0">app</generator>
   <rights>CC BY-SA 3.0 FR</rights>
+  <entry>
+    <title>Version 383</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00383_20171103.dbf" rel="related" type="application/dbase"/>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00383_20171103.dbf" rel="related" type="application/dbase"/>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00383_20171103.dbf" rel="related" type="application/dbase"/>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00383_20171103.dbf" rel="related" type="application/dbase"/>
+    <id>urn:ameli:ucd:v383</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00383_20171103.dbf">http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00383_20171103.dbf</a>
+              </li>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00383_20171103.dbf">http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00383_20171103.dbf</a>
+              </li>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00383_20171103.dbf">http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00383_20171103.dbf</a>
+              </li>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00383_20171103.dbf">http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00383_20171103.dbf</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2017-11-03T16:55:02.786435+00:00</updated>
+    <summary>Version 383 disponible</summary>
+  </entry>
   <entry>
     <title>Version 382</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00382_20171025.dbf" rel="related" type="application/dbase"/>

@@ -30,7 +30,7 @@ Ce projet permet de
 # Fonctionnement de la détection
 La détection de la présence d'une nouvelle version se fait par évaluation prédictive. 
 En fonction des réféntiels la méthode est différente :
-- pour les LPP, le programme essaie d'accèder à la version suivante (par requete HTPP HEAD)
+- pour les LPP, le programme essaie d'accèder à la version suivante (par requete HTTP HEAD)
 - pour la CCAM et les UCD, le programme télécharge la page web et l'analyse à la recherche de liens faisant référence à la nouvelle version
 
 # Exécution du programme

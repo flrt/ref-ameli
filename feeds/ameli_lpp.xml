@@ -5,7 +5,7 @@
   <subtitle>Referentiel - Liste des produits et prestations</subtitle>
   <link href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp" rel="related"/>
   <link href="https://www.opikanoba.org/feeds/ameli_lpp.xml" rel="self"/>
-  <updated>2017-10-25T14:39:29.835719+00:00</updated>
+  <updated>2017-11-03T16:54:58.988221+00:00</updated>
   <author>
     <name>Frederic LAURENT</name>
     <email>frederic.laurent@gmail.com</email>
@@ -13,6 +13,73 @@
   <category term="referentiel,ameli,LPP"/>
   <generator uri="https://github.com/flrt" version="1.0">app</generator>
   <rights>CC BY-SA 3.0 FR</rights>
+  <entry>
+    <title>Version 468</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP468.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:lpp:v468</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP468.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP468.zip</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+            
+    
+            <h1>Informations sur la version 468</h1>
+            
+    
+            <p>Titre et chapitre visés par les textes réglementaires : </p>
+            
+    
+            <pre>
+TII Ch7
+TI Ch1
+TV Ch1
+TIII Ch1
+    </pre>
+            
+
+    
+            <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+            
+    
+            <pre>
+Arrêté du 20 octobtre 2017 - JO du 26/10/2017 - T9
+Arrêté du 23 octobre 2017 - JO du 26/10/2017 - T12
+Arrêté du 24 octobre 2017 - JO du 27/10/2017 - T11
+Arrêté du 25 octobre 2017 - JO du 27/10/2017 - T15
+Arrêté du 25 octobre 2017 - JO du 27/10/2017 - T17
+    </pre>
+            
+
+    
+            <p>
+              Date du JO le plus récent de la version : 
+              <em>27-10-2017</em>
+            </p>
+            
+    
+            <p>
+              Date de mise en ligne sur le site 
+              <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a>
+               : 
+              <em/>
+            </p>
+            
+
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2017-11-03T16:54:58.000659+00:00</updated>
+    <summary>Version 468 disponible</summary>
+  </entry>
   <entry>
     <title>Version 467</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP467.zip" rel="related" type="application/zip"/>

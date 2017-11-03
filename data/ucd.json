@@ -2,6 +2,18 @@
     "versions": [
         {
             "compl": null,
+            "date": "2017-11-03T16:55:02.786435+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00383_20171103.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00383_20171103.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00383_20171103.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00383_20171103.dbf"
+            ],
+            "url": null,
+            "version": "383"
+        },
+        {
+            "compl": null,
             "date": "2017-10-26T08:58:45.803232+00:00",
             "files": [
                 "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00382_20171025.dbf",
