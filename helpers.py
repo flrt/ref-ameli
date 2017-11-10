@@ -32,6 +32,7 @@ def load_json_config(config_filename):
             except TypeError:
                 return {}
 
+
 def make_error_logger(name, level, filename):
     """
         Création d'un Logger d'erreur

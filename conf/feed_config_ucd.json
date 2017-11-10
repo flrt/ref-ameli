@@ -6,7 +6,9 @@
     "author": {"name":"Frederic LAURENT", "email":"frederic.laurent@gmail.com"},
     "id":"https://www.opikanoba.org/feeds/ameli/ucd",
     "category":"referentiel,ameli,UCD",
-    "feedname": "ameli_ucd.xml"
+    "atom_feedname": "ameli_ucd.xml",
+    "rss2_feedname": "ameli_ucd.rss2"
+
   },
   "entry" : {
     "link_mask":"http://",
