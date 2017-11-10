@@ -5,7 +5,7 @@
   <subtitle>Referentiel - Le codage des actes médicaux - CCAM</subtitle>
   <link href="https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/nomenclatures-codage/codage-actes-medicaux-ccam" rel="related"/>
   <link href="https://www.opikanoba.org/feeds/ameli_ccam.xml" rel="self"/>
-  <updated>2017-10-24T15:34:58.361617+00:00</updated>
+  <updated>2017-11-09T16:00:02.412578+00:00</updated>
   <author>
     <name>Frederic LAURENT</name>
     <email>frederic.laurent@gmail.com</email>
@@ -13,6 +13,35 @@
   <category term="referentiel,ameli,CCAM"/>
   <generator uri="https://github.com/flrt" version="1.0">app</generator>
   <rights>CC BY-SA 3.0 FR</rights>
+  <entry>
+    <title>Version 50</title>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05000_DBF_PART1.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART2.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05000_DBF_PART3.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:ccam:v50</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05000_DBF_PART1.zip">https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05000_DBF_PART1.zip</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART2.zip">https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART2.zip</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05000_DBF_PART3.zip">https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05000_DBF_PART3.zip</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2017-11-09T16:00:02.078688+00:00</updated>
+    <summary>Version 50 disponible</summary>
+  </entry>
   <entry>
     <title>Version 49</title>
     <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART1.zip" rel="related" type="application/zip"/>
@@ -54,20 +83,5 @@
     </content>
     <updated>2017-10-24T15:34:58.046414+00:00</updated>
     <summary>Version 49 disponible</summary>
-  </entry>
-  <entry>
-    <title>Version 45</title>
-    <id>urn:ameli:ccam:v45</id>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <article>
-          <div>
-            <h1>Fichier à télécharger : </h1>
-          </div>
-        </article>
-      </div>
-    </content>
-    <updated>2017-09-29T18:30:02Z</updated>
-    <summary>Version 45 disponible</summary>
   </entry>
 </feed>
