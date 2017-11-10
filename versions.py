@@ -86,9 +86,9 @@ class VersionDetector:
                                             "compl": version["compl"]})
 
     def is_newer(self, infos):
-        return float(self.getCurrentVersion()) < float(infos["version"])
+        return float(self.get_current_version()) < float(infos["version"])
 
-    def getCurrentVersion(self):
+    def get_current_version(self):
         return self.last
 
     def fetch_data(self):

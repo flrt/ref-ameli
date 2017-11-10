@@ -6,7 +6,9 @@
     "author": {"name":"Frederic LAURENT", "email":"frederic.laurent@gmail.com"},
     "id":"http://www.opikanoba.org/feeds/ameli/lpp",
     "category":"referentiel,ameli,LPP",
-    "feedname": "ameli_lpp.xml"
+    "atom_feedname": "ameli_lpp.xml",
+    "rss2_feedname": "ameli_lpp.rss2"
+
   },
   "entry" : {
     "link_mask":"http://",

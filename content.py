@@ -10,9 +10,8 @@ __version__ = "1.0"
 __copyright__ = 'Copyright 2017, Frederic Laurent'
 __license__ = "MIT"
 
-import xml.etree.ElementTree
-from xml.dom import minidom
-from xml.etree.ElementTree import Element, SubElement
+import lxml.etree
+from lxml.etree import Element, SubElement
 
 
 def make_xhtml(root, entry):
@@ -41,7 +40,8 @@ def make_xhtml(root, entry):
             xmlelt(xmlelt(ul, "li"), "a", fi, {"href": fi})
 
     if "compl" in entry and entry["compl"]:
-        elt = xml.etree.ElementTree.fromstring(entry["compl"])
+        # elt = xml.etree.ElementTree.fromstring(entry["compl"])
+        elt = lxml.etree.fromstring(entry["compl"])
         article_elt.append(elt)
 
     return content_elt
@@ -54,9 +54,12 @@ def xml2text(elem, encoding='utf-8'):
     :param elem: noeud de l'arbre XML
     :return: Texte avec XML indenté
     """
-    rough_string = xml.etree.ElementTree.tostring(elem, encoding=encoding)
-    reparsed = minidom.parseString(rough_string)
-    return reparsed.toprettyxml(indent="  ")
+    # rough_string = xml.etree.ElementTree.tostring(elem, encoding=encoding)
+    # reparsed = minidom.parseString(rough_string)
+    # return reparsed.toprettyxml(indent="  ")
+
+    data = lxml.etree.tostring(elem, encoding=encoding, pretty_print=True, xml_declaration=True)
+    return data.decode(encoding)
 
 
 def xmlelt(root, tag, text=None, attrs=None):

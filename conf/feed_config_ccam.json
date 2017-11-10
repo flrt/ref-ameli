@@ -6,7 +6,9 @@
     "author": {"name":"Frederic LAURENT", "email":"frederic.laurent@gmail.com"},
     "id":"http://www.opikanoba.org/feeds/ameli/ccam",
     "category":"referentiel,ameli,CCAM",
-    "feedname": "ameli_ccam.xml"
+    "atom_feedname": "ameli_ccam.xml",
+    "rss2_feedname": "ameli_ccam.rss2"
+
   },
   "entry" : {
     "link_mask":"http://",

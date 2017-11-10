@@ -17,7 +17,9 @@ import codecs
 import datetime
 import logging
 import os.path
-from xml.etree.ElementTree import SubElement
+
+import lxml.etree
+from lxml.etree import SubElement
 
 import content
 import helpers
@@ -30,6 +32,7 @@ class Feed:
     """
     AMELI_ATOM_FEED_DIR = "feeds"
     AMELI_ATOM_CONFIG_DIR = "conf"
+    FEED_ENCODING = 'utf-8'
 
     def __init__(self, ref, selfhref=''):
         """
@@ -45,9 +48,10 @@ class Feed:
         self.selhref = selfhref
         self.feed_config = {}
         self.load_config()
-        self.feed_filename = os.path.join(Feed.AMELI_ATOM_FEED_DIR, self.feed_config["header"]["feedname"])
+        self.feed_filename = os.path.join(Feed.AMELI_ATOM_FEED_DIR, self.feed_config["header"]["atom_feedname"])
+        self.rss2_filename = os.path.join(Feed.AMELI_ATOM_FEED_DIR, self.feed_config["header"]["rss2_feedname"])
         self.update_date = datetime.datetime.now(datetime.timezone.utc).isoformat(sep='T')
-        self.logger.debug("Feed : %s" % self.feed_filename)
+        self.logger.debug("Feed : %s (RSS2 %s)" % (self.feed_filename, self.rss2_filename))
 
     def load_config(self):
         """
@@ -75,7 +79,7 @@ class Feed:
                        {"href": self.feed_config["header"]["link"],
                         "rel": "related"})
         content.xmlelt(root, "link", None,
-                       {"href": '{}{}'.format(self.selhref, self.feed_config["header"]["feedname"]),
+                       {"href": '{}{}'.format(self.selhref, self.feed_config["header"]["atom_feedname"]),
                         "rel": "self"})
 
         content.xmlelt(root, "updated", self.update_date)
@@ -143,7 +147,35 @@ class Feed:
         :param root: noeud XML
         :return: -
         """
-        self.logger.info("Save {0}".format(self.feed_filename))
-        encoding = 'utf-8'
-        with codecs.open(self.feed_filename, "w", encoding) as fout:
-            fout.write(content.xml2text(root, encoding))
+        self.logger.info("Save Atom {0}".format(self.feed_filename))
+        with codecs.open(self.feed_filename, "w", Feed.FEED_ENCODING) as fout:
+            fout.write(content.xml2text(root, Feed.FEED_ENCODING))
+
+    def rss2(self, feed):
+        """
+        Conversion du document atom en ficher rss2
+
+        :param feed: FIXME - a utiliser
+        :return: -
+        """
+        try:
+            import atomtorss2
+            import atomtorss2.xslt_ext
+
+            self.logger.info("Save RSS2 {0}".format(self.rss2_filename))
+
+            # XSL
+            filedir = os.path.dirname(os.path.abspath(atomtorss2.__file__))
+            xslt_filename = os.path.join(filedir, atomtorss2.DEFAULT_XSLT_FILE)
+
+            proc = atomtorss2.xslt_ext.DateFormatterProcessor()
+            proc.load_xslt(xslt_filename)
+
+            # conversion RSS2
+            result_xml = proc.transform(lxml.etree.parse(self.feed_filename))
+
+            with codecs.open(self.rss2_filename, "w", Feed.FEED_ENCODING) as fout:
+                fout.write(content.xml2text(result_xml, Feed.FEED_ENCODING))
+
+        except ImportError:
+            self.logger.warn("Pas de module de transformation atom -> rss2")

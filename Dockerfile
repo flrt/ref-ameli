@@ -8,3 +8,6 @@ RUN pip install html5lib
 RUN pip install bs4
 RUN pip install mailer
 RUN pip install xlrd
+RUN pip install arrow
+
+RUN git clone https://github.com/flrt/atom_to_rss2.git atomtorss2

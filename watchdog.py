@@ -30,6 +30,9 @@ class WatchDog(versions.VersionDetector):
     Analyse le changement et enchaine les actions necessaires
     """
 
+    def fetch_data(self):
+        raise Exception("DO implement")
+
     def __init__(self, nomen, feed_conf=None, data_conf=None, mail_conf=None):
         versions.VersionDetector.__init__(self, nomen)
         self.logger = logging.getLogger('%s_wd' % nomen)
@@ -56,6 +59,7 @@ class WatchDog(versions.VersionDetector):
                 updatedfeed = atom.Feed(self.nomen, selfhref=self.feed_conf['feed_base'])
                 feed = updatedfeed.generate(self.version)
                 updatedfeed.save(feed)
+                updatedfeed.rss2(feed)
 
                 if self.feed_conf['ftp_config']:
                     act = action.UploadAction(conf_filename=self.feed_conf['ftp_config'])
@@ -99,12 +103,12 @@ class WatchDog(versions.VersionDetector):
 
 class UCDWatchDog(WatchDog):
     def fetch_data(self):
-        self.logger.info("Fetch data... Current version  > %d ", self.getCurrentVersion())
+        self.logger.info("Fetch data... Current version  > %d ", self.get_current_version())
 
         baseurl = 'http://www.codage.ext.cnamts.fr'
         url2check = '/codif/bdm_it/index_tele_ucd.php'
 
-        infos = {'type': 'UCD', 'version': self.getCurrentVersion(),
+        infos = {'type': 'UCD', 'version': self.get_current_version(),
                  'date': datetime.datetime.now(datetime.timezone.utc).isoformat(sep='T'),
                  'url': None,
                  'files': [], 'compl': None}
@@ -158,13 +162,13 @@ class LPPWatchDog(WatchDog):
     """
 
     def fetch_data(self):
-        self.logger.info("Fetch data... Current version  > %d ", self.getCurrentVersion())
+        self.logger.info("Fetch data... Current version  > %d ", self.get_current_version())
 
-        infos = {'type': 'LPP', 'version': self.getCurrentVersion(),
+        infos = {'type': 'LPP', 'version': self.get_current_version(),
                  'date': datetime.datetime.now(datetime.timezone.utc).isoformat(sep='T'),
                  'url': None, 'files': [], 'compl': None}
 
-        test_version = self.getCurrentVersion() + 1
+        test_version = self.get_current_version() + 1
         url_ = 'http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP%d.zip' % test_version
 
         rcheck = requests.head(url_)
@@ -254,11 +258,11 @@ class LPPWatchDog(WatchDog):
 
 class CCAMWatchDog(WatchDog):
     def fetch_data(self):
-        self.logger.info("Fetch data... Current version  > %d ", self.getCurrentVersion())
+        self.logger.info("Fetch data... Current version  > %d ", self.get_current_version())
         baseurl = 'https://www.ameli.fr'
         url2check = '/accueil-de-la-ccam/telechargement/index.php'
 
-        infos = {'type': 'CCAM', 'version': self.getCurrentVersion(),
+        infos = {'type': 'CCAM', 'version': self.get_current_version(),
                  'date': datetime.datetime.now(datetime.timezone.utc).isoformat(sep='T'),
                  'url': None, 'files': [], 'compl': None}
 
