@@ -5,9 +5,11 @@
     test simple de l'action mail
 """
 
-import unittest
-import action
 import os.path
+import unittest
+
+import action
+
 
 class TestRegex(unittest.TestCase):
     def test_mail_conf(self):
