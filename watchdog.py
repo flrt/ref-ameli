@@ -63,7 +63,7 @@ class WatchDog(versions.VersionDetector):
 
                 if self.feed_conf['ftp_config']:
                     act = action.UploadAction(conf_filename=self.feed_conf['ftp_config'])
-                    act.process([updatedfeed.feed_filename])
+                    act.process([updatedfeed.feed_filename, updatedfeed.rss2_filename])
 
             files = []
             # telechargement des fichiers si configurés
