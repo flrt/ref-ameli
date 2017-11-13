@@ -59,7 +59,7 @@ class SendMailAction(Action):
 
     def __init__(self, conf_filename=None, conf=None, nomenclature=None):
         Action.__init__(self, conf_filename=conf_filename, conf=conf)
-        self.nomen = nomenclature
+        self.nomen = nomenclature if nomenclature is not None else ''
         self.logger.debug("Mail configuration : %s" % self.conf)
 
     def process(self, infos):
