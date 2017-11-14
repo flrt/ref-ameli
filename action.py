@@ -153,7 +153,7 @@ class UploadAction(Action):
         with FTP(self.conf["server"], self.conf["user"], self.conf["passwd"]) as ftp_cnx:
             ftp_cnx.cwd(self.conf["remotedir"])
             for filename in infos:
-                if os.path.exists(filename)
+                if os.path.exists(filename):
                     self.logger.debug("Upload file : %s -> %s" % (filename, os.path.basename(filename)))
                     fh = open(filename, 'rb')  # file to send
                     ftp_cnx.storbinary('STOR %s' % os.path.basename(filename), fh)  # send the file
