@@ -34,19 +34,49 @@ En fonction des réféntiels la méthode est différente :
 - pour la CCAM et les UCD, le programme télécharge la page web et l'analyse à la recherche de liens faisant référence à la nouvelle version
 
 # Exécution du programme
-Le programme fonctionne avec python 3 et s'éxécute dans un conteneur docker (il est largement possible de l'utiliser sans).
+Le programme fonctionne avec python 3 et peut être executer soit dans un envionnement python 3 classique, soit dans 1 conteneur docker.
+
+Le programme s'appuie sur un autre projet github pour la généreration des fichiers RSS2. Pour produire des fichiers RSS2, 
+il faut cloner [atom_to_rss2](/flrt/atom_to_rss2). Pour l'utiliser comme un module python, le nom est légèrement changé (nom sans les _):
+
+    $ git clone https://github.com/flrt/atom_to_rss2.git atomtorss2
+
+## Environnement sans docker
+Voir le fichier requirements.txt pour les librairies nécessaires.
+
+    $ git clone https://github.com/flrt/ref-ameli.git
+    $ cd ref-ameli
+    $ pip3 install -r requirements.txt
+    $ git clone https://github.com/flrt/atom_to_rss2.git atomtorss2
+    
+
+## Environnement avec docker
+Le programme s'éxécute dans un conteneur docker qu'il faut construire.
+
+    $ git clone https://github.com/flrt/ref-ameli.git
+    $ cd ref-ameli
+    $ git clone https://github.com/flrt/atom_to_rss2.git atomtorss2
 
 Pour construire le conteneur :
 
     $ docker build -t py_ameli .
 
-Pour le démarrer le conteneur : 
+Pour le démarrer (avec un mapping des répertoires dans le conteneur). Le conteneur est nommé "ameli_checker"
 
-    $ docker run -it --rm -v "$PWD":/opt -w /opt py_ameli /bin/bash
+    $ sh start_container.sh
 
-Pour lancer le programme python :
+### Exécution unitaire du programme
+Dans un contexte docker, 
 
-    $  python check.py -h
+    $ docker exec ameli_checker sh ./check_ref.sh lpp
+
+Pour lancer le programme python, soit le programme python est lancé au travers d'un prgramme shell
+    
+    $ sh ./check_ref.sh lpp
+    
+soit directement
+
+    $  python3 check.py -h
     usage: check.py [-h] [-a {feed,download}] [--feedbase FEEDBASE]
                 [--feedftp FEEDFTP] [--dataftp DATAFTP] [--mail MAIL]
                 [--backupdir BACKUPDIR] [--downdir DOWNDIR]
@@ -83,6 +113,9 @@ Exemple de ligne de commande pour vérifier si une nouvelle version LPP est disp
     --dataftp conf/ftp-data.json \
     --mail conf/mail.json \
     lpp
+
+
+
 
 # structure du projet
 - racine : fichiers python
