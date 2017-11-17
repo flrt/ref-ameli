@@ -90,8 +90,8 @@ class Feed:
         content.xmlelt(root, "category", None,
                        {"term": self.feed_config["header"]["category"]})
 
-        content.xmlelt(root, "generator", "app",
-                       {"uri": "https://github.com/flrt",
+        content.xmlelt(root, "generator", "python program - atom.py",
+                       {"uri": "https://github.com/flrt/ref-ameli",
                         "version": "1.0"})
         content.xmlelt(root, "rights", "CC BY-SA 3.0 FR")
 
