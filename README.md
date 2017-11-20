@@ -34,6 +34,30 @@ En fonction des réféntiels la méthode est différente :
 - pour la CCAM et les UCD, le programme télécharge la page web et l'analyse à la recherche de liens faisant référence à la nouvelle version
 
 # Exécution du programme
+
+## sans docker: TL;DR
+
+    $ git clone https://github.com/flrt/ref-ameli.git
+    $ cd ref-ameli
+    $ pip3 install -r requirements.txt
+    $ git clone https://github.com/flrt/atom_to_rss2.git atomtorss2
+	$ # creation d'un répertoire myconf en copiant/adaptant le repertoire conf
+	$ # édition du fichier check_ref.sh pour positionner l'URL de base des flux (paramètre --feedbase)
+	$ sh check_all.sh
+    
+## avec docker: TL;DR
+
+    $ git clone https://github.com/flrt/ref-ameli.git
+    $ cd ref-ameli
+    $ git clone https://github.com/flrt/atom_to_rss2.git atomtorss2
+	$ # creation d'un répertoire myconf en copiant/adaptant le repertoire conf
+	$ # édition du fichier check_ref.sh pour positionner l'URL de base des flux (paramètre --feedbase)
+	$ docker build -t py_ameli .
+	$ sh start_container.sh
+	$ sh check_all_docker.sh
+
+## Explications détaillées
+
 Le programme fonctionne avec python 3 et peut être executer soit dans un envionnement python 3 classique, soit dans 1 conteneur docker.
 
 Le programme s'appuie sur un autre projet github pour la généreration des fichiers RSS2. Pour produire des fichiers RSS2, 
@@ -41,7 +65,7 @@ il faut cloner [atom_to_rss2](/flrt/atom_to_rss2). Pour l'utiliser comme un modu
 
     $ git clone https://github.com/flrt/atom_to_rss2.git atomtorss2
 
-## Environnement sans docker
+### Environnement sans docker
 Voir le fichier requirements.txt pour les librairies nécessaires.
 
     $ git clone https://github.com/flrt/ref-ameli.git
@@ -50,7 +74,7 @@ Voir le fichier requirements.txt pour les librairies nécessaires.
     $ git clone https://github.com/flrt/atom_to_rss2.git atomtorss2
     
 
-## Environnement avec docker
+### Environnement avec docker
 Le programme s'éxécute dans un conteneur docker qu'il faut construire.
 
     $ git clone https://github.com/flrt/ref-ameli.git
@@ -65,7 +89,7 @@ Pour le démarrer (avec un mapping des répertoires dans le conteneur). Le conte
 
     $ sh start_container.sh
 
-### Exécution unitaire du programme
+#### Exécution unitaire du programme
 Dans un contexte docker, 
 
     $ docker exec ameli_checker sh ./check_ref.sh lpp
