@@ -320,3 +320,37 @@ class CCAMWatchDog(WatchDog):
             templ = fin.read()
             txt = templ.format(compl['version'], compl['pdf'])
             return txt
+
+class NABMWatchDog(WatchDog):
+    """
+    Ref NABM
+    Page : http://www.codage.ext.cnamts.fr/codif/nabm/index_tele_ucd.php
+    """
+    def fetch_data(self):
+        self.logger.info("Fetch data... Current version  > %d ", self.get_current_version())
+
+        infos = {'type': 'NABM', 'version': self.get_current_version(),
+                 'date': datetime.datetime.now(datetime.timezone.utc).isoformat(sep='T'),
+                 'url': None,
+                 'files': [], 'compl': None}
+
+        test_version = self.get_current_version() + 1
+        url_base = "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/"
+        nabm_files = ["NABM_FICHE_TOT%03d.dbf"%test_version,
+                      "NABM_HISTO_TOT%03d.dbf"%test_version,
+                      "NABM_INCOMP_TOT%03d.dbf"%test_version]
+
+        urltest = "{}{}".format(url_base, nabm_files[0])
+        self.logger.debug("Test URL {}".format(urltest))
+        rcheck = requests.head(urltest)
+        self.logger.debug("Test version %d code [%d] - %s", test_version, rcheck.status_code, rcheck.text)
+
+        if rcheck.status_code == 200:
+            infos["files"] = list(map(lambda x : "{}{}".format(url_base, x), nabm_files))
+            infos["version"] = str(test_version)
+
+            self.logger.warn(infos)
+        else:
+            self.logger.warn("Documents NABM numero {} non disponible [{}]".format(test_version, rcheck.status_code))
+
+        return infos
