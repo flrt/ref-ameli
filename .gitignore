@@ -5,6 +5,7 @@ __pycache__
 *.zip
 .idea/
 .DS_Store
+.vscode
 backup/*.html
 myconf/
 atomtorss2/
