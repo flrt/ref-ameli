@@ -2,6 +2,66 @@
     "versions": [
         {
             "compl": null,
+            "date": "2017-12-20T14:00:01.059120+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00389_20171220.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00389_20171220.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00389_20171220.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00389_20171220.dbf"
+            ],
+            "url": null,
+            "version": "389"
+        },
+        {
+            "compl": null,
+            "date": "2017-12-18T09:00:01.091114+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00388_20171215.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00388_20171215.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00388_20171215.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00388_20171215.dbf"
+            ],
+            "url": null,
+            "version": "388"
+        },
+        {
+            "compl": null,
+            "date": "2017-12-11T14:00:03.526656+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00387_20171211.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00387_20171211.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00387_20171211.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00387_20171211.dbf"
+            ],
+            "url": null,
+            "version": "387"
+        },
+        {
+            "compl": null,
+            "date": "2017-11-30T11:00:01.039224+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00386_20171130.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00386_20171130.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00386_20171130.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00386_20171130.dbf"
+            ],
+            "url": null,
+            "version": "386"
+        },
+        {
+            "compl": null,
+            "date": "2017-11-22T17:00:01.061643+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00385_20171122.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00385_20171122.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00385_20171122.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00385_20171122.dbf"
+            ],
+            "url": null,
+            "version": "385"
+        },
+        {
+            "compl": null,
             "date": "2017-11-08T14:00:05.088835+00:00",
             "files": [
                 "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00384_20171108.dbf",

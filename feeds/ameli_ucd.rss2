@@ -8,12 +8,142 @@
     <description>Referentiel - Médicaments remboursables par l'Assurance Maladie</description>
     <copyright>CC BY-SA 3.0 FR</copyright>
     <managingEditor>frederic.laurent@gmail.com (Frederic LAURENT)</managingEditor>
-    <pubDate>Wed, 08 Nov 2017 14:00:05 +0000</pubDate>
-    <lastBuildDate>Wed, 08 Nov 2017 14:00:05 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Dec 2017 14:00:02 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Dec 2017 14:00:02 +0000</lastBuildDate>
     <category>referentiel,ameli,UCD</category>
     <generator>XSL stylesheet - http://github.com/flrt/xsl_atom2rss2</generator>
-    <!--Atom feed generator : https://github.com/flrt-->
+    <!--Atom feed generator : https://github.com/flrt/ref-ameli-->
     <docs>https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/medicaments</docs>
+    <item>
+      <title>Version 389</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00389_20171220.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00389_20171220.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00389_20171220.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00389_20171220.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00389_20171220.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00389_20171220.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00389_20171220.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00389_20171220.dbf&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ucd:v389</guid>
+      <pubDate>Wed, 20 Dec 2017 14:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Version 388</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00388_20171215.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00388_20171215.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00388_20171215.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00388_20171215.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00388_20171215.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00388_20171215.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00388_20171215.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00388_20171215.dbf&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ucd:v388</guid>
+      <pubDate>Mon, 18 Dec 2017 09:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Version 387</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00387_20171211.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00387_20171211.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00387_20171211.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00387_20171211.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00387_20171211.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00387_20171211.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00387_20171211.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00387_20171211.dbf&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ucd:v387</guid>
+      <pubDate>Mon, 11 Dec 2017 14:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Version 386</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00386_20171130.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00386_20171130.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00386_20171130.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00386_20171130.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00386_20171130.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00386_20171130.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00386_20171130.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00386_20171130.dbf&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ucd:v386</guid>
+      <pubDate>Thu, 30 Nov 2017 11:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Version 385</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00385_20171122.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00385_20171122.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00385_20171122.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00385_20171122.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00385_20171122.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00385_20171122.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00385_20171122.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00385_20171122.dbf&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ucd:v385</guid>
+      <pubDate>Wed, 22 Nov 2017 17:00:01 +0000</pubDate>
+    </item>
     <item>
       <title>Version 384</title>
       <description>&lt;div&gt;
