@@ -1,0 +1,19 @@
+{
+  "header":{
+    "title": "Versions du référentiel AMELI - NABM",
+    "subtitle": "Referentiel - Le codage des actes de biologie - NABM",
+    "link" : "https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/nomenclatures-codage/codage-actes-biologiques-nabm",
+    "author": {"name":"Frederic LAURENT", "email":"frederic.laurent@gmail.com"},
+    "id":"http://www.opikanoba.org/feeds/ameli/nabm",
+    "category":"referentiel,ameli,NABM",
+    "atom_feedname": "ameli_nabm.xml",
+    "rss2_feedname": "ameli_nabm.rss2"
+
+  },
+  "entry" : {
+    "link_mask":"http://",
+    "urn_mask":"urn:ameli:nabm:v",
+    "title_mask" : "Version",
+    "content_mask": "Version"
+  }
+}
