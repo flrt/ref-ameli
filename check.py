@@ -11,6 +11,7 @@ __license__ = "MIT"
 
 import argparse
 import logging
+import sys
 
 import helpers
 import watchdog
@@ -21,7 +22,7 @@ def main():
     (*) Lien sur le lien autoréférencé dans ATOM : 
     https://www.feedvalidator.org/docs/warning/MissingAtomSelfLink.html ''')
 
-    parser.add_argument("ref", choices=['ucd', 'lpp', 'ccam'], help="referentiel : ucd | lpp | ccam")
+    parser.add_argument("ref", choices=['ucd', 'lpp', 'ccam', 'nabm'], help="referentiel : ucd | lpp | ccam | nabm")
     parser.add_argument("-a", "--action", action="append",
                         choices=['feed', 'download'],
                         help="""
@@ -37,6 +38,11 @@ def main():
 
     args = parser.parse_args()
 
+    if not args.action:
+        sys.stderr.write("## Erreur >> Aucune action définie !\n\n")
+        parser.print_help(sys.stderr)
+        sys.exit(1)
+
     feed_conf = {
         'ftp_config': args.feedftp,
         'feed_base': args.feedbase
@@ -48,7 +54,11 @@ def main():
         'download_dir': args.downdir if args.downdir else 'down'
     }
 
-    wd_class = {"ucd": watchdog.UCDWatchDog, "lpp": watchdog.LPPWatchDog, "ccam": watchdog.CCAMWatchDog}
+    wd_class = {"ucd": watchdog.UCDWatchDog,
+                "lpp": watchdog.LPPWatchDog,
+                "ccam": watchdog.CCAMWatchDog,
+                "nabm": watchdog.NABMWatchDog}
+
     instance = wd_class[args.ref](nomen=args.ref,
                                   feed_conf=feed_conf,
                                   data_conf=data_conf,
@@ -57,5 +67,5 @@ def main():
 
 
 if __name__ == "__main__":
-    loggers = helpers.stdout_logger(['ccam_wd', 'lpp_wd', 'ucd_wd', 'feed', 'action'], logging.INFO)
+    loggers = helpers.stdout_logger(['ccam_wd', 'lpp_wd', 'ucd_wd', 'nabm_wd', 'feed', 'action'], logging.DEBUG)
     main()
