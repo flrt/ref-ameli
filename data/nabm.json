@@ -1,0 +1,26 @@
+{
+    "versions": [
+        {
+            "compl": null,
+            "date": "2017-12-15T19:10:20.695088+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT046.dbf",
+                "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT046.dbf",
+                "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT046.dbf"
+            ],
+            "url": null,
+            "version": "46"
+        },
+        {
+            "compl": null,
+            "date": "2017-09-15T16:00:02.078688+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT045.dbf",
+                "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT045.dbf",
+                "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT045.dbf"
+            ],
+            "url": null,
+            "version": "45"
+        }
+    ]
+}
