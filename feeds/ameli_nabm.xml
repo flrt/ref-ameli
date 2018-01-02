@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://www.opikanoba.org/feeds/ameli/nabm</id>
+  <title>Versions du référentiel AMELI - NABM</title>
+  <subtitle>Referentiel - Le codage des actes de biologie - NABM</subtitle>
+  <link href="https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/nomenclatures-codage/codage-actes-biologiques-nabm" rel="related"/>
+  <link href="https://MYWEB.URL/feeds/ameli_nabm.xml" rel="self"/>
+  <updated>2017-12-15T19:10:20.814406+00:00</updated>
+  <author>
+    <name>Frederic LAURENT</name>
+    <email>frederic.laurent@gmail.com</email>
+  </author>
+  <category term="referentiel,ameli,NABM"/>
+  <generator uri="https://github.com/flrt/ref-ameli" version="1.0">python program - atom.py</generator>
+  <rights>CC BY-SA 3.0 FR</rights>
+  <entry>
+    <title>Version 46</title>
+    <link href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT046.dbf" rel="related" type="application/dbase"/>
+    <link href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT046.dbf" rel="related" type="application/dbase"/>
+    <link href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT046.dbf" rel="related" type="application/dbase"/>
+    <id>urn:ameli:nabm:v46</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT046.dbf">http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT046.dbf</a>
+              </li>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT046.dbf">http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT046.dbf</a>
+              </li>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT046.dbf">http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT046.dbf</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2017-12-15T19:10:20.695088+00:00</updated>
+    <summary>Version 46 disponible</summary>
+  </entry>
+  <entry>
+    <title>Version 45</title>
+    <link href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT045.dbf" rel="related" type="application/dbase"/>
+    <link href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT045.dbf" rel="related" type="application/dbase"/>
+    <link href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT045.dbf" rel="related" type="application/dbase"/>
+    <id>urn:ameli:nabm:v45</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT045.dbf">http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT045.dbf</a>
+              </li>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT045.dbf">http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT045.dbf</a>
+              </li>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT045.dbf">http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT045.dbf</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2017-09-15T16:00:02.078688+00:00</updated>
+    <summary>Version 45 disponible</summary>
+  </entry>
+</feed>
