@@ -12,11 +12,13 @@ Ce projet permet de
 - CCAM : [Classification Commune des Actes Médicaux](https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/nomenclatures-codage/codage-actes-medicaux-ccam)
 - UCD : [médicaments codés en Unités Communes de Dispensation](https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/medicaments)
 - LPP : [Liste des produits et prestations](https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp)
+- NABM : [Table Nationale de Biologie ](https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/nomenclatures-codage/codage-actes-biologiques-nabm)
 
 ## Flux ATOM XML
 - CCAM : [https://www.opikanoba.org/feeds/ameli_ccam.xml](https://www.opikanoba.org/feeds/ameli_ccam.xml)
 - UCD : [https://www.opikanoba.org/feeds/ameli_ucd.xml](https://www.opikanoba.org/feeds/ameli_ucd.xml)
 - LPP : [https://www.opikanoba.org/feeds/ameli_lpp.xml](https://www.opikanoba.org/feeds/ameli_lpp.xml)
+- NABM : [https://www.opikanoba.org/feeds/ameli_nabm.xml](https://www.opikanoba.org/feeds/ameli_nabm.xml)
 
 ## Validations W3C
 
@@ -25,6 +27,7 @@ Ce projet permet de
 | CCAM | [![CCAM](https://validator.w3.org/feed/images/valid-atom.png)](https://validator.w3.org/feed/check.cgi?url=https%3A//www.opikanoba.org/feeds/ameli_ccam.xml) |
 | UCD  | [![UCD](https://validator.w3.org/feed/images/valid-atom.png)](https://validator.w3.org/feed/check.cgi?url=https%3A//www.opikanoba.org/feeds/ameli_ucd.xml) |
 | LPP  | [![LPP](https://validator.w3.org/feed/images/valid-atom.png)](https://validator.w3.org/feed/check.cgi?url=https%3A//www.opikanoba.org/feeds/ameli_lpp.xml) |
+| NABM  | [![NABM](https://validator.w3.org/feed/images/valid-atom.png)](https://validator.w3.org/feed/check.cgi?url=https%3A//www.opikanoba.org/feeds/ameli_nabm.xml) |
 
 
 # Fonctionnement de la détection
@@ -107,7 +110,7 @@ soit directement
                 {ucd,lpp,ccam}
 
     positional arguments:
-        {ucd,lpp,ccam}        referentiel : ucd | lpp | ccam
+        {ucd,lpp,ccam}        referentiel : ucd | lpp | ccam | nabm
 
     optional arguments:
         -h, --help            show this help message and exit
