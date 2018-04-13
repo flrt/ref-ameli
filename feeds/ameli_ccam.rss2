@@ -3,23 +3,46 @@
   <channel>
     <!--Atom feed ID = http://www.opikanoba.org/feeds/ameli/ccam-->
     <title>Versions du référentiel AMELI - CCAM</title>
-    <atom:link href="https://www.opikanoba.org/feeds/ameli_ccam.rss2" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.opikanoba.org/feedsameli_ccam.rss2" rel="self" type="application/rss+xml"/>
     <link>https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/nomenclatures-codage/codage-actes-medicaux-ccam</link>
     <description>Referentiel - Le codage des actes médicaux - CCAM</description>
     <copyright>CC BY-SA 3.0 FR</copyright>
     <managingEditor>frederic.laurent@gmail.com (Frederic LAURENT)</managingEditor>
-    <pubDate>Thu, 09 Nov 2017 16:00:02 +0000</pubDate>
-    <lastBuildDate>Thu, 09 Nov 2017 16:00:02 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Apr 2018 15:14:54 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Apr 2018 15:14:54 +0000</lastBuildDate>
     <category>referentiel,ameli,CCAM</category>
     <generator>XSL stylesheet - http://github.com/flrt/xsl_atom2rss2</generator>
-    <!--Atom feed generator : https://github.com/flrt-->
+    <!--Atom feed generator : https://github.com/flrt/atom_gen-->
     <docs>https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/nomenclatures-codage/codage-actes-medicaux-ccam</docs>
     <item>
-      <title>Version 50</title>
+      <title>Nomenclature CCAM Version 51</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
-            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05100_DBF_PART1.zip"&gt;https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05100_DBF_PART1.zip&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05100_DBF_PART2.zip"&gt;https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05100_DBF_PART2.zip&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05100_DBF_PART3.zip"&gt;https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05100_DBF_PART3.zip&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ccam:v51</guid>
+      <pubDate>Thu, 29 Mar 2018 10:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature CCAM Version 50</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
             &lt;ul&gt;
               &lt;li&gt;
                 &lt;a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05000_DBF_PART1.zip"&gt;https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05000_DBF_PART1.zip&lt;/a&gt;
@@ -38,11 +61,11 @@
       <pubDate>Thu, 09 Nov 2017 16:00:02 +0000</pubDate>
     </item>
     <item>
-      <title>Version 49</title>
+      <title>Nomenclature CCAM Version 49</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
-            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
             &lt;ul&gt;
               &lt;li&gt;
                 &lt;a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART1.zip"&gt;https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART1.zip&lt;/a&gt;
@@ -56,18 +79,9 @@
             &lt;/ul&gt;
           &lt;/div&gt;
           &lt;div&gt;
-            
-    
-            &lt;h1&gt;Informations sur la version 49&lt;/h1&gt;
-            
-    
-            &lt;p&gt;
-              Les informations relatives à la version sont consultables dans le document 
-              &lt;a href="https://www.ameli.fr/fileadmin/user_upload/documents/Ccam_Note_V49.pdf"&gt;de notes sur le site ameli.&lt;/a&gt;
-            &lt;/p&gt;
-            
-
-          &lt;/div&gt;
+    &lt;h1&gt;Informations sur la version 49&lt;/h1&gt;
+    &lt;p&gt;Les informations relatives à la version sont consultables dans le document &lt;a href="https://www.ameli.fr/fileadmin/user_upload/documents/Ccam_Note_V49.pdf"&gt;de notes sur le site ameli.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
       <guid>urn:ameli:ccam:v49</guid>

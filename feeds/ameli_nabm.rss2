@@ -3,23 +3,23 @@
   <channel>
     <!--Atom feed ID = http://www.opikanoba.org/feeds/ameli/nabm-->
     <title>Versions du référentiel AMELI - NABM</title>
-    <atom:link href="https://MYWEB.URL/feeds/ameli_nabm.rss2" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.opikanoba.org/feedsameli_nabm.rss2" rel="self" type="application/rss+xml"/>
     <link>https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/nomenclatures-codage/codage-actes-biologiques-nabm</link>
     <description>Referentiel - Le codage des actes de biologie - NABM</description>
     <copyright>CC BY-SA 3.0 FR</copyright>
     <managingEditor>frederic.laurent@gmail.com (Frederic LAURENT)</managingEditor>
-    <pubDate>Fri, 15 Dec 2017 19:10:20 +0000</pubDate>
-    <lastBuildDate>Fri, 15 Dec 2017 19:10:20 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Apr 2018 15:06:44 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Apr 2018 15:06:44 +0000</lastBuildDate>
     <category>referentiel,ameli,NABM</category>
     <generator>XSL stylesheet - http://github.com/flrt/xsl_atom2rss2</generator>
-    <!--Atom feed generator : https://github.com/flrt/ref-ameli-->
+    <!--Atom feed generator : https://github.com/flrt/atom_gen-->
     <docs>https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/nomenclatures-codage/codage-actes-biologiques-nabm</docs>
     <item>
-      <title>Version 46</title>
+      <title>Nomenclature NABM Version 46</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
-            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
             &lt;ul&gt;
               &lt;li&gt;
                 &lt;a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT046.dbf"&gt;http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT046.dbf&lt;/a&gt;
@@ -38,11 +38,11 @@
       <pubDate>Fri, 15 Dec 2017 19:10:20 +0000</pubDate>
     </item>
     <item>
-      <title>Version 45</title>
+      <title>Nomenclature NABM Version 45</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
-            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
             &lt;ul&gt;
               &lt;li&gt;
                 &lt;a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT045.dbf"&gt;http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT045.dbf&lt;/a&gt;

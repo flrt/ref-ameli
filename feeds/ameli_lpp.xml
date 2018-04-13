@@ -4,19 +4,664 @@
   <title>Versions du référentiel AMELI - LPP</title>
   <subtitle>Referentiel - Liste des produits et prestations</subtitle>
   <link href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp" rel="related"/>
-  <link href="https://www.opikanoba.org/feeds/ameli_lpp.xml" rel="self"/>
-  <updated>2017-12-28T15:00:01.077113+00:00</updated>
+  <link href="https://www.opikanoba.org/feedsameli_lpp.xml" rel="self"/>
+  <updated>2018-04-13T15:15:23.213903+00:00</updated>
   <author>
     <name>Frederic LAURENT</name>
     <email>frederic.laurent@gmail.com</email>
   </author>
   <category term="referentiel,ameli,LPP"/>
-  <generator uri="https://github.com/flrt/ref-ameli" version="1.0">python program - atom.py</generator>
+  <generator uri="https://github.com/flrt/atom_gen" version="1.0">python program - atom.py</generator>
   <rights>CC BY-SA 3.0 FR</rights>
   <entry>
-    <title>Version 474</title>
+    <title>Nomenclature LPP Version 489</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP489.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:lpp:v489</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP489.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP489.zip</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 489</h1>
+    <p>Titre et chapitre visés par les textes réglementaires : </p>
+    <pre>
+TII Ch7 RADIATIONS
+TIII Ch1 RADIATIONS
+    </pre>
+
+    <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+    <pre>
+Arrêté du 28 mars 2018 - (JO du 04/04/2018-T14)
+Arrêté du 4 avril 2018 - (JO du 06/04/2018-T11)
+    </pre>
+
+    <p>Date du JO le plus récent de la version : <em>06-04-2018</em></p>
+    <p>Date de mise en ligne sur le site <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a> : <em/></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-04-11T16:49:48.480577+00:00</updated>
+    <summary>Version 489 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature LPP Version 488</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP488.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:lpp:488</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP488.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP488.zip</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 488</h1>
+    <p>Titre et chapitre visés par les textes réglementaires : </p>
+    <pre>
+ RECTIF PRIX 
+TI Ch1 NOVALAC 
+TI Ch2 CAIRFLOW
+TI Ch1 MINIMED
+TIII Ch1 LIBERTY
+TIII Ch1 IMPLANTS MAMAIRES 
+TIII Ch1 CUSTOMBONE
+TIII Ch1 RADIATIONS
+    </pre>
+
+    <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+    <pre>
+Rectification du  prix de cession et du prix PLV TTC au 01/0/2018 du code 1121941 - (JO du 20/10/2017-T128)
+Arrêté du 23 mars 2018 - (JO du 29/03/2018-T15-T138)
+ Arrêté du 23 mars 2018 - (JO du 30/03/2018-T11-T158)
+ Arrêté du 23 mars 2018 - (JO du 30/03/2018-T12)
+Arrêté du 23 mars 2018 -  (JO du 30/03/2018-T13-T159)
+Arrêté du 23 mars 2018 - (JO du 30/03./2018-T15-T160)
+Arrêté du 23 mars 2018 - (JO du 30/03/2018-T17)
+Arrêté du 28 mars 2018 - (JO du 30/03/2018-T25)
+    </pre>
+
+    <p>Date du JO le plus récent de la version : <em>30-03-2018</em></p>
+    <p>Date de mise en ligne sur le site <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a> : <em/></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-04-05T17:00:01.584592+00:00</updated>
+    <summary>Version 488 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature LPP Version 487</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP487.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:lpp:487</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP487.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP487.zip</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 487</h1>
+    <p>Titre et chapitre visés par les textes réglementaires : </p>
+    <pre>
+TIII Ch2 CEMSTOP
+TIII Ch2 ENDOBON
+TII Ch4 ORTHESES
+TI Ch1 PERFUSION
+TIV Ch2 INVACARE
+TIV Ch3 ALBER VIAMOBIL
+TIV ALBER VIAPLUS
+    </pre>
+
+    <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+    <pre>
+Arrêté du 14 mars 2018 - (JO du 20/03/2018-T15)
+Arrêté du 14 mars 2018 - (JO du 20/03/2018-T16)
+Arrêté du 14 mars 2018 - (JO du 20/03/2018-T17-T92-T93)
+Arrêté du 14 mars 2018 - (JO du 20/03/2018-T18-T94)
+Arrêté du 14 mars 2018 - (JO du 23/03/2018-T21-T116)
+Arrêté du 21 mars 2018 - (JO du 23/03/2018-T22-T114)
+Arrêté du 21 mars 2018 - (JO du 23/03/2018-T23-T115)
+    </pre>
+
+    <p>Date du JO le plus récent de la version : <em>23-03-2018</em></p>
+    <p>Date de mise en ligne sur le site <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a> : <em/></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-03-28T17:00:01.365710+00:00</updated>
+    <summary>Version 487 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature LPP Version 486</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP486.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:lpp:486</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP486.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP486.zip</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 486</h1>
+    <p>Titre et chapitre visés par les textes réglementaires : </p>
+    <pre>
+TIII Ch1 VLIFT
+TIII Ch1 ETHICON
+TIII Ch1 ORBIT 
+TI Ch1 VISMED 
+TI Ch1 HYLOVIS 
+    </pre>
+
+    <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+    <pre>
+arrêté du 12 mars 2018 portant modification des conditions d’inscription de l’implant de reconstruction corporéale VLIFT JO du 15/03/2018-T36-T132
+arrêté du 12 mars 2018 portant changement de dénomination sociale pour certains dispositifs médicaux des sociétés ETHICON et DEPUY et portant changement de dénomination commerciale de la division CODMAN JO du 15/03/2018-T38
+arrêté du 12 mars 2018 portant renouvellement d’inscription de l’implant d’embolisation artérielle ORBIT GALAXY JO du 15/03/2018-T39
+arrêté du 12 mars 2018 portant modification des conditions d’inscription de la solution pour usage ophtalmique VISMED MULTI 15 ml JO du 15/03/2018-T40
+arrêté du 12 mars 2018 portant modification des conditions d’inscription de la solution pour usage ophtalmique HYLOVIS MULTI 15 ml JO du 15/03/2018-T41
+    </pre>
+
+    <p>Date du JO le plus récent de la version : <em>15-03-2018</em></p>
+    <p>Date de mise en ligne sur le site <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a> : <em/></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-03-27T14:00:01.289175+00:00</updated>
+    <summary>Version 486 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature LPP Version 485</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP485.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:lpp:485</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP485.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP485.zip</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 485</h1>
+    <p>Titre et chapitre visés par les textes réglementaires : </p>
+    <pre>
+RECTIF PRESTATION
+PRIX AU 01/01/2018 
+RECTIF MAJORATION
+TIII Ch 2
+TIII Ch 4 
+    </pre>
+
+    <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+    <pre>
+Rectification de la prestation erronée des codes 2289571, 1158973 et 1162590
+Avis relatif à la tarification au 01/01/2018 du pied à restitution d’énergie de classe III XTEND FOOT H100 - JO du 12/12/2017-T98
+RECTIF MAJO Pour La Réunion des codes 1349727 et 1395526
+Arrêté du 2 mars 2018 - JO du 08/03/2018-T27
+Arrêté du 6 mars 2018 - JO du 08/03/2018-T35-T36-T129
+    </pre>
+
+    <p>Date du JO le plus récent de la version : <em>08-03-2018</em></p>
+    <p>Date de mise en ligne sur le site <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a> : <em/></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-03-22T15:00:02.021200+00:00</updated>
+    <summary>Version 485 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature LPP Version 484</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP484.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:lpp:484</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP484.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP484.zip</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 484</h1>
+    <p>Titre et chapitre visés par les textes réglementaires : </p>
+    <pre>
+
+    </pre>
+
+    <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+    <pre>
+Avis relatif à la tarification de MITRACLIP et MITRACLIP NT visés à l’article L. 165-1 de la sécurité sociale (JO du 14/02/2018-T134)
+    </pre>
+
+    <p>Date du JO le plus récent de la version : <em>20-02-2018</em></p>
+    <p>Date de mise en ligne sur le site <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a> : <em/></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-03-07T15:00:01.325907+00:00</updated>
+    <summary>Version 484 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature LPP Version 483</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP483.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:lpp:483</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP483.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP483.zip</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 483</h1>
+    <p>Titre et chapitre visés par les textes réglementaires : </p>
+    <pre>
+TICh1
+TICh2
+    </pre>
+
+    <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+    <pre>
+Arrêté du 14 février 2018 - JO du 20/02/2018-T10-T103
+Arrêté du 14 février 2018  - JO du 20/02/2018-T11-T104
+Arrêté du 14 février 2018 - JO du 20/02/2018-T12-T106
+Arrêté du 14 février 2018 - JO du 20/02/2018-T13-T105
+    </pre>
+
+    <p>Date du JO le plus récent de la version : <em>20-02-2018</em></p>
+    <p>Date de mise en ligne sur le site <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a> : <em/></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-03-01T15:00:01.203812+00:00</updated>
+    <summary>Version 483 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature LPP Version 482</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP482.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:lpp:482</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP482.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP482.zip</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 482</h1>
+    <p>Titre et chapitre visés par les textes réglementaires : </p>
+    <pre>
+PRIX AU 26/02/2018
+TIII Ch4 
+PRIX AU 01/03/2018
+ TIII Ch1 
+TII Ch4 
+TI Ch1 
+    </pre>
+
+    <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+    <pre>
+Avis relatif à la fixation de tarifs et de prix limites de vente au public - JO du 16/12/2017-T126
+Arrêté du 6 février 2018 - JO du 13/02/2018-T10-T67
+Avis relatif à la tarification de MITRACLIP et MITRACLIP NT - JO du 14/02/2018-T134
+Arrêté du 12 février 2018 - JO du 15/02/2018-T13
+Arrêté du 12 février 2018 - JO du 15/02/2018-T14
+Arrêté du 12 février 2018 - JO du 15/02/2018-T16-T142
+Arrêté du 12 février 2018 - JO du 15/02/2018-T20-T141                                            
+Arrêté du 13 février 2018 - JO du 16/02/2018-T14-T98
+Arrêté du 13 février 2018 - JO du 16/02/2018-T16-T99
+Arrêté du 13 février 2018 - JO du 16/02/2018-T18-T100
+    </pre>
+
+    <p>Date du JO le plus récent de la version : <em>16-02-2018</em></p>
+    <p>Date de mise en ligne sur le site <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a> : <em/></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-02-26T18:00:01.220188+00:00</updated>
+    <summary>Version 482 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature LPP Version 481</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP481.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:lpp:481</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP481.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP481.zip</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 481</h1>
+    <p>Titre et chapitre visés par les textes réglementaires : </p>
+    <pre>
+TIII Ch1 
+TIII Ch1  
+TII Ch2
+    </pre>
+
+    <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+    <pre>
+BOLTON Arrêté du 2 février 2018 - JO du 06/02/2018-T63
+« PRIX 20/02/2018 » - JO du 07/02/2018-T124
+CONFORMABLE » - Arrêté du 2 février 2018 -JO du 08/02/2018-T17
+COREVALVE - Arrêté du 8 février 2018 - JO du 09/02/2018-T45-T124
+    </pre>
+
+    <p>Date du JO le plus récent de la version : <em>09-02-2018</em></p>
+    <p>Date de mise en ligne sur le site <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a> : <em/></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-02-15T18:00:01.518544+00:00</updated>
+    <summary>Version 481 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature LPP Version 480</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP480.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:lpp:480</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP480.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP480.zip</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 480</h1>
+    <p>Titre et chapitre visés par les textes réglementaires : </p>
+    <pre>
+
+    </pre>
+
+    <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+    <pre>
+Suppression d’un historique erroné pour le code 3180468
+Arrêté du 29 janvier 2018 portant inscription du système de télésurveillance LATITUDE NXT pour défibrillateur cardiaque automatique implantable à sonde sous-cutanée EMBLEM de la société BOSTON SCIENTIFIC SAS au titre III de la liste des produits et prestations remboursables prévue à l’article L. 165-1 du code de la sécurité sociale (JO du 01/02/2018-T25)
+    </pre>
+
+    <p>Date du JO le plus récent de la version : <em>01-02-2018</em></p>
+    <p>Date de mise en ligne sur le site <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a> : <em/></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-02-07T18:00:01.754793+00:00</updated>
+    <summary>Version 480 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature LPP Version 479</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP479.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:lpp:479</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP479.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP479.zip</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 479</h1>
+    <p>Titre et chapitre visés par les textes réglementaires : </p>
+    <pre>
+TIII Ch1                                                          
+    </pre>
+
+    <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+    <pre>
+ANACONDA - Arrêté du 22 janvier 2018 - JO du 24/01/2018-T20-T117
+PRIX 2742214- Avis relatif à la tarification du pied à variante prothétique - JO du 24/01/2018-T123
+ Avis relatif à la tarification de l’endoprothèse aortique abdominale - JO du 25/01/2018-T96
+    </pre>
+
+    <p>Date du JO le plus récent de la version : <em>25-01-2018</em></p>
+    <p>Date de mise en ligne sur le site <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a> : <em/></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-02-02T18:00:01.631163+00:00</updated>
+    <summary>Version 479 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature LPP Version 478</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP478.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:lpp:478</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP478.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP478.zip</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 478</h1>
+    <p>Titre et chapitre visés par les textes réglementaires : </p>
+    <pre>
+TIII Ch1 
+                                                         
+    </pre>
+
+    <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+    <pre>
+MAJ REUNION  Ajout de la majoration sur deux codes PAN 
+PRIX AU 01/02/2018 - Avis relatif à la tarification de AIR  - JO du 29/12/2017-T158
+Décision du 12 janvier 2018 - JO du 16/01/2018-T5
+Avis relatif à la tarification des implants méniscaux - JO du 16/01/2018-T112
+Avis relatif à la baisse de certains implants orthopédiques  - JO du 17/01/2018-T110
+Arrêté du 12 janvier 2018 - JO du 16/01/2018-T4
+Arrêté du 15 janvier 2018 - JO du 18/01/2018-T22-T122
+Arrêté du 15 janvier 2018 - JO du 19/01/2018-T13
+Avis relatif à la tarification de NEW-FILL - JO du 19/01/2018-T96
+    </pre>
+
+    <p>Date du JO le plus récent de la version : <em>25-01-2018</em></p>
+    <p>Date de mise en ligne sur le site <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a> : <em>25-01-2018</em></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-01-26T15:00:01.263694+00:00</updated>
+    <summary>Version 478 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature LPP Version 477</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP477.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:lpp:477</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP477.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP477.zip</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 477</h1>
+    <p>Titre et chapitre visés par les textes réglementaires : </p>
+    <pre>
+TII Ch4 
+TII Ch7
+TIII Ch2                                                           TII Ch7
+    </pre>
+
+    <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+    <pre>
+Rectification de la prestation erronée de 14 codes PPC : service au lieu de achat
+Arrêté du 4 janvier 2018  - JO du 09/01/2018-T14
+- Arrêté du 4 janvier 2018  - JO du 09/01/2018-T15-T47
+Arrêté du 4 janvier 2018  - JO du 09/01/2018-T16)
+Arrêté du 10 janvier 2018  -JO du 12/01/2018-T13-T130
+    </pre>
+
+    <p>Date du JO le plus récent de la version : <em>12-01-2018</em></p>
+    <p>Date de mise en ligne sur le site <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a> : <em/></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-01-16T18:00:01.522801+00:00</updated>
+    <summary>Version 477 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature LPP Version 476</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP476.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:lpp:476</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP476.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP476.zip</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 476</h1>
+    <p>Titre et chapitre visés par les textes réglementaires : </p>
+    <pre>
+TII Ch7
+TIII Ch4
+TIII Ch1
+    </pre>
+
+    <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+    <pre>
+Arrêté du 21 décembre 2017 - JO du 27/12/2017-T19-T231
+Arrêté du 21 décembre 2017 - JO du 27/12/2017- T20-T234
+Avis relatif à la tarification de l’endoprothèse aortique abdominale - JO du 27/12/2017- T233
+Arrêté du 21 décembre 2017 - JO du 29/12/2017-T52
+Arrêté du 21 décembre 2017 - JO du 29/12/2017-T53
+    </pre>
+
+    <p>Date du JO le plus récent de la version : <em>29-12-2017</em></p>
+    <p>Date de mise en ligne sur le site <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a> : <em/></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-01-09T10:00:01.189187+00:00</updated>
+    <summary>Version 476 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature LPP Version 475</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP475.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:lpp:475</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP475.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP475.zip</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 475</h1>
+    <p>Titre et chapitre visés par les textes réglementaires : </p>
+    <pre>
+RECTIF 3422730
+TIII CH1
+TII CH7
+TI CH3
+TV CH2
+    </pre>
+
+    <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+    <pre>
+ 
+Avis relatif à la tarification de AEQUSVAL -  (JO du 24/11/2017-T146)
+Avis modifiant l’avis relatif à la fixation des prix de cession, des tarifs et des prix limites de vente au public en euros TTC des pansements anatomiques sociale (JO du 26/07/2016-T75)
+Avis relatif à la tarification des pansements IALUSET (JO du 22/02/2017-T73)
+RECTIFICATION LIBELLE 3422730 
+Arrêté du 13 décembre 2017  - (JO du 16/12/2017-T27-T126)
+  Arrêté du 15 décembre 2017  - (JO du 19/12/2017-T33)
+ Arrêté du 15 décembre 2017 -  (JO du 19/12/2017-T36)
+Arrêté du 15 décembre 2017   - (JO du 20/12/2017-T24-T120)
+     Arrêté du 15 décembre 2017 - (JO du 20/12/2017-T23-T121)
+ Arrêté du 20 décembre 2017  -(JO du 22/12/2017-T44-T173)
+    </pre>
+
+    <p>Date du JO le plus récent de la version : <em>22-12-2017</em></p>
+    <p>Date de mise en ligne sur le site <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a> : <em/></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-01-04T17:51:11.004916+00:00</updated>
+    <summary>Version 475 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature LPP Version 474</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP474.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v474</id>
+    <id>urn:ameli:lpp:474</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -66,9 +711,9 @@ Avis relatif à la tarification des pieds à restitution d’énergie  - JO du 1
     <summary>Version 474 disponible</summary>
   </entry>
   <entry>
-    <title>Version 473</title>
+    <title>Nomenclature LPP Version 473</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP473.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v473</id>
+    <id>urn:ameli:lpp:473</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -111,9 +756,9 @@ Rectification du taux de majoration pour La Réunion pour les 12 codes passés d
     <summary>Version 473 disponible</summary>
   </entry>
   <entry>
-    <title>Version 472</title>
+    <title>Nomenclature LPP Version 472</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP472.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v472</id>
+    <id>urn:ameli:lpp:472</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -157,9 +802,9 @@ Arrêté du 29 novembre 2017  - JO du 01/12/2017-T23
     <summary>Version 472 disponible</summary>
   </entry>
   <entry>
-    <title>Version 471</title>
+    <title>Nomenclature LPP Version 471</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP471.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v471</id>
+    <id>urn:ameli:lpp:471</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -205,9 +850,9 @@ Avis relatif à la tarification de AEQUASYAL  - JO du 24/11/2017-T146
     <summary>Version 471 disponible</summary>
   </entry>
   <entry>
-    <title>Version 470</title>
+    <title>Nomenclature LPP Version 470</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP470.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v470</id>
+    <id>urn:ameli:lpp:470</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -241,9 +886,9 @@ Arrêté du 9 novembre 2017 - JO du 14/11/2017 – T35
     <summary>Version 470 disponible</summary>
   </entry>
   <entry>
-    <title>Version 469</title>
+    <title>Nomenclature LPP Version 469</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP469.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v469</id>
+    <id>urn:ameli:lpp:469</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -292,9 +937,9 @@ Arrêté du 31 octobre 2017 - JO du 03/11/2017 – T20
     <summary>Version 469 disponible</summary>
   </entry>
   <entry>
-    <title>Version 468</title>
+    <title>Nomenclature LPP Version 468</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP468.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v468</id>
+    <id>urn:ameli:lpp:468</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -335,9 +980,9 @@ Arrêté du 25 octobre 2017 - JO du 27/10/2017 - T17
     <summary>Version 468 disponible</summary>
   </entry>
   <entry>
-    <title>Version 467</title>
+    <title>Nomenclature LPP Version 467</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP467.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v467</id>
+    <id>urn:ameli:lpp:467</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -382,9 +1027,9 @@ Avis relatif à la tarification des aliments MODULEN IBD, IMPACT ENTERAL, ORAL I
     <summary>Version 467 disponible</summary>
   </entry>
   <entry>
-    <title>Version 466</title>
+    <title>Nomenclature LPP Version 466</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP466.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v466</id>
+    <id>urn:ameli:lpp:466</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -419,9 +1064,9 @@ Avis relatif à la tarification de VIATORR TIPS visé à l’article L. 165-1 du
     <summary>Version 466 disponible</summary>
   </entry>
   <entry>
-    <title>Version 465</title>
+    <title>Nomenclature LPP Version 465</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP465.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v465</id>
+    <id>urn:ameli:lpp:465</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -462,9 +1107,9 @@ Arrêté du 3 octobre 2017 - JO du 06/10/2017 – T20
     <summary>Version 465 disponible</summary>
   </entry>
   <entry>
-    <title>Version 464</title>
+    <title>Nomenclature LPP Version 464</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP464.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v464</id>
+    <id>urn:ameli:lpp:464</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -507,9 +1152,9 @@ JO du 06/12/2016 T186
     <summary>Version 464 disponible</summary>
   </entry>
   <entry>
-    <title>Version 463</title>
+    <title>Nomenclature LPP Version 463</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP463.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v463</id>
+    <id>urn:ameli:lpp:463</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -550,9 +1195,9 @@ Avis de fixation de tarifs et de prix limites de vente au public (PLV) du forfai
     <summary>Version 463 disponible</summary>
   </entry>
   <entry>
-    <title>Version 462</title>
+    <title>Nomenclature LPP Version 462</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP462.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v462</id>
+    <id>urn:ameli:lpp:462</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -590,9 +1235,9 @@ Arrêté du 29 août 2017 - JO du 01/09/2017 – T 12
     <summary>Version 462 disponible</summary>
   </entry>
   <entry>
-    <title>Version 461</title>
+    <title>Nomenclature LPP Version 461</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP461.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v461</id>
+    <id>urn:ameli:lpp:461</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -643,9 +1288,9 @@ Arrêté du 4 août 2017 - JO du 17/08/2017 – T 27
     <summary>Version 461 disponible</summary>
   </entry>
   <entry>
-    <title>Version 460</title>
+    <title>Nomenclature LPP Version 460</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP460.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v460</id>
+    <id>urn:ameli:lpp:460</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -687,9 +1332,9 @@ Arrêté du 28 juillet 2017 - JO du 02/08/2017 – T 17
     <summary>Version 460 disponible</summary>
   </entry>
   <entry>
-    <title>Version 459</title>
+    <title>Nomenclature LPP Version 459</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP459.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v459</id>
+    <id>urn:ameli:lpp:459</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -727,9 +1372,9 @@ Avis relatif tarif du dispositif de réhabilitation de mobilité mandibulaire - 
     <summary>Version 459 disponible</summary>
   </entry>
   <entry>
-    <title>Version 458</title>
+    <title>Nomenclature LPP Version 458</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP458.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v458</id>
+    <id>urn:ameli:lpp:458</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -769,9 +1414,9 @@ Arrêté du 18 juillet 2017 - JO du 20/07/2017 – T 23                         
     <summary>Version 458 disponible</summary>
   </entry>
   <entry>
-    <title>Version 457</title>
+    <title>Nomenclature LPP Version 457</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP457.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v457</id>
+    <id>urn:ameli:lpp:457</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -811,9 +1456,9 @@ Arrêté du 7 juillet 2017 - JO du 12/07/2017 T19
     <summary>Version 457 disponible</summary>
   </entry>
   <entry>
-    <title>Version 456</title>
+    <title>Nomenclature LPP Version 456</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP456.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v456</id>
+    <id>urn:ameli:lpp:456</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -871,9 +1516,9 @@ Arrêté du 4 juillet 2017 - JO du 07/07/2017 T22
     <summary>Version 456 disponible</summary>
   </entry>
   <entry>
-    <title>Version 455</title>
+    <title>Nomenclature LPP Version 455</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP455.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v455</id>
+    <id>urn:ameli:lpp:455</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -921,9 +1566,9 @@ Arrêté du 3 mai 2017 - JO du 05/05/2017 T70 – Art.2
     <summary>Version 455 disponible</summary>
   </entry>
   <entry>
-    <title>Version 454</title>
+    <title>Nomenclature LPP Version 454</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP454.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v454</id>
+    <id>urn:ameli:lpp:454</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -965,9 +1610,9 @@ Avis relatif aux tarifs - JO du 15/06/2017 T139
     <summary>Version 454 disponible</summary>
   </entry>
   <entry>
-    <title>Version 453</title>
+    <title>Nomenclature LPP Version 453</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP453.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v453</id>
+    <id>urn:ameli:lpp:453</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1001,9 +1646,9 @@ Arrêté du 12 juin 2017 - JO du 14/06/2017 T9
     <summary>Version 453 disponible</summary>
   </entry>
   <entry>
-    <title>Version 452</title>
+    <title>Nomenclature LPP Version 452</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP452.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v452</id>
+    <id>urn:ameli:lpp:452</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1039,9 +1684,9 @@ Rectification « Age Maxi » à 10 ans pour le code 1173636 (JO du 20/04/2017 T1
     <summary>Version 452 disponible</summary>
   </entry>
   <entry>
-    <title>Version 451</title>
+    <title>Nomenclature LPP Version 451</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP451.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v451</id>
+    <id>urn:ameli:lpp:451</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1075,9 +1720,9 @@ Arrêté du 8 septembre 2016- JO du 13/09/2016 T15.
     <summary>Version 451 disponible</summary>
   </entry>
   <entry>
-    <title>Version 450</title>
+    <title>Nomenclature LPP Version 450</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP450.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v450</id>
+    <id>urn:ameli:lpp:450</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1115,9 +1760,9 @@ Rectification de certains codes  - JO du 29/03/2017-T33
     <summary>Version 450 disponible</summary>
   </entry>
   <entry>
-    <title>Version 449</title>
+    <title>Nomenclature LPP Version 449</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP449.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v449</id>
+    <id>urn:ameli:lpp:449</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1152,7 +1797,7 @@ Arrêté du 4 mai 2017 - JO du 06/05/2017-T39
 Arrêté du 5 mai 2017 - JO du 10/05/2017-T101
 Rectification d'un code  - JO du 28/03/2017
 Rectification d'un code soumis à indications de prise ne charge 
-Rectification dans le libellé complet des indications de prise en charge pour
+Rectification dans le libellé htmlet des indications de prise en charge pour
 certains codes - JO du 21/05/2015- T9
     </pre>
 
@@ -1166,9 +1811,9 @@ certains codes - JO du 21/05/2015- T9
     <summary>Version 449 disponible</summary>
   </entry>
   <entry>
-    <title>Version 448</title>
+    <title>Nomenclature LPP Version 448</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP448.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v448</id>
+    <id>urn:ameli:lpp:448</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1210,9 +1855,9 @@ Arrêté du 04 mai 2017 -  JO du 05/05/2017-T75
     <summary>Version 448 disponible</summary>
   </entry>
   <entry>
-    <title>Version 447</title>
+    <title>Nomenclature LPP Version 447</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP447.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v447</id>
+    <id>urn:ameli:lpp:447</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1250,9 +1895,9 @@ Arrêté du 26 avril 2017 - JO du 28/04/2017 T47
     <summary>Version 447 disponible</summary>
   </entry>
   <entry>
-    <title>Version 446</title>
+    <title>Nomenclature LPP Version 446</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP446.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v446</id>
+    <id>urn:ameli:lpp:446</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1291,9 +1936,9 @@ JO du 20/04/2017 T18
     <summary>Version 446 disponible</summary>
   </entry>
   <entry>
-    <title>Version 445</title>
+    <title>Nomenclature LPP Version 445</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP445.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v445</id>
+    <id>urn:ameli:lpp:445</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1333,9 +1978,9 @@ JO du 13/04/2017-T 27
     <summary>Version 445 disponible</summary>
   </entry>
   <entry>
-    <title>Version 444</title>
+    <title>Nomenclature LPP Version 444</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP444.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v444</id>
+    <id>urn:ameli:lpp:444</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1373,9 +2018,9 @@ JO du 11/04/2017-T 53
     <summary>Version 444 disponible</summary>
   </entry>
   <entry>
-    <title>Version 443</title>
+    <title>Nomenclature LPP Version 443</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP443.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v443</id>
+    <id>urn:ameli:lpp:443</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1419,9 +2064,9 @@ JO du 31/03/2017-T 168
     <summary>Version 443 disponible</summary>
   </entry>
   <entry>
-    <title>Version 442</title>
+    <title>Nomenclature LPP Version 442</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP442.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v442</id>
+    <id>urn:ameli:lpp:442</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1456,9 +2101,9 @@ Arrêté du 20 mars 2017 (JO du 22/03/2017-T 27)
     <summary>Version 442 disponible</summary>
   </entry>
   <entry>
-    <title>Version 441</title>
+    <title>Nomenclature LPP Version 441</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP441.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v441</id>
+    <id>urn:ameli:lpp:441</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1501,9 +2146,9 @@ avis relatif à la baisse de tarifs - JO du 07/03/2017 T112
     <summary>Version 441 disponible</summary>
   </entry>
   <entry>
-    <title>Version 440</title>
+    <title>Nomenclature LPP Version 440</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP440.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v440</id>
+    <id>urn:ameli:lpp:440</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1542,9 +2187,9 @@ Avis relatif aux tarifs et aux prix limites du JO du 06/04/2016 T80
     <summary>Version 440 disponible</summary>
   </entry>
   <entry>
-    <title>Version 439</title>
+    <title>Nomenclature LPP Version 439</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP439.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v439</id>
+    <id>urn:ameli:lpp:439</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1593,9 +2238,9 @@ Arrêté du 17 février 2017 - JO du 21/02/2017 T17
     <summary>Version 439 disponible</summary>
   </entry>
   <entry>
-    <title>Version 438</title>
+    <title>Nomenclature LPP Version 438</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP438.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v438</id>
+    <id>urn:ameli:lpp:438</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1635,9 +2280,9 @@ Arrêté du 5 janvier 2017-  JO du 10/01/2017 T10
     <summary>Version 438 disponible</summary>
   </entry>
   <entry>
-    <title>Version 437</title>
+    <title>Nomenclature LPP Version 437</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP437.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v437</id>
+    <id>urn:ameli:lpp:437</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1677,9 +2322,9 @@ JO du 31/01/217 T29
     <summary>Version 437 disponible</summary>
   </entry>
   <entry>
-    <title>Version 436</title>
+    <title>Nomenclature LPP Version 436</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP436.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v436</id>
+    <id>urn:ameli:lpp:436</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1719,9 +2364,9 @@ Rectification avis relatif prix- JO du 26/07/2016
     <summary>Version 436 disponible</summary>
   </entry>
   <entry>
-    <title>Version 435</title>
+    <title>Nomenclature LPP Version 435</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP435.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v435</id>
+    <id>urn:ameli:lpp:435</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1755,9 +2400,9 @@ JO du 12/01/2017 T22
     <summary>Version 435 disponible</summary>
   </entry>
   <entry>
-    <title>Version 434</title>
+    <title>Nomenclature LPP Version 434</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP434.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v434</id>
+    <id>urn:ameli:lpp:434</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1792,9 +2437,9 @@ JO du 10/01/2017 T12, T15, T19 et T23
     <summary>Version 434 disponible</summary>
   </entry>
   <entry>
-    <title>Version 433</title>
+    <title>Nomenclature LPP Version 433</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP433.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v433</id>
+    <id>urn:ameli:lpp:433</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1837,9 +2482,9 @@ JO du 06/12/2016 T181
     <summary>Version 433 disponible</summary>
   </entry>
   <entry>
-    <title>Version 432</title>
+    <title>Nomenclature LPP Version 432</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP432.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v432</id>
+    <id>urn:ameli:lpp:432</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1876,9 +2521,9 @@ JO du 15/12/2016 - T 136
     <summary>Version 432 disponible</summary>
   </entry>
   <entry>
-    <title>Version 431</title>
+    <title>Nomenclature LPP Version 431</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP431.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v431</id>
+    <id>urn:ameli:lpp:431</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1918,9 +2563,9 @@ JO du 16/12/2016 T47
     <summary>Version 431 disponible</summary>
   </entry>
   <entry>
-    <title>Version 430</title>
+    <title>Nomenclature LPP Version 430</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP430.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v430</id>
+    <id>urn:ameli:lpp:430</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1959,9 +2604,9 @@ JO du 13/12/2016 T119
     <summary>Version 430 disponible</summary>
   </entry>
   <entry>
-    <title>Version 429</title>
+    <title>Nomenclature LPP Version 429</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP429.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v429</id>
+    <id>urn:ameli:lpp:429</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -1997,9 +2642,9 @@ JO du 25/11/2016 T9 et T10
     <summary>Version 429 disponible</summary>
   </entry>
   <entry>
-    <title>Version 428</title>
+    <title>Nomenclature LPP Version 428</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP428.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v428</id>
+    <id>urn:ameli:lpp:428</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2034,9 +2679,9 @@ JO du 23/07/2016 T23
     <summary>Version 428 disponible</summary>
   </entry>
   <entry>
-    <title>Version 427</title>
+    <title>Nomenclature LPP Version 427</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP427.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v427</id>
+    <id>urn:ameli:lpp:427</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2071,9 +2716,9 @@ JO du 08/11/2016 - T6, T8 et T10
     <summary>Version 427 disponible</summary>
   </entry>
   <entry>
-    <title>Version 426</title>
+    <title>Nomenclature LPP Version 426</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP426.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v426</id>
+    <id>urn:ameli:lpp:426</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2108,9 +2753,9 @@ JO du 25/10/2016 - T25, T26 et T27
     <summary>Version 426 disponible</summary>
   </entry>
   <entry>
-    <title>Version 425</title>
+    <title>Nomenclature LPP Version 425</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP425.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v425</id>
+    <id>urn:ameli:lpp:425</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2149,9 +2794,9 @@ JO du 21/10/2016 - T 93
     <summary>Version 425 disponible</summary>
   </entry>
   <entry>
-    <title>Version 424</title>
+    <title>Nomenclature LPP Version 424</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP424.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v424</id>
+    <id>urn:ameli:lpp:424</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2192,9 +2837,9 @@ JO du 28/09/2016 T12
     <summary>Version 424 disponible</summary>
   </entry>
   <entry>
-    <title>Version 423</title>
+    <title>Nomenclature LPP Version 423</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP423.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v423</id>
+    <id>urn:ameli:lpp:423</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2237,9 +2882,9 @@ JO du 23/07/2016 T23
     <summary>Version 423 disponible</summary>
   </entry>
   <entry>
-    <title>Version 422</title>
+    <title>Nomenclature LPP Version 422</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP422.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v422</id>
+    <id>urn:ameli:lpp:422</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2275,9 +2920,9 @@ arrêté du 29/08/2016 (JO du 01/09/2016 - T35)
     <summary>Version 422 disponible</summary>
   </entry>
   <entry>
-    <title>Version 421</title>
+    <title>Nomenclature LPP Version 421</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP421.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v421</id>
+    <id>urn:ameli:lpp:421</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2311,9 +2956,9 @@ JO du 02/04/2015 - T 102
     <summary>Version 421 disponible</summary>
   </entry>
   <entry>
-    <title>Version 420</title>
+    <title>Nomenclature LPP Version 420</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP420.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v420</id>
+    <id>urn:ameli:lpp:420</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2352,9 +2997,9 @@ JO du 27/07/2016 - T 98
     <summary>Version 420 disponible</summary>
   </entry>
   <entry>
-    <title>Version 419</title>
+    <title>Nomenclature LPP Version 419</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP419.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v419</id>
+    <id>urn:ameli:lpp:419</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2398,9 +3043,9 @@ JO du 21/07/2016 T73
     <summary>Version 419 disponible</summary>
   </entry>
   <entry>
-    <title>Version 418</title>
+    <title>Nomenclature LPP Version 418</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP418.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v418</id>
+    <id>urn:ameli:lpp:418</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2434,9 +3079,9 @@ Avis prix (JO du 16/07/2015 T181)
     <summary>Version 418 disponible</summary>
   </entry>
   <entry>
-    <title>Version 417</title>
+    <title>Nomenclature LPP Version 417</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP417.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v417</id>
+    <id>urn:ameli:lpp:417</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2470,9 +3115,9 @@ Avis prix (JO du 16/07/2015 T181)
     <summary>Version 417 disponible</summary>
   </entry>
   <entry>
-    <title>Version 416</title>
+    <title>Nomenclature LPP Version 416</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP416.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v416</id>
+    <id>urn:ameli:lpp:416</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2511,9 +3156,9 @@ arrêté du 20/06/2016 (JO du 23/06/2016 - T219)
     <summary>Version 416 disponible</summary>
   </entry>
   <entry>
-    <title>Version 415</title>
+    <title>Nomenclature LPP Version 415</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP415.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v415</id>
+    <id>urn:ameli:lpp:415</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2547,9 +3192,9 @@ arrêté du 4/4/2016 (JO du 12/4/2016 - T23)
     <summary>Version 415 disponible</summary>
   </entry>
   <entry>
-    <title>Version 414</title>
+    <title>Nomenclature LPP Version 414</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP414.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v414</id>
+    <id>urn:ameli:lpp:414</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2585,9 +3230,9 @@ Correction PLV (JO du 01/03/2016 - T16)
     <summary>Version 414 disponible</summary>
   </entry>
   <entry>
-    <title>Version 413</title>
+    <title>Nomenclature LPP Version 413</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP413.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v413</id>
+    <id>urn:ameli:lpp:413</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2623,9 +3268,9 @@ avis prix (JO 3/09/2014-T84)
     <summary>Version 413 disponible</summary>
   </entry>
   <entry>
-    <title>Version 412</title>
+    <title>Nomenclature LPP Version 412</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP412.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v412</id>
+    <id>urn:ameli:lpp:412</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2660,9 +3305,9 @@ décision du Conseil d'État rendue le 18/04/2016 annulant les baisses de prix p
     <summary>Version 412 disponible</summary>
   </entry>
   <entry>
-    <title>Version 411</title>
+    <title>Nomenclature LPP Version 411</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP411.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v411</id>
+    <id>urn:ameli:lpp:411</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2698,9 +3343,9 @@ arrêté du 20/4/2016 (JO du 27/4/2016 - T19)
     <summary>Version 411 disponible</summary>
   </entry>
   <entry>
-    <title>Version 410</title>
+    <title>Nomenclature LPP Version 410</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP410.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v410</id>
+    <id>urn:ameli:lpp:410</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2740,9 +3385,9 @@ avis prix (JO 15/12/2015-T119, JO 27/02/2015-T121, JO 9/06/2015-T94)
     <summary>Version 410 disponible</summary>
   </entry>
   <entry>
-    <title>Version 409</title>
+    <title>Nomenclature LPP Version 409</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP409.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v409</id>
+    <id>urn:ameli:lpp:409</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2778,9 +3423,9 @@ correctif prix ((JO du 11/03/16 T134)
     <summary>Version 409 disponible</summary>
   </entry>
   <entry>
-    <title>Version 408</title>
+    <title>Nomenclature LPP Version 408</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP408.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v408</id>
+    <id>urn:ameli:lpp:408</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2816,9 +3461,9 @@ avis prix (JO du 10/4/15 T114 - JO du 10/7/15 T151 - JO du 13/11/15 T173  et  T1
     <summary>Version 408 disponible</summary>
   </entry>
   <entry>
-    <title>Version 407</title>
+    <title>Nomenclature LPP Version 407</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP407.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v407</id>
+    <id>urn:ameli:lpp:407</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2854,9 +3499,9 @@ arrêté du 7/3/16 (JO du 16/3/16 - T15)
     <summary>Version 407 disponible</summary>
   </entry>
   <entry>
-    <title>Version 406</title>
+    <title>Nomenclature LPP Version 406</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP406.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v406</id>
+    <id>urn:ameli:lpp:406</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2892,9 +3537,9 @@ Arrêté du 19/02/16 (JO 02/03/2016-T19)
     <summary>Version 406 disponible</summary>
   </entry>
   <entry>
-    <title>Version 405</title>
+    <title>Nomenclature LPP Version 405</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP405.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v405</id>
+    <id>urn:ameli:lpp:405</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2930,9 +3575,9 @@ Arrêté du 19/02/16 (JO 26/02/2016-T 19)
     <summary>Version 405 disponible</summary>
   </entry>
   <entry>
-    <title>Version 404</title>
+    <title>Nomenclature LPP Version 404</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP404.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v404</id>
+    <id>urn:ameli:lpp:404</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -2966,9 +3611,9 @@ Arrêté du 19/02/2016 (JO du 23/02/2016 T18)
     <summary>Version 404 disponible</summary>
   </entry>
   <entry>
-    <title>Version 403</title>
+    <title>Nomenclature LPP Version 403</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP403.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v403</id>
+    <id>urn:ameli:lpp:403</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3002,9 +3647,9 @@ Arrêté du 06/11/15 (JO du 10/11/15 T14)
     <summary>Version 403 disponible</summary>
   </entry>
   <entry>
-    <title>Version 402</title>
+    <title>Nomenclature LPP Version 402</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP402.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v402</id>
+    <id>urn:ameli:lpp:402</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3042,9 +3687,9 @@ Arrêté du 01/02/2016 (JO du 03/02/2016 T31, T33, T34, T36, T37 et JO du 04/02/
     <summary>Version 402 disponible</summary>
   </entry>
   <entry>
-    <title>Version 401</title>
+    <title>Nomenclature LPP Version 401</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP401.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v401</id>
+    <id>urn:ameli:lpp:401</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3078,9 +3723,9 @@ Arrêté du 28/01/2016 (JO du 02/02/16 T7 et T8)
     <summary>Version 401 disponible</summary>
   </entry>
   <entry>
-    <title>Version 400</title>
+    <title>Nomenclature LPP Version 400</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP400.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v400</id>
+    <id>urn:ameli:lpp:400</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3117,9 +3762,9 @@ Arrêté du 15/01/2016 (JO du 19/01/2016 T23)
     <summary>Version 400 disponible</summary>
   </entry>
   <entry>
-    <title>Version 399</title>
+    <title>Nomenclature LPP Version 399</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP399.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v399</id>
+    <id>urn:ameli:lpp:399</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3153,9 +3798,9 @@ Avis relatif aux prix (JO du 26/11/2015 T121)
     <summary>Version 399 disponible</summary>
   </entry>
   <entry>
-    <title>Version 398</title>
+    <title>Nomenclature LPP Version 398</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP398.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v398</id>
+    <id>urn:ameli:lpp:398</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3193,9 +3838,9 @@ Avis relatif aux prix (JO du 17/12/2015 T156)
     <summary>Version 398 disponible</summary>
   </entry>
   <entry>
-    <title>Version 397</title>
+    <title>Nomenclature LPP Version 397</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP397.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v397</id>
+    <id>urn:ameli:lpp:397</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3235,9 +3880,9 @@ Arrêté du 15 décembre 2015 (JO du 18/12/2015 T37)
     <summary>Version 397 disponible</summary>
   </entry>
   <entry>
-    <title>Version 396</title>
+    <title>Nomenclature LPP Version 396</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP396.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v396</id>
+    <id>urn:ameli:lpp:396</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3273,9 +3918,9 @@ arrêté du 02/12/15 (JO du 04/12/15)
     <summary>Version 396 disponible</summary>
   </entry>
   <entry>
-    <title>Version 395</title>
+    <title>Nomenclature LPP Version 395</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP395.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v395</id>
+    <id>urn:ameli:lpp:395</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3311,9 +3956,9 @@ arrêté du 06/11/15 (JO du 10/11/15)
     <summary>Version 395 disponible</summary>
   </entry>
   <entry>
-    <title>Version 394</title>
+    <title>Nomenclature LPP Version 394</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP394.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v394</id>
+    <id>urn:ameli:lpp:394</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3349,9 +3994,9 @@ arrêté du 23/10/15 (JO du 27/10/15 T18 et 20)
     <summary>Version 394 disponible</summary>
   </entry>
   <entry>
-    <title>Version 393</title>
+    <title>Nomenclature LPP Version 393</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP393.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v393</id>
+    <id>urn:ameli:lpp:393</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3388,9 +4033,9 @@ JO du 06/09/2013 T27
     <summary>Version 393 disponible</summary>
   </entry>
   <entry>
-    <title>Version 392</title>
+    <title>Nomenclature LPP Version 392</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP392.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v392</id>
+    <id>urn:ameli:lpp:392</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3426,9 +4071,9 @@ arrêté du 24/08/15 (JO du 01/09/15 T15, T16, T17, T20, T22)
     <summary>Version 392 disponible</summary>
   </entry>
   <entry>
-    <title>Version 391</title>
+    <title>Nomenclature LPP Version 391</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP391.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v391</id>
+    <id>urn:ameli:lpp:391</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3462,9 +4107,9 @@ Avis relatif aux tarifs et aux PLV au public (JO du 06/06/14 T145)
     <summary>Version 391 disponible</summary>
   </entry>
   <entry>
-    <title>Version 390</title>
+    <title>Nomenclature LPP Version 390</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP390.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v390</id>
+    <id>urn:ameli:lpp:390</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3498,9 +4143,9 @@ arrêté du 24/07/2015 (JO du 29/07/15 T26)
     <summary>Version 390 disponible</summary>
   </entry>
   <entry>
-    <title>Version 389</title>
+    <title>Nomenclature LPP Version 389</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP389.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v389</id>
+    <id>urn:ameli:lpp:389</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3535,9 +4180,9 @@ arrêté du 24/07/2015 (JO du 29/07/15 T26, 28,29,30,31)
     <summary>Version 389 disponible</summary>
   </entry>
   <entry>
-    <title>Version 388</title>
+    <title>Nomenclature LPP Version 388</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP388.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v388</id>
+    <id>urn:ameli:lpp:388</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3574,9 +4219,9 @@ arrêté du 20/07/15 (JO du 23/07/15 T19)
     <summary>Version 388 disponible</summary>
   </entry>
   <entry>
-    <title>Version 387</title>
+    <title>Nomenclature LPP Version 387</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP387.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v387</id>
+    <id>urn:ameli:lpp:387</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3611,9 +4256,9 @@ Avis relatif aux tarifs et aux PLV au public (JO du 28/08/13 T80)
     <summary>Version 387 disponible</summary>
   </entry>
   <entry>
-    <title>Version 386</title>
+    <title>Nomenclature LPP Version 386</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP386.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v386</id>
+    <id>urn:ameli:lpp:386</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3651,9 +4296,9 @@ Avis relatif aux tarifs et aux PLV au public (JO du 02/04/15 T102 , du 10/04/201
     <summary>Version 386 disponible</summary>
   </entry>
   <entry>
-    <title>Version 385</title>
+    <title>Nomenclature LPP Version 385</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP385.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v385</id>
+    <id>urn:ameli:lpp:385</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3688,9 +4333,9 @@ Arrêtés des 16, 18 et 22/06/2015
     <summary>Version 385 disponible</summary>
   </entry>
   <entry>
-    <title>Version 384</title>
+    <title>Nomenclature LPP Version 384</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP384.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v384</id>
+    <id>urn:ameli:lpp:384</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3726,9 +4371,9 @@ Arrêté du 28/05/15 (JO du 3/06/2015 T16)
     <summary>Version 384 disponible</summary>
   </entry>
   <entry>
-    <title>Version 383</title>
+    <title>Nomenclature LPP Version 383</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP383.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v383</id>
+    <id>urn:ameli:lpp:383</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3763,9 +4408,9 @@ Avis rectificatif de prix (JO du 02/06/2015 T67).
     <summary>Version 383 disponible</summary>
   </entry>
   <entry>
-    <title>Version 382</title>
+    <title>Nomenclature LPP Version 382</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP382.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v382</id>
+    <id>urn:ameli:lpp:382</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3801,9 +4446,9 @@ Arrêté du 06/05/15 (JO du 27/05/2015 T18)
     <summary>Version 382 disponible</summary>
   </entry>
   <entry>
-    <title>Version 381</title>
+    <title>Nomenclature LPP Version 381</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP381.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v381</id>
+    <id>urn:ameli:lpp:381</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3842,9 +4487,9 @@ Avis relatif aux prix (JO du 14/05/2015 T95)
     <summary>Version 381 disponible</summary>
   </entry>
   <entry>
-    <title>Version 380</title>
+    <title>Nomenclature LPP Version 380</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP380.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v380</id>
+    <id>urn:ameli:lpp:380</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3878,9 +4523,9 @@ Arrêté du 22/04/15 (JO du 28/04/2015 T19 et T21)
     <summary>Version 380 disponible</summary>
   </entry>
   <entry>
-    <title>Version 379</title>
+    <title>Nomenclature LPP Version 379</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP379.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v379</id>
+    <id>urn:ameli:lpp:379</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3915,9 +4560,9 @@ Arrêté du 14/04/15 (JO du 17/04/2015 T28 et T30)
     <summary>Version 379 disponible</summary>
   </entry>
   <entry>
-    <title>Version 378</title>
+    <title>Nomenclature LPP Version 378</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP378.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v378</id>
+    <id>urn:ameli:lpp:378</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3951,9 +4596,9 @@ arrêté du 7/04/15 (JO du 10/04/15 - T33 et T35)
     <summary>Version 378 disponible</summary>
   </entry>
   <entry>
-    <title>Version 377</title>
+    <title>Nomenclature LPP Version 377</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP377.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v377</id>
+    <id>urn:ameli:lpp:377</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -3987,9 +4632,9 @@ Avis relatif aux prix (JO du 20/02/2014)
     <summary>Version 377 disponible</summary>
   </entry>
   <entry>
-    <title>Version 376</title>
+    <title>Nomenclature LPP Version 376</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP376.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v376</id>
+    <id>urn:ameli:lpp:376</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4027,9 +4672,9 @@ arrêté du 16/03/15 (JO du 19/03/15 - T25)
     <summary>Version 376 disponible</summary>
   </entry>
   <entry>
-    <title>Version 375</title>
+    <title>Nomenclature LPP Version 375</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP375.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v375</id>
+    <id>urn:ameli:lpp:375</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4069,9 +4714,9 @@ Arrêté du 9 mars 2015 (JO du 12/03/2015 T27- T30)
     <summary>Version 375 disponible</summary>
   </entry>
   <entry>
-    <title>Version 374</title>
+    <title>Nomenclature LPP Version 374</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP374.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v374</id>
+    <id>urn:ameli:lpp:374</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4105,9 +4750,9 @@ Arrêté du 23 février 2015 JO du 27/02/2015 - T33)
     <summary>Version 374 disponible</summary>
   </entry>
   <entry>
-    <title>Version 373</title>
+    <title>Nomenclature LPP Version 373</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP373.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v373</id>
+    <id>urn:ameli:lpp:373</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4143,9 +4788,9 @@ Arrêté du 24 février 2015 JO du 27/02/2015 - T33 et T37)
     <summary>Version 373 disponible</summary>
   </entry>
   <entry>
-    <title>Version 372</title>
+    <title>Nomenclature LPP Version 372</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP372.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v372</id>
+    <id>urn:ameli:lpp:372</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4181,9 +4826,9 @@ Arrêté du 16 février 2015 (JO du 20/02/2015 - T38)
     <summary>Version 372 disponible</summary>
   </entry>
   <entry>
-    <title>Version 371</title>
+    <title>Nomenclature LPP Version 371</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP371.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v371</id>
+    <id>urn:ameli:lpp:371</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4217,9 +4862,9 @@ Avis relatif aux tarifs et aux prix limites de vente au public (JO du 17/02/15)
     <summary>Version 371 disponible</summary>
   </entry>
   <entry>
-    <title>Version 370</title>
+    <title>Nomenclature LPP Version 370</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP370.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v370</id>
+    <id>urn:ameli:lpp:370</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4253,9 +4898,9 @@ arrêté du 5/02/15 (JO du 10/02/15)
     <summary>Version 370 disponible</summary>
   </entry>
   <entry>
-    <title>Version 369</title>
+    <title>Nomenclature LPP Version 369</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP369.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v369</id>
+    <id>urn:ameli:lpp:369</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4291,9 +4936,9 @@ arrêté du 12/01/15 (JO du 15/01/15 T14)
     <summary>Version 369 disponible</summary>
   </entry>
   <entry>
-    <title>Version 368</title>
+    <title>Nomenclature LPP Version 368</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP368.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v368</id>
+    <id>urn:ameli:lpp:368</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4327,9 +4972,9 @@ avis prix JO du 11/10/13
     <summary>Version 368 disponible</summary>
   </entry>
   <entry>
-    <title>Version 367</title>
+    <title>Nomenclature LPP Version 367</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP367.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v367</id>
+    <id>urn:ameli:lpp:367</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4366,9 +5011,9 @@ avis prix JO du 19/12/14
     <summary>Version 367 disponible</summary>
   </entry>
   <entry>
-    <title>Version 366</title>
+    <title>Nomenclature LPP Version 366</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP366.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v366</id>
+    <id>urn:ameli:lpp:366</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4403,9 +5048,9 @@ arrêté du 29/08/14 (JO du 3/09/2014)
     <summary>Version 366 disponible</summary>
   </entry>
   <entry>
-    <title>Version 365</title>
+    <title>Nomenclature LPP Version 365</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP365.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v365</id>
+    <id>urn:ameli:lpp:365</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4443,9 +5088,9 @@ arrêté du 22/10/13 (décision du Conseil d'État en date du 28/11/2014)
     <summary>Version 365 disponible</summary>
   </entry>
   <entry>
-    <title>Version 364</title>
+    <title>Nomenclature LPP Version 364</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP364.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v364</id>
+    <id>urn:ameli:lpp:364</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4481,9 +5126,9 @@ arrêté du 18/11/14 (JO du 21/11/14)
     <summary>Version 364 disponible</summary>
   </entry>
   <entry>
-    <title>Version 363</title>
+    <title>Nomenclature LPP Version 363</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP363.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v363</id>
+    <id>urn:ameli:lpp:363</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4518,9 +5163,9 @@ arrêté du 5/11/14 (JO du 13/11/2014)
     <summary>Version 363 disponible</summary>
   </entry>
   <entry>
-    <title>Version 362</title>
+    <title>Nomenclature LPP Version 362</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP362.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v362</id>
+    <id>urn:ameli:lpp:362</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4556,9 +5201,9 @@ arrêté du 03/10/2014 (JO du 09/10/20414)
     <summary>Version 362 disponible</summary>
   </entry>
   <entry>
-    <title>Version 361</title>
+    <title>Nomenclature LPP Version 361</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP361.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v361</id>
+    <id>urn:ameli:lpp:361</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4592,9 +5237,9 @@ arrêté du 3/10/14 (JO du 8/10/2014)
     <summary>Version 361 disponible</summary>
   </entry>
   <entry>
-    <title>Version 360</title>
+    <title>Nomenclature LPP Version 360</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP360.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v360</id>
+    <id>urn:ameli:lpp:360</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4628,9 +5273,9 @@ arrêté du 23/09/14 (JO du 25/09/2014)
     <summary>Version 360 disponible</summary>
   </entry>
   <entry>
-    <title>Version 359</title>
+    <title>Nomenclature LPP Version 359</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP359.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v359</id>
+    <id>urn:ameli:lpp:359</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4664,9 +5309,9 @@ T3 ch1
     <summary>Version 359 disponible</summary>
   </entry>
   <entry>
-    <title>Version 358</title>
+    <title>Nomenclature LPP Version 358</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP358.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v358</id>
+    <id>urn:ameli:lpp:358</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4700,9 +5345,9 @@ JO du 11/09/2014
     <summary>Version 358 disponible</summary>
   </entry>
   <entry>
-    <title>Version 357</title>
+    <title>Nomenclature LPP Version 357</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP357.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v357</id>
+    <id>urn:ameli:lpp:357</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4739,9 +5384,9 @@ arrêté du 04/09/14 (JO du 09/09/2014)
     <summary>Version 357 disponible</summary>
   </entry>
   <entry>
-    <title>Version 356</title>
+    <title>Nomenclature LPP Version 356</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP356.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v356</id>
+    <id>urn:ameli:lpp:356</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4781,9 +5426,9 @@ arrêté du 28/07/2014 (JO du 05/08/2014)
     <summary>Version 356 disponible</summary>
   </entry>
   <entry>
-    <title>Version 355</title>
+    <title>Nomenclature LPP Version 355</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP355.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v355</id>
+    <id>urn:ameli:lpp:355</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4817,9 +5462,9 @@ Arrêté du 28/07/2014 (JO du 05/08/2014)
     <summary>Version 355 disponible</summary>
   </entry>
   <entry>
-    <title>Version 354</title>
+    <title>Nomenclature LPP Version 354</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP354.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v354</id>
+    <id>urn:ameli:lpp:354</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4853,9 +5498,9 @@ Arrêté du 24/07/2014 (JO du 29/07/2014)
     <summary>Version 354 disponible</summary>
   </entry>
   <entry>
-    <title>Version 353</title>
+    <title>Nomenclature LPP Version 353</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP353.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v353</id>
+    <id>urn:ameli:lpp:353</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4889,9 +5534,9 @@ Arrêté du 23/07/2014 (JO du 25/07/2014)
     <summary>Version 353 disponible</summary>
   </entry>
   <entry>
-    <title>Version 352</title>
+    <title>Nomenclature LPP Version 352</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP352.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v352</id>
+    <id>urn:ameli:lpp:352</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4928,9 +5573,9 @@ Avis relatif aux prix (JO du 26/07/2014)
     <summary>Version 352 disponible</summary>
   </entry>
   <entry>
-    <title>Version 351</title>
+    <title>Nomenclature LPP Version 351</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP351.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v351</id>
+    <id>urn:ameli:lpp:351</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -4965,9 +5610,9 @@ Arrêté du 25 juin 2014 (JO du 01/07/2014)
     <summary>Version 351 disponible</summary>
   </entry>
   <entry>
-    <title>Version 350</title>
+    <title>Nomenclature LPP Version 350</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP350.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v350</id>
+    <id>urn:ameli:lpp:350</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -5001,9 +5646,9 @@ Arrêtés du 26 mai et du 3 juin 2014
     <summary>Version 350 disponible</summary>
   </entry>
   <entry>
-    <title>Version 349</title>
+    <title>Nomenclature LPP Version 349</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP349.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v349</id>
+    <id>urn:ameli:lpp:349</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -5039,9 +5684,9 @@ Arrêté du 3 juin 2014 (JO du 05/06/2014)
     <summary>Version 349 disponible</summary>
   </entry>
   <entry>
-    <title>Version 348</title>
+    <title>Nomenclature LPP Version 348</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP348.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v348</id>
+    <id>urn:ameli:lpp:348</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -5078,9 +5723,9 @@ arrêté du 12 mai 2014  (JO du 15/5/2014)
     <summary>Version 348 disponible</summary>
   </entry>
   <entry>
-    <title>Version 347</title>
+    <title>Nomenclature LPP Version 347</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP347.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v347</id>
+    <id>urn:ameli:lpp:347</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -5114,9 +5759,9 @@ JO du 13/05/2014
     <summary>Version 347 disponible</summary>
   </entry>
   <entry>
-    <title>Version 346</title>
+    <title>Nomenclature LPP Version 346</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP346.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v346</id>
+    <id>urn:ameli:lpp:346</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
@@ -5150,9 +5795,9 @@ T1 - Ch 1
     <summary>Version 346 disponible</summary>
   </entry>
   <entry>
-    <title>Version 345</title>
+    <title>Nomenclature LPP Version 345</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP345.zip" rel="related" type="application/zip"/>
-    <id>urn:ameli:lpp:v345</id>
+    <id>urn:ameli:lpp:345</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>

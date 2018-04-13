@@ -5,7 +5,7 @@
 
 """
 __author__ = 'Frederic Laurent'
-__version__ = "1.0"
+__version__ = "1.1"
 __copyright__ = 'Copyright 2017, Frederic Laurent'
 __license__ = "MIT"
 
@@ -17,9 +17,10 @@ import re
 import requests
 import xlrd
 from bs4 import BeautifulSoup
+from easy_atom import action
+from easy_atom import atom
+from dbfread import DBF
 
-import action
-import atom
 import versions
 
 
@@ -45,7 +46,37 @@ class WatchDog(versions.VersionDetector):
         self.logger.debug("Data configuration : %s" % self.data_conf)
         self.logger.debug("Mail configuration : %s" % self.mail_conf)
 
+    def fill_infos(self, **kwargs):
+        """
+            Construit un dictionnaire d'informations a propos d'une version
+
+        :param kwargs: ensemble de cles/valeurs a positionner dans le dictionnaire
+        :return: dictionnaire resultat
+
+        """
+
+        # version de l'information : soit la version passee en parametre ou la version
+        # courante
+        v = kwargs['version'] if 'version' in kwargs else self.get_current_version()
+
+        d = {'type': self.nomen.upper(),
+             'id': f'urn:ameli:{self.nomen}:v{v}',
+             'version': v,
+             'date': datetime.datetime.now(datetime.timezone.utc).isoformat(sep='T'),
+             'url': None,
+             'title': f'Nomenclature {self.nomen.upper()} Version {v}',
+             'summary': f'Version {v} disponible',
+             'files': [],
+             'html': None}
+        d.update(kwargs)
+        return d
+
     def process(self):
+        """
+            Traitement principal
+        :return: -
+        """
+
         self.load_previous()
         infos = self.fetch_data()
 
@@ -57,9 +88,10 @@ class WatchDog(versions.VersionDetector):
                 # https://validator.w3.org/feed/docs/warning/RelativeSelf.html
 
                 updatedfeed = atom.Feed(self.nomen, selfhref=self.feed_conf['feed_base'])
-                feed = updatedfeed.generate(self.version)
+
+                feed = updatedfeed.generate(self.version['versions'])
                 updatedfeed.save(feed)
-                updatedfeed.rss2(feed)
+                updatedfeed.rss2()
 
                 if self.feed_conf['ftp_config']:
                     act = action.UploadAction(conf_filename=self.feed_conf['ftp_config'])
@@ -105,16 +137,12 @@ class UCDWatchDog(WatchDog):
     def fetch_data(self):
         self.logger.info("Fetch data... Current version  > %d ", self.get_current_version())
 
+        infos = None
         baseurl = 'http://www.codage.ext.cnamts.fr'
         url2check = '/codif/bdm_it/index_tele_ucd.php'
 
-        infos = {'type': 'UCD', 'version': self.get_current_version(),
-                 'date': datetime.datetime.now(datetime.timezone.utc).isoformat(sep='T'),
-                 'url': None,
-                 'files': [], 'compl': None}
-
         regexdata = re.compile(
-            r'.*?(ucd_total|ucd_histo_prix|retro_histo_taux|retro_histo_cout_sup)_(\d+)_(\d+)\.dbf')
+            r'.*?(ucd_total|ucd_maj|ucd_histo_prix|retro_histo_taux|retro_histo_cout_sup)_(\d+)_(\d+)\.dbf')
         rcheck = requests.get("%s%s" % (baseurl, url2check))
 
         # /f_mediam/fo/bdm_it/ucd_total_00276_20150515.dbf
@@ -133,6 +161,11 @@ class UCDWatchDog(WatchDog):
             links = list(filter(lambda x: x.get('href'), soup.find_all('a')))
             dbf_list = list(filter(lambda x: x.get('href').endswith('.dbf'), links))
 
+            self.logger.debug(f'DBF Files {len(dbf_list)}')
+            [self.logger.debug(f' - {d}') for d in dbf_list]
+
+            dbf_map = {}
+
             for link in dbf_list:
                 # recuperation des liens vers les document dbf
 
@@ -141,15 +174,64 @@ class UCDWatchDog(WatchDog):
                     # recuperation du numero de version dans le nom de
                     # fichier
                     self.logger.debug(resregex.groups())
-                    infos["version"] = str(int(resregex.group(2)))
-                    infos["files"].append('%s%s' % (baseurl, link.get('href')))
+
+                    _version = str(int(resregex.group(2)))
+                    if _version not in dbf_map:
+                        dbf_map[_version] = []
+                    dbf_map[_version].append('%s%s' % (baseurl, link.get('href')))
+
+            if len(dbf_map.keys()) == 1:
+                # 1 version = OK
+                _version = list(dbf_map.keys())[0]
+                infos = self.fill_infos(version=_version,
+                                        files=dbf_map[_version],
+                                        html=self.format_html_compl(_version, dbf_map[_version]))
+            elif len(dbf_map.keys()) > 1:
+                self.logger.error("Plusieurs versions  !!! %s" % str(dbf_map.keys()))
+            else:
+                self.logger.debug("No version found")
 
         else:
             self.logger.error(
                 "Probleme de recuperation du document UCD / ameli [%s]", rcheck.status_code)
-            self.logger.error("URL : %s%s", baseurl, url2check)
+            self.logger.error(f"URL : {baseurl} {url2check}")
 
         return infos
+
+    @staticmethod
+    def format_html_compl(version, urls):
+        # download
+        local_fn = None
+        med_regexp = re.compile("(\w+).*")
+        med_set = set()
+        records = []
+        txt = ""
+        err_txt = ""
+
+        for u in urls:
+            if 'ucd_maj' in u:
+                print("TEST %s"%u)
+                da = action.DownloadAction()
+                local_fn = da.download(u)
+
+        print("Local UCD : %s"%local_fn)
+        if local_fn:
+            try:
+                database = DBF(local_fn, encoding='iso8859-1')
+                records = database.records
+
+                for r in records:
+                    res_eval = med_regexp.match(r['NOM_COURT'])
+                    if res_eval:
+                        med_set.add(res_eval.group(1))
+            except:
+                err_txt = "Erreur de lecture du fichier {}".format(os.path.basename(local_fn))
+
+            with open(os.path.join(WatchDog.CONF_DATA_DIR, 'ucd_compl.html'), 'r') as fin:
+                templ = fin.read()
+                txt = templ.format(version, len(records), ', '.join(list(med_set)), err_txt)
+        return txt
+
 
 
 class LPPWatchDog(WatchDog):
@@ -164,25 +246,24 @@ class LPPWatchDog(WatchDog):
     def fetch_data(self):
         self.logger.info("Fetch data... Current version  > %d ", self.get_current_version())
 
-        infos = {'type': 'LPP', 'version': self.get_current_version(),
-                 'date': datetime.datetime.now(datetime.timezone.utc).isoformat(sep='T'),
-                 'url': None, 'files': [], 'compl': None}
+        infos = None
+        # VERSION actuelle : PB si nouvelle version pour la mise a jour des donnees dans le DICT
+        # A voir infos / versions / maj
 
         test_version = self.get_current_version() + 1
-        url_ = 'http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP%d.zip' % test_version
+        url_ = f'http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP{test_version}.zip'
 
         rcheck = requests.head(url_)
         self.logger.debug("Test version %d code [%d] - %s", test_version, rcheck.status_code, rcheck.text)
 
         if rcheck.status_code == 200:
-            infos["url"] = url_
-            infos["version"] = str(test_version)
             compl = self.load_infos(test_version)
-            infos["compl"] = self.format_html_compl(compl)
 
-            self.logger.warn(infos)
+            infos = self.fill_infos(version=str(test_version),
+                                    files=[url_],
+                                    html=self.format_html_compl(compl))
         else:
-            self.logger.warn("Document LPP numero {} non disponible [{}]".format(test_version, rcheck.status_code))
+            self.logger.warning("Document LPP numero {} non disponible [{}]".format(test_version, rcheck.status_code))
 
         return infos
 
@@ -260,11 +341,9 @@ class CCAMWatchDog(WatchDog):
     def fetch_data(self):
         self.logger.info("Fetch data... Current version  > %d ", self.get_current_version())
         baseurl = 'https://www.ameli.fr'
-        url2check = '/accueil-de-la-ccam/telechargement/index.php'
+        url2check = f'{baseurl}/accueil-de-la-ccam/telechargement/index.php'
 
-        infos = {'type': 'CCAM', 'version': self.get_current_version(),
-                 'date': datetime.datetime.now(datetime.timezone.utc).isoformat(sep='T'),
-                 'url': None, 'files': [], 'compl': None}
+        infos = None
 
         # ex: CCAM04900_DBF_PART3.zip
         regexdata = re.compile(r'.*?(CCAM(\d+)_DBF_PART(\d+)\.zip)')
@@ -273,7 +352,9 @@ class CCAMWatchDog(WatchDog):
         # .../documents/Ccam_Note_V47.pdf
         regexcompl = re.compile(r'.*C\w*?m_Note_V(\d+\.?\d*)\.pdf')
 
-        rcheck = requests.get("%s%s" % (baseurl, url2check))
+        self.logger.info(f"Check {url2check}")
+        rcheck = requests.get(url2check)
+        self.logger.info("Check OK")
 
         # parse du contenu
         soup = BeautifulSoup(rcheck.text, "html5lib")
@@ -285,6 +366,10 @@ class CCAMWatchDog(WatchDog):
         pdf_list = list(filter(lambda x: x.get('href').endswith('.pdf'), links))
         zip_list = list(filter(lambda x: x.get('href').endswith('.zip'), links))
 
+        version = None
+        files = []
+        compl = None
+
         for link in zip_list:
             # recuperation des liens vers les document dbf, complete le dict infos avec les donnees trouvees
 
@@ -293,26 +378,23 @@ class CCAMWatchDog(WatchDog):
                 # recuperation du numero de version dans le nom de fichier
                 self.logger.debug(resregex.groups())
 
+                # extraction de la version
                 v = '{:.02f}'.format(int(resregex.group(2)) / 100)
-                if v.endswith('.00'):
-                    # version entiere, suppression de .00
-                    infos["version"] = v[:-3]
-                else:
-                    infos["version"] = v
-                infos["files"].append('%s%s' % (baseurl, link.get('href')))
+                version = v[:-3] if v.endswith('.00') else v
+                # ajout des fichiers
+                files.append('%s%s' % (baseurl, link.get('href')))
 
         for link in pdf_list:
             # recherche d'un document pdf relatif a la version trouvée des fichiers dbf
             # test si une URL correspondant aux notes de version
-            resregcompl = regexcompl.match(link.get('href'))
+            href = link.get('href')
+            resregcompl = regexcompl.match(href)
             if resregcompl:
-                self.logger.debug("compl : %s / v=%s" % (resregcompl.groups(), infos["version"]))
-                if resregcompl.group(1) == infos["version"]:
-                    compl = {'version': infos['version'],
-                             'pdf': '{}{}'.format(baseurl, link.get('href'))}
-                    infos["compl"] = self.format_html_compl(compl)
+                self.logger.debug("compl : %s / v=%s" % (resregcompl.groups(), version))
+                if resregcompl.group(1) == version:
+                    compl = self.format_html_compl({'version': version,'pdf': f'{baseurl}{href}'})
 
-        return infos
+        return self.fill_infos(version=version, files=files, html=compl)
 
     @staticmethod
     def format_html_compl(compl):
@@ -321,36 +403,34 @@ class CCAMWatchDog(WatchDog):
             txt = templ.format(compl['version'], compl['pdf'])
             return txt
 
+
 class NABMWatchDog(WatchDog):
     """
     Ref NABM
     Page : http://www.codage.ext.cnamts.fr/codif/nabm/index_tele_ucd.php
     """
+
     def fetch_data(self):
         self.logger.info("Fetch data... Current version  > %d ", self.get_current_version())
 
-        infos = {'type': 'NABM', 'version': self.get_current_version(),
-                 'date': datetime.datetime.now(datetime.timezone.utc).isoformat(sep='T'),
-                 'url': None,
-                 'files': [], 'compl': None}
+        infos = None
 
         test_version = self.get_current_version() + 1
         url_base = "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/"
-        nabm_files = ["NABM_FICHE_TOT%03d.dbf"%test_version,
-                      "NABM_HISTO_TOT%03d.dbf"%test_version,
-                      "NABM_INCOMP_TOT%03d.dbf"%test_version]
+        nabm_files = ["NABM_FICHE_TOT%03d.dbf" % test_version,
+                      "NABM_HISTO_TOT%03d.dbf" % test_version,
+                      "NABM_INCOMP_TOT%03d.dbf" % test_version]
 
         urltest = "{}{}".format(url_base, nabm_files[0])
-        self.logger.debug("Test URL {}".format(urltest))
+        self.logger.debug(f"Test URL {urltest}")
+
         rcheck = requests.head(urltest)
         self.logger.debug("Test version %d code [%d] - %s", test_version, rcheck.status_code, rcheck.text)
 
         if rcheck.status_code == 200:
-            infos["files"] = list(map(lambda x : "{}{}".format(url_base, x), nabm_files))
-            infos["version"] = str(test_version)
-
-            self.logger.warn(infos)
+            infos = self.fill_infos(version=str(test_version))
+            infos["files"] = list(map(lambda x: "{}{}".format(url_base, x), nabm_files))
         else:
-            self.logger.warn("Documents NABM numero {} non disponible [{}]".format(test_version, rcheck.status_code))
+            self.logger.warning("Documents NABM numero {} non disponible [{}]".format(test_version, rcheck.status_code))
 
         return infos

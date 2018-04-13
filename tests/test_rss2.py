@@ -1,7 +1,7 @@
 import unittest
 from lxml import etree
 import codecs
-import content
+from easy_atom import content
 
 
 class TestXSLT(unittest.TestCase):

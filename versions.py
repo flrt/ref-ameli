@@ -5,7 +5,7 @@
 
 """
 __author__ = 'Frederic Laurent'
-__version__ = "1.0"
+__version__ = "1.1"
 __copyright__ = 'Copyright 2017, Frederic Laurent'
 __license__ = "MIT"
 
@@ -13,7 +13,7 @@ import json
 import logging
 import os.path
 
-import helpers
+from easy_atom import helpers
 
 
 class VersionDetector:
@@ -44,7 +44,7 @@ class VersionDetector:
         if not os.path.exists(self.version_fn):
             self.logger.debug("No previous version. Init")
         else:
-            self.version = helpers.load_json_config(self.version_fn)
+            self.version = helpers.load_json(self.version_fn)
             # get the max version of all records
             self.last = int(sorted(set(map(lambda x: x["version"], self.version["versions"])))[-1])
 
@@ -56,7 +56,7 @@ class VersionDetector:
         :return: -
         """
         self.logger.debug("Loads previous version from {}".format(self.version_fn))
-        self.version = helpers.load_json_config(self.version_fn)
+        self.version = helpers.load_json(self.version_fn)
         # calcule la version la plus recente : max
         self.last = int(sorted(set(map(lambda x: x["version"], self.version["versions"])))[-1])
 
@@ -70,20 +70,16 @@ class VersionDetector:
         with open(self.version_fn, 'w') as fout:
             fout.write(json.dumps(self.version, sort_keys=True, indent=4))
 
-    def new_version(self, version):
+    def new_version(self, infos):
         """
         Emission d'une nouvelle version
 
         :param version: numéro de la version
         :return: données associées à la version
         """
-        self.logger.info("Nouvelle version : {}".format(version))
+        self.logger.info(f"Nouvelle version : {infos}")
         # add entry in version list
-        self.version["versions"].insert(0, {"version": version["version"],
-                                            "date": version["date"],
-                                            "url": version["url"] if "url" in version else None,
-                                            "files": version["files"] if "files" in version else None,
-                                            "compl": version["compl"]})
+        self.version["versions"].insert(0, infos)
 
     def is_newer(self, infos):
         return float(self.get_current_version()) < float(infos["version"])

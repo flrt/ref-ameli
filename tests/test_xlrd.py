@@ -7,13 +7,13 @@ import unittest
 
 import xlrd
 
-import helpers
+from easy_atom import helpers
 
 
 class TestRegex(unittest.TestCase):
     def test_xls_extract_lpp_info(self):
         logger = logging.getLogger('tests')
-        filename = "/opt/down/LPP_TDB466.xls"
+        filename = "down/LPP_TDB476.xls"
         workbook = xlrd.open_workbook(filename)
         all_worksheets = workbook.sheet_names()
 
@@ -25,7 +25,7 @@ class TestRegex(unittest.TestCase):
         self.assertEqual('TBD', worksheet.name)
 
         # test nb lignes significatives
-        self.assertEqual(487, worksheet.nrows)
+        self.assertEqual(497, worksheet.nrows)
 
         # version a examiner
         version = 430

@@ -3,19 +3,604 @@
   <channel>
     <!--Atom feed ID = http://www.opikanoba.org/feeds/ameli/lpp-->
     <title>Versions du référentiel AMELI - LPP</title>
-    <atom:link href="https://www.opikanoba.org/feeds/ameli_lpp.rss2" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.opikanoba.org/feedsameli_lpp.rss2" rel="self" type="application/rss+xml"/>
     <link>https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp</link>
     <description>Referentiel - Liste des produits et prestations</description>
     <copyright>CC BY-SA 3.0 FR</copyright>
     <managingEditor>frederic.laurent@gmail.com (Frederic LAURENT)</managingEditor>
-    <pubDate>Thu, 28 Dec 2017 15:00:01 +0000</pubDate>
-    <lastBuildDate>Thu, 28 Dec 2017 15:00:01 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Apr 2018 15:15:23 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Apr 2018 15:15:23 +0000</lastBuildDate>
     <category>referentiel,ameli,LPP</category>
     <generator>XSL stylesheet - http://github.com/flrt/xsl_atom2rss2</generator>
-    <!--Atom feed generator : https://github.com/flrt/ref-ameli-->
+    <!--Atom feed generator : https://github.com/flrt/atom_gen-->
     <docs>https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp</docs>
     <item>
-      <title>Version 474</title>
+      <title>Nomenclature LPP Version 489</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP489.zip"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP489.zip&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+          &lt;div&gt;
+    &lt;h1&gt;Informations sur la version 489&lt;/h1&gt;
+    &lt;p&gt;Titre et chapitre visés par les textes réglementaires : &lt;/p&gt;
+    &lt;pre&gt;
+TII Ch7 RADIATIONS
+TIII Ch1 RADIATIONS
+    &lt;/pre&gt;
+
+    &lt;p&gt;Dates des arrêtés visés - Avis tarifs et prix : &lt;/p&gt;
+    &lt;pre&gt;
+Arrêté du 28 mars 2018 - (JO du 04/04/2018-T14)
+Arrêté du 4 avril 2018 - (JO du 06/04/2018-T11)
+    &lt;/pre&gt;
+
+    &lt;p&gt;Date du JO le plus récent de la version : &lt;em&gt;06-04-2018&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;Date de mise en ligne sur le site &lt;a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp"&gt;Ameli.fr&lt;/a&gt; : &lt;em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:lpp:v489</guid>
+      <pubDate>Wed, 11 Apr 2018 16:49:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature LPP Version 488</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP488.zip"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP488.zip&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+          &lt;div&gt;
+    &lt;h1&gt;Informations sur la version 488&lt;/h1&gt;
+    &lt;p&gt;Titre et chapitre visés par les textes réglementaires : &lt;/p&gt;
+    &lt;pre&gt;
+ RECTIF PRIX 
+TI Ch1 NOVALAC 
+TI Ch2 CAIRFLOW
+TI Ch1 MINIMED
+TIII Ch1 LIBERTY
+TIII Ch1 IMPLANTS MAMAIRES 
+TIII Ch1 CUSTOMBONE
+TIII Ch1 RADIATIONS
+    &lt;/pre&gt;
+
+    &lt;p&gt;Dates des arrêtés visés - Avis tarifs et prix : &lt;/p&gt;
+    &lt;pre&gt;
+Rectification du  prix de cession et du prix PLV TTC au 01/0/2018 du code 1121941 - (JO du 20/10/2017-T128)
+Arrêté du 23 mars 2018 - (JO du 29/03/2018-T15-T138)
+ Arrêté du 23 mars 2018 - (JO du 30/03/2018-T11-T158)
+ Arrêté du 23 mars 2018 - (JO du 30/03/2018-T12)
+Arrêté du 23 mars 2018 -  (JO du 30/03/2018-T13-T159)
+Arrêté du 23 mars 2018 - (JO du 30/03./2018-T15-T160)
+Arrêté du 23 mars 2018 - (JO du 30/03/2018-T17)
+Arrêté du 28 mars 2018 - (JO du 30/03/2018-T25)
+    &lt;/pre&gt;
+
+    &lt;p&gt;Date du JO le plus récent de la version : &lt;em&gt;30-03-2018&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;Date de mise en ligne sur le site &lt;a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp"&gt;Ameli.fr&lt;/a&gt; : &lt;em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:lpp:488</guid>
+      <pubDate>Thu, 05 Apr 2018 17:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature LPP Version 487</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP487.zip"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP487.zip&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+          &lt;div&gt;
+    &lt;h1&gt;Informations sur la version 487&lt;/h1&gt;
+    &lt;p&gt;Titre et chapitre visés par les textes réglementaires : &lt;/p&gt;
+    &lt;pre&gt;
+TIII Ch2 CEMSTOP
+TIII Ch2 ENDOBON
+TII Ch4 ORTHESES
+TI Ch1 PERFUSION
+TIV Ch2 INVACARE
+TIV Ch3 ALBER VIAMOBIL
+TIV ALBER VIAPLUS
+    &lt;/pre&gt;
+
+    &lt;p&gt;Dates des arrêtés visés - Avis tarifs et prix : &lt;/p&gt;
+    &lt;pre&gt;
+Arrêté du 14 mars 2018 - (JO du 20/03/2018-T15)
+Arrêté du 14 mars 2018 - (JO du 20/03/2018-T16)
+Arrêté du 14 mars 2018 - (JO du 20/03/2018-T17-T92-T93)
+Arrêté du 14 mars 2018 - (JO du 20/03/2018-T18-T94)
+Arrêté du 14 mars 2018 - (JO du 23/03/2018-T21-T116)
+Arrêté du 21 mars 2018 - (JO du 23/03/2018-T22-T114)
+Arrêté du 21 mars 2018 - (JO du 23/03/2018-T23-T115)
+    &lt;/pre&gt;
+
+    &lt;p&gt;Date du JO le plus récent de la version : &lt;em&gt;23-03-2018&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;Date de mise en ligne sur le site &lt;a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp"&gt;Ameli.fr&lt;/a&gt; : &lt;em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:lpp:487</guid>
+      <pubDate>Wed, 28 Mar 2018 17:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature LPP Version 486</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP486.zip"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP486.zip&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+          &lt;div&gt;
+    &lt;h1&gt;Informations sur la version 486&lt;/h1&gt;
+    &lt;p&gt;Titre et chapitre visés par les textes réglementaires : &lt;/p&gt;
+    &lt;pre&gt;
+TIII Ch1 VLIFT
+TIII Ch1 ETHICON
+TIII Ch1 ORBIT 
+TI Ch1 VISMED 
+TI Ch1 HYLOVIS 
+    &lt;/pre&gt;
+
+    &lt;p&gt;Dates des arrêtés visés - Avis tarifs et prix : &lt;/p&gt;
+    &lt;pre&gt;
+arrêté du 12 mars 2018 portant modification des conditions d’inscription de l’implant de reconstruction corporéale VLIFT JO du 15/03/2018-T36-T132
+arrêté du 12 mars 2018 portant changement de dénomination sociale pour certains dispositifs médicaux des sociétés ETHICON et DEPUY et portant changement de dénomination commerciale de la division CODMAN JO du 15/03/2018-T38
+arrêté du 12 mars 2018 portant renouvellement d’inscription de l’implant d’embolisation artérielle ORBIT GALAXY JO du 15/03/2018-T39
+arrêté du 12 mars 2018 portant modification des conditions d’inscription de la solution pour usage ophtalmique VISMED MULTI 15 ml JO du 15/03/2018-T40
+arrêté du 12 mars 2018 portant modification des conditions d’inscription de la solution pour usage ophtalmique HYLOVIS MULTI 15 ml JO du 15/03/2018-T41
+    &lt;/pre&gt;
+
+    &lt;p&gt;Date du JO le plus récent de la version : &lt;em&gt;15-03-2018&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;Date de mise en ligne sur le site &lt;a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp"&gt;Ameli.fr&lt;/a&gt; : &lt;em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:lpp:486</guid>
+      <pubDate>Tue, 27 Mar 2018 14:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature LPP Version 485</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP485.zip"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP485.zip&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+          &lt;div&gt;
+    &lt;h1&gt;Informations sur la version 485&lt;/h1&gt;
+    &lt;p&gt;Titre et chapitre visés par les textes réglementaires : &lt;/p&gt;
+    &lt;pre&gt;
+RECTIF PRESTATION
+PRIX AU 01/01/2018 
+RECTIF MAJORATION
+TIII Ch 2
+TIII Ch 4 
+    &lt;/pre&gt;
+
+    &lt;p&gt;Dates des arrêtés visés - Avis tarifs et prix : &lt;/p&gt;
+    &lt;pre&gt;
+Rectification de la prestation erronée des codes 2289571, 1158973 et 1162590
+Avis relatif à la tarification au 01/01/2018 du pied à restitution d’énergie de classe III XTEND FOOT H100 - JO du 12/12/2017-T98
+RECTIF MAJO Pour La Réunion des codes 1349727 et 1395526
+Arrêté du 2 mars 2018 - JO du 08/03/2018-T27
+Arrêté du 6 mars 2018 - JO du 08/03/2018-T35-T36-T129
+    &lt;/pre&gt;
+
+    &lt;p&gt;Date du JO le plus récent de la version : &lt;em&gt;08-03-2018&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;Date de mise en ligne sur le site &lt;a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp"&gt;Ameli.fr&lt;/a&gt; : &lt;em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:lpp:485</guid>
+      <pubDate>Thu, 22 Mar 2018 15:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature LPP Version 484</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP484.zip"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP484.zip&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+          &lt;div&gt;
+    &lt;h1&gt;Informations sur la version 484&lt;/h1&gt;
+    &lt;p&gt;Titre et chapitre visés par les textes réglementaires : &lt;/p&gt;
+    &lt;pre&gt;
+
+    &lt;/pre&gt;
+
+    &lt;p&gt;Dates des arrêtés visés - Avis tarifs et prix : &lt;/p&gt;
+    &lt;pre&gt;
+Avis relatif à la tarification de MITRACLIP et MITRACLIP NT visés à l’article L. 165-1 de la sécurité sociale (JO du 14/02/2018-T134)
+    &lt;/pre&gt;
+
+    &lt;p&gt;Date du JO le plus récent de la version : &lt;em&gt;20-02-2018&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;Date de mise en ligne sur le site &lt;a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp"&gt;Ameli.fr&lt;/a&gt; : &lt;em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:lpp:484</guid>
+      <pubDate>Wed, 07 Mar 2018 15:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature LPP Version 483</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP483.zip"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP483.zip&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+          &lt;div&gt;
+    &lt;h1&gt;Informations sur la version 483&lt;/h1&gt;
+    &lt;p&gt;Titre et chapitre visés par les textes réglementaires : &lt;/p&gt;
+    &lt;pre&gt;
+TICh1
+TICh2
+    &lt;/pre&gt;
+
+    &lt;p&gt;Dates des arrêtés visés - Avis tarifs et prix : &lt;/p&gt;
+    &lt;pre&gt;
+Arrêté du 14 février 2018 - JO du 20/02/2018-T10-T103
+Arrêté du 14 février 2018  - JO du 20/02/2018-T11-T104
+Arrêté du 14 février 2018 - JO du 20/02/2018-T12-T106
+Arrêté du 14 février 2018 - JO du 20/02/2018-T13-T105
+    &lt;/pre&gt;
+
+    &lt;p&gt;Date du JO le plus récent de la version : &lt;em&gt;20-02-2018&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;Date de mise en ligne sur le site &lt;a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp"&gt;Ameli.fr&lt;/a&gt; : &lt;em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:lpp:483</guid>
+      <pubDate>Thu, 01 Mar 2018 15:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature LPP Version 482</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP482.zip"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP482.zip&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+          &lt;div&gt;
+    &lt;h1&gt;Informations sur la version 482&lt;/h1&gt;
+    &lt;p&gt;Titre et chapitre visés par les textes réglementaires : &lt;/p&gt;
+    &lt;pre&gt;
+PRIX AU 26/02/2018
+TIII Ch4 
+PRIX AU 01/03/2018
+ TIII Ch1 
+TII Ch4 
+TI Ch1 
+    &lt;/pre&gt;
+
+    &lt;p&gt;Dates des arrêtés visés - Avis tarifs et prix : &lt;/p&gt;
+    &lt;pre&gt;
+Avis relatif à la fixation de tarifs et de prix limites de vente au public - JO du 16/12/2017-T126
+Arrêté du 6 février 2018 - JO du 13/02/2018-T10-T67
+Avis relatif à la tarification de MITRACLIP et MITRACLIP NT - JO du 14/02/2018-T134
+Arrêté du 12 février 2018 - JO du 15/02/2018-T13
+Arrêté du 12 février 2018 - JO du 15/02/2018-T14
+Arrêté du 12 février 2018 - JO du 15/02/2018-T16-T142
+Arrêté du 12 février 2018 - JO du 15/02/2018-T20-T141                                            
+Arrêté du 13 février 2018 - JO du 16/02/2018-T14-T98
+Arrêté du 13 février 2018 - JO du 16/02/2018-T16-T99
+Arrêté du 13 février 2018 - JO du 16/02/2018-T18-T100
+    &lt;/pre&gt;
+
+    &lt;p&gt;Date du JO le plus récent de la version : &lt;em&gt;16-02-2018&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;Date de mise en ligne sur le site &lt;a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp"&gt;Ameli.fr&lt;/a&gt; : &lt;em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:lpp:482</guid>
+      <pubDate>Mon, 26 Feb 2018 18:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature LPP Version 481</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP481.zip"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP481.zip&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+          &lt;div&gt;
+    &lt;h1&gt;Informations sur la version 481&lt;/h1&gt;
+    &lt;p&gt;Titre et chapitre visés par les textes réglementaires : &lt;/p&gt;
+    &lt;pre&gt;
+TIII Ch1 
+TIII Ch1  
+TII Ch2
+    &lt;/pre&gt;
+
+    &lt;p&gt;Dates des arrêtés visés - Avis tarifs et prix : &lt;/p&gt;
+    &lt;pre&gt;
+BOLTON Arrêté du 2 février 2018 - JO du 06/02/2018-T63
+« PRIX 20/02/2018 » - JO du 07/02/2018-T124
+CONFORMABLE » - Arrêté du 2 février 2018 -JO du 08/02/2018-T17
+COREVALVE - Arrêté du 8 février 2018 - JO du 09/02/2018-T45-T124
+    &lt;/pre&gt;
+
+    &lt;p&gt;Date du JO le plus récent de la version : &lt;em&gt;09-02-2018&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;Date de mise en ligne sur le site &lt;a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp"&gt;Ameli.fr&lt;/a&gt; : &lt;em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:lpp:481</guid>
+      <pubDate>Thu, 15 Feb 2018 18:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature LPP Version 480</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP480.zip"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP480.zip&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+          &lt;div&gt;
+    &lt;h1&gt;Informations sur la version 480&lt;/h1&gt;
+    &lt;p&gt;Titre et chapitre visés par les textes réglementaires : &lt;/p&gt;
+    &lt;pre&gt;
+
+    &lt;/pre&gt;
+
+    &lt;p&gt;Dates des arrêtés visés - Avis tarifs et prix : &lt;/p&gt;
+    &lt;pre&gt;
+Suppression d’un historique erroné pour le code 3180468
+Arrêté du 29 janvier 2018 portant inscription du système de télésurveillance LATITUDE NXT pour défibrillateur cardiaque automatique implantable à sonde sous-cutanée EMBLEM de la société BOSTON SCIENTIFIC SAS au titre III de la liste des produits et prestations remboursables prévue à l’article L. 165-1 du code de la sécurité sociale (JO du 01/02/2018-T25)
+    &lt;/pre&gt;
+
+    &lt;p&gt;Date du JO le plus récent de la version : &lt;em&gt;01-02-2018&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;Date de mise en ligne sur le site &lt;a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp"&gt;Ameli.fr&lt;/a&gt; : &lt;em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:lpp:480</guid>
+      <pubDate>Wed, 07 Feb 2018 18:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature LPP Version 479</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP479.zip"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP479.zip&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+          &lt;div&gt;
+    &lt;h1&gt;Informations sur la version 479&lt;/h1&gt;
+    &lt;p&gt;Titre et chapitre visés par les textes réglementaires : &lt;/p&gt;
+    &lt;pre&gt;
+TIII Ch1                                                          
+    &lt;/pre&gt;
+
+    &lt;p&gt;Dates des arrêtés visés - Avis tarifs et prix : &lt;/p&gt;
+    &lt;pre&gt;
+ANACONDA - Arrêté du 22 janvier 2018 - JO du 24/01/2018-T20-T117
+PRIX 2742214- Avis relatif à la tarification du pied à variante prothétique - JO du 24/01/2018-T123
+ Avis relatif à la tarification de l’endoprothèse aortique abdominale - JO du 25/01/2018-T96
+    &lt;/pre&gt;
+
+    &lt;p&gt;Date du JO le plus récent de la version : &lt;em&gt;25-01-2018&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;Date de mise en ligne sur le site &lt;a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp"&gt;Ameli.fr&lt;/a&gt; : &lt;em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:lpp:479</guid>
+      <pubDate>Fri, 02 Feb 2018 18:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature LPP Version 478</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP478.zip"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP478.zip&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+          &lt;div&gt;
+    &lt;h1&gt;Informations sur la version 478&lt;/h1&gt;
+    &lt;p&gt;Titre et chapitre visés par les textes réglementaires : &lt;/p&gt;
+    &lt;pre&gt;
+TIII Ch1 
+                                                         
+    &lt;/pre&gt;
+
+    &lt;p&gt;Dates des arrêtés visés - Avis tarifs et prix : &lt;/p&gt;
+    &lt;pre&gt;
+MAJ REUNION  Ajout de la majoration sur deux codes PAN 
+PRIX AU 01/02/2018 - Avis relatif à la tarification de AIR  - JO du 29/12/2017-T158
+Décision du 12 janvier 2018 - JO du 16/01/2018-T5
+Avis relatif à la tarification des implants méniscaux - JO du 16/01/2018-T112
+Avis relatif à la baisse de certains implants orthopédiques  - JO du 17/01/2018-T110
+Arrêté du 12 janvier 2018 - JO du 16/01/2018-T4
+Arrêté du 15 janvier 2018 - JO du 18/01/2018-T22-T122
+Arrêté du 15 janvier 2018 - JO du 19/01/2018-T13
+Avis relatif à la tarification de NEW-FILL - JO du 19/01/2018-T96
+    &lt;/pre&gt;
+
+    &lt;p&gt;Date du JO le plus récent de la version : &lt;em&gt;25-01-2018&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;Date de mise en ligne sur le site &lt;a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp"&gt;Ameli.fr&lt;/a&gt; : &lt;em&gt;25-01-2018&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:lpp:478</guid>
+      <pubDate>Fri, 26 Jan 2018 15:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature LPP Version 477</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP477.zip"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP477.zip&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+          &lt;div&gt;
+    &lt;h1&gt;Informations sur la version 477&lt;/h1&gt;
+    &lt;p&gt;Titre et chapitre visés par les textes réglementaires : &lt;/p&gt;
+    &lt;pre&gt;
+TII Ch4 
+TII Ch7
+TIII Ch2                                                           TII Ch7
+    &lt;/pre&gt;
+
+    &lt;p&gt;Dates des arrêtés visés - Avis tarifs et prix : &lt;/p&gt;
+    &lt;pre&gt;
+Rectification de la prestation erronée de 14 codes PPC : service au lieu de achat
+Arrêté du 4 janvier 2018  - JO du 09/01/2018-T14
+- Arrêté du 4 janvier 2018  - JO du 09/01/2018-T15-T47
+Arrêté du 4 janvier 2018  - JO du 09/01/2018-T16)
+Arrêté du 10 janvier 2018  -JO du 12/01/2018-T13-T130
+    &lt;/pre&gt;
+
+    &lt;p&gt;Date du JO le plus récent de la version : &lt;em&gt;12-01-2018&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;Date de mise en ligne sur le site &lt;a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp"&gt;Ameli.fr&lt;/a&gt; : &lt;em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:lpp:477</guid>
+      <pubDate>Tue, 16 Jan 2018 18:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature LPP Version 476</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP476.zip"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP476.zip&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+          &lt;div&gt;
+    &lt;h1&gt;Informations sur la version 476&lt;/h1&gt;
+    &lt;p&gt;Titre et chapitre visés par les textes réglementaires : &lt;/p&gt;
+    &lt;pre&gt;
+TII Ch7
+TIII Ch4
+TIII Ch1
+    &lt;/pre&gt;
+
+    &lt;p&gt;Dates des arrêtés visés - Avis tarifs et prix : &lt;/p&gt;
+    &lt;pre&gt;
+Arrêté du 21 décembre 2017 - JO du 27/12/2017-T19-T231
+Arrêté du 21 décembre 2017 - JO du 27/12/2017- T20-T234
+Avis relatif à la tarification de l’endoprothèse aortique abdominale - JO du 27/12/2017- T233
+Arrêté du 21 décembre 2017 - JO du 29/12/2017-T52
+Arrêté du 21 décembre 2017 - JO du 29/12/2017-T53
+    &lt;/pre&gt;
+
+    &lt;p&gt;Date du JO le plus récent de la version : &lt;em&gt;29-12-2017&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;Date de mise en ligne sur le site &lt;a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp"&gt;Ameli.fr&lt;/a&gt; : &lt;em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:lpp:476</guid>
+      <pubDate>Tue, 09 Jan 2018 10:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature LPP Version 475</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP475.zip"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP475.zip&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+          &lt;div&gt;
+    &lt;h1&gt;Informations sur la version 475&lt;/h1&gt;
+    &lt;p&gt;Titre et chapitre visés par les textes réglementaires : &lt;/p&gt;
+    &lt;pre&gt;
+RECTIF 3422730
+TIII CH1
+TII CH7
+TI CH3
+TV CH2
+    &lt;/pre&gt;
+
+    &lt;p&gt;Dates des arrêtés visés - Avis tarifs et prix : &lt;/p&gt;
+    &lt;pre&gt;
+ 
+Avis relatif à la tarification de AEQUSVAL -  (JO du 24/11/2017-T146)
+Avis modifiant l’avis relatif à la fixation des prix de cession, des tarifs et des prix limites de vente au public en euros TTC des pansements anatomiques sociale (JO du 26/07/2016-T75)
+Avis relatif à la tarification des pansements IALUSET (JO du 22/02/2017-T73)
+RECTIFICATION LIBELLE 3422730 
+Arrêté du 13 décembre 2017  - (JO du 16/12/2017-T27-T126)
+  Arrêté du 15 décembre 2017  - (JO du 19/12/2017-T33)
+ Arrêté du 15 décembre 2017 -  (JO du 19/12/2017-T36)
+Arrêté du 15 décembre 2017   - (JO du 20/12/2017-T24-T120)
+     Arrêté du 15 décembre 2017 - (JO du 20/12/2017-T23-T121)
+ Arrêté du 20 décembre 2017  -(JO du 22/12/2017-T44-T173)
+    &lt;/pre&gt;
+
+    &lt;p&gt;Date du JO le plus récent de la version : &lt;em&gt;22-12-2017&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;Date de mise en ligne sur le site &lt;a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp"&gt;Ameli.fr&lt;/a&gt; : &lt;em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:lpp:475</guid>
+      <pubDate>Thu, 04 Jan 2018 17:51:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature LPP Version 474</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -59,11 +644,11 @@ Avis relatif à la tarification des pieds à restitution d’énergie  - JO du 1
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v474</guid>
+      <guid>urn:ameli:lpp:474</guid>
       <pubDate>Thu, 28 Dec 2017 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 473</title>
+      <title>Nomenclature LPP Version 473</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -100,11 +685,11 @@ Rectification du taux de majoration pour La Réunion pour les 12 codes passés d
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v473</guid>
+      <guid>urn:ameli:lpp:473</guid>
       <pubDate>Thu, 14 Dec 2017 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 472</title>
+      <title>Nomenclature LPP Version 472</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -142,11 +727,11 @@ Arrêté du 29 novembre 2017  - JO du 01/12/2017-T23
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v472</guid>
+      <guid>urn:ameli:lpp:472</guid>
       <pubDate>Mon, 11 Dec 2017 14:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>Version 471</title>
+      <title>Nomenclature LPP Version 471</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -186,11 +771,11 @@ Avis relatif à la tarification de AEQUASYAL  - JO du 24/11/2017-T146
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v471</guid>
+      <guid>urn:ameli:lpp:471</guid>
       <pubDate>Mon, 04 Dec 2017 07:00:04 +0000</pubDate>
     </item>
     <item>
-      <title>Version 470</title>
+      <title>Nomenclature LPP Version 470</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -218,11 +803,11 @@ Arrêté du 9 novembre 2017 - JO du 14/11/2017 – T35
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v470</guid>
+      <guid>urn:ameli:lpp:470</guid>
       <pubDate>Wed, 22 Nov 2017 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 469</title>
+      <title>Nomenclature LPP Version 469</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -265,11 +850,11 @@ Arrêté du 31 octobre 2017 - JO du 03/11/2017 – T20
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v469</guid>
+      <guid>urn:ameli:lpp:469</guid>
       <pubDate>Wed, 15 Nov 2017 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 468</title>
+      <title>Nomenclature LPP Version 468</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -304,11 +889,11 @@ Arrêté du 25 octobre 2017 - JO du 27/10/2017 - T17
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v468</guid>
+      <guid>urn:ameli:lpp:468</guid>
       <pubDate>Fri, 03 Nov 2017 16:54:58 +0000</pubDate>
     </item>
     <item>
-      <title>Version 467</title>
+      <title>Nomenclature LPP Version 467</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -347,11 +932,11 @@ Avis relatif à la tarification des aliments MODULEN IBD, IMPACT ENTERAL, ORAL I
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v467</guid>
+      <guid>urn:ameli:lpp:467</guid>
       <pubDate>Wed, 25 Oct 2017 14:39:29 +0000</pubDate>
     </item>
     <item>
-      <title>Version 466</title>
+      <title>Nomenclature LPP Version 466</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -380,11 +965,11 @@ Avis relatif à la tarification de VIATORR TIPS visé à l’article L. 165-1 du
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v466</guid>
+      <guid>urn:ameli:lpp:466</guid>
       <pubDate>Wed, 25 Oct 2017 10:04:39 +0000</pubDate>
     </item>
     <item>
-      <title>Version 465</title>
+      <title>Nomenclature LPP Version 465</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -419,11 +1004,11 @@ Arrêté du 3 octobre 2017 - JO du 06/10/2017 – T20
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v465</guid>
+      <guid>urn:ameli:lpp:465</guid>
       <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 464</title>
+      <title>Nomenclature LPP Version 464</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -460,11 +1045,11 @@ JO du 06/12/2016 T186
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v464</guid>
+      <guid>urn:ameli:lpp:464</guid>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 463</title>
+      <title>Nomenclature LPP Version 463</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -499,11 +1084,11 @@ Avis de fixation de tarifs et de prix limites de vente au public (PLV) du forfai
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v463</guid>
+      <guid>urn:ameli:lpp:463</guid>
       <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 462</title>
+      <title>Nomenclature LPP Version 462</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -535,11 +1120,11 @@ Arrêté du 29 août 2017 - JO du 01/09/2017 – T 12
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v462</guid>
+      <guid>urn:ameli:lpp:462</guid>
       <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 461</title>
+      <title>Nomenclature LPP Version 461</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -584,11 +1169,11 @@ Arrêté du 4 août 2017 - JO du 17/08/2017 – T 27
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v461</guid>
+      <guid>urn:ameli:lpp:461</guid>
       <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 460</title>
+      <title>Nomenclature LPP Version 460</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -624,11 +1209,11 @@ Arrêté du 28 juillet 2017 - JO du 02/08/2017 – T 17
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v460</guid>
+      <guid>urn:ameli:lpp:460</guid>
       <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 459</title>
+      <title>Nomenclature LPP Version 459</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -660,11 +1245,11 @@ Avis relatif tarif du dispositif de réhabilitation de mobilité mandibulaire - 
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v459</guid>
+      <guid>urn:ameli:lpp:459</guid>
       <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 458</title>
+      <title>Nomenclature LPP Version 458</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -698,11 +1283,11 @@ Arrêté du 18 juillet 2017 - JO du 20/07/2017 – T 23                         
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v458</guid>
+      <guid>urn:ameli:lpp:458</guid>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 457</title>
+      <title>Nomenclature LPP Version 457</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -736,11 +1321,11 @@ Arrêté du 7 juillet 2017 - JO du 12/07/2017 T19
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v457</guid>
+      <guid>urn:ameli:lpp:457</guid>
       <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 456</title>
+      <title>Nomenclature LPP Version 456</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -792,11 +1377,11 @@ Arrêté du 4 juillet 2017 - JO du 07/07/2017 T22
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v456</guid>
+      <guid>urn:ameli:lpp:456</guid>
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 455</title>
+      <title>Nomenclature LPP Version 455</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -838,11 +1423,11 @@ Arrêté du 3 mai 2017 - JO du 05/05/2017 T70 – Art.2
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v455</guid>
+      <guid>urn:ameli:lpp:455</guid>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 454</title>
+      <title>Nomenclature LPP Version 454</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -878,11 +1463,11 @@ Avis relatif aux tarifs - JO du 15/06/2017 T139
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v454</guid>
+      <guid>urn:ameli:lpp:454</guid>
       <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 453</title>
+      <title>Nomenclature LPP Version 453</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -910,11 +1495,11 @@ Arrêté du 12 juin 2017 - JO du 14/06/2017 T9
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v453</guid>
+      <guid>urn:ameli:lpp:453</guid>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 452</title>
+      <title>Nomenclature LPP Version 452</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -944,11 +1529,11 @@ Rectification « Age Maxi » à 10 ans pour le code 1173636 (JO du 20/04/2017 T1
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v452</guid>
+      <guid>urn:ameli:lpp:452</guid>
       <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 451</title>
+      <title>Nomenclature LPP Version 451</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -976,11 +1561,11 @@ Arrêté du 8 septembre 2016- JO du 13/09/2016 T15.
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v451</guid>
+      <guid>urn:ameli:lpp:451</guid>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 450</title>
+      <title>Nomenclature LPP Version 450</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1012,11 +1597,11 @@ Rectification de certains codes  - JO du 29/03/2017-T33
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v450</guid>
+      <guid>urn:ameli:lpp:450</guid>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 449</title>
+      <title>Nomenclature LPP Version 449</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1050,7 +1635,7 @@ Arrêté du 4 mai 2017 - JO du 06/05/2017-T39
 Arrêté du 5 mai 2017 - JO du 10/05/2017-T101
 Rectification d'un code  - JO du 28/03/2017
 Rectification d'un code soumis à indications de prise ne charge 
-Rectification dans le libellé complet des indications de prise en charge pour
+Rectification dans le libellé htmlet des indications de prise en charge pour
 certains codes - JO du 21/05/2015- T9
     &lt;/pre&gt;
 
@@ -1059,11 +1644,11 @@ certains codes - JO du 21/05/2015- T9
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v449</guid>
+      <guid>urn:ameli:lpp:449</guid>
       <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 448</title>
+      <title>Nomenclature LPP Version 448</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1099,11 +1684,11 @@ Arrêté du 04 mai 2017 -  JO du 05/05/2017-T75
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v448</guid>
+      <guid>urn:ameli:lpp:448</guid>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 447</title>
+      <title>Nomenclature LPP Version 447</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1135,11 +1720,11 @@ Arrêté du 26 avril 2017 - JO du 28/04/2017 T47
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v447</guid>
+      <guid>urn:ameli:lpp:447</guid>
       <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 446</title>
+      <title>Nomenclature LPP Version 446</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1172,11 +1757,11 @@ JO du 20/04/2017 T18
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v446</guid>
+      <guid>urn:ameli:lpp:446</guid>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 445</title>
+      <title>Nomenclature LPP Version 445</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1210,11 +1795,11 @@ JO du 13/04/2017-T 27
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v445</guid>
+      <guid>urn:ameli:lpp:445</guid>
       <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 444</title>
+      <title>Nomenclature LPP Version 444</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1246,11 +1831,11 @@ JO du 11/04/2017-T 53
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v444</guid>
+      <guid>urn:ameli:lpp:444</guid>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 443</title>
+      <title>Nomenclature LPP Version 443</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1288,11 +1873,11 @@ JO du 31/03/2017-T 168
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v443</guid>
+      <guid>urn:ameli:lpp:443</guid>
       <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 442</title>
+      <title>Nomenclature LPP Version 442</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1321,11 +1906,11 @@ Arrêté du 20 mars 2017 (JO du 22/03/2017-T 27)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v442</guid>
+      <guid>urn:ameli:lpp:442</guid>
       <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 441</title>
+      <title>Nomenclature LPP Version 441</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1362,11 +1947,11 @@ avis relatif à la baisse de tarifs - JO du 07/03/2017 T112
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v441</guid>
+      <guid>urn:ameli:lpp:441</guid>
       <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 440</title>
+      <title>Nomenclature LPP Version 440</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1399,11 +1984,11 @@ Avis relatif aux tarifs et aux prix limites du JO du 06/04/2016 T80
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v440</guid>
+      <guid>urn:ameli:lpp:440</guid>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 439</title>
+      <title>Nomenclature LPP Version 439</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1446,11 +2031,11 @@ Arrêté du 17 février 2017 - JO du 21/02/2017 T17
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v439</guid>
+      <guid>urn:ameli:lpp:439</guid>
       <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 438</title>
+      <title>Nomenclature LPP Version 438</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1484,11 +2069,11 @@ Arrêté du 5 janvier 2017-  JO du 10/01/2017 T10
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v438</guid>
+      <guid>urn:ameli:lpp:438</guid>
       <pubDate>Fri, 03 Feb 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 437</title>
+      <title>Nomenclature LPP Version 437</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1522,11 +2107,11 @@ JO du 31/01/217 T29
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v437</guid>
+      <guid>urn:ameli:lpp:437</guid>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 436</title>
+      <title>Nomenclature LPP Version 436</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1560,11 +2145,11 @@ Rectification avis relatif prix- JO du 26/07/2016
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v436</guid>
+      <guid>urn:ameli:lpp:436</guid>
       <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 435</title>
+      <title>Nomenclature LPP Version 435</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1592,11 +2177,11 @@ JO du 12/01/2017 T22
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v435</guid>
+      <guid>urn:ameli:lpp:435</guid>
       <pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 434</title>
+      <title>Nomenclature LPP Version 434</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1625,11 +2210,11 @@ JO du 10/01/2017 T12, T15, T19 et T23
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v434</guid>
+      <guid>urn:ameli:lpp:434</guid>
       <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 433</title>
+      <title>Nomenclature LPP Version 433</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1666,11 +2251,11 @@ JO du 06/12/2016 T181
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v433</guid>
+      <guid>urn:ameli:lpp:433</guid>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 432</title>
+      <title>Nomenclature LPP Version 432</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1701,11 +2286,11 @@ JO du 15/12/2016 - T 136
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v432</guid>
+      <guid>urn:ameli:lpp:432</guid>
       <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 431</title>
+      <title>Nomenclature LPP Version 431</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1739,11 +2324,11 @@ JO du 16/12/2016 T47
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v431</guid>
+      <guid>urn:ameli:lpp:431</guid>
       <pubDate>Fri, 23 Dec 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 430</title>
+      <title>Nomenclature LPP Version 430</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1776,11 +2361,11 @@ JO du 13/12/2016 T119
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v430</guid>
+      <guid>urn:ameli:lpp:430</guid>
       <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 429</title>
+      <title>Nomenclature LPP Version 429</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1810,11 +2395,11 @@ JO du 25/11/2016 T9 et T10
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v429</guid>
+      <guid>urn:ameli:lpp:429</guid>
       <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 428</title>
+      <title>Nomenclature LPP Version 428</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1843,11 +2428,11 @@ JO du 23/07/2016 T23
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v428</guid>
+      <guid>urn:ameli:lpp:428</guid>
       <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 427</title>
+      <title>Nomenclature LPP Version 427</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1876,11 +2461,11 @@ JO du 08/11/2016 - T6, T8 et T10
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v427</guid>
+      <guid>urn:ameli:lpp:427</guid>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 426</title>
+      <title>Nomenclature LPP Version 426</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1909,11 +2494,11 @@ JO du 25/10/2016 - T25, T26 et T27
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v426</guid>
+      <guid>urn:ameli:lpp:426</guid>
       <pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 425</title>
+      <title>Nomenclature LPP Version 425</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1946,11 +2531,11 @@ JO du 21/10/2016 - T 93
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v425</guid>
+      <guid>urn:ameli:lpp:425</guid>
       <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 424</title>
+      <title>Nomenclature LPP Version 424</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -1985,11 +2570,11 @@ JO du 28/09/2016 T12
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v424</guid>
+      <guid>urn:ameli:lpp:424</guid>
       <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 423</title>
+      <title>Nomenclature LPP Version 423</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2026,11 +2611,11 @@ JO du 23/07/2016 T23
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v423</guid>
+      <guid>urn:ameli:lpp:423</guid>
       <pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 422</title>
+      <title>Nomenclature LPP Version 422</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2060,11 +2645,11 @@ arrêté du 29/08/2016 (JO du 01/09/2016 - T35)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v422</guid>
+      <guid>urn:ameli:lpp:422</guid>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 421</title>
+      <title>Nomenclature LPP Version 421</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2092,11 +2677,11 @@ JO du 02/04/2015 - T 102
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v421</guid>
+      <guid>urn:ameli:lpp:421</guid>
       <pubDate>Wed, 27 Jul 2016 10:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 420</title>
+      <title>Nomenclature LPP Version 420</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2129,11 +2714,11 @@ JO du 27/07/2016 - T 98
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v420</guid>
+      <guid>urn:ameli:lpp:420</guid>
       <pubDate>Wed, 27 Jul 2016 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 419</title>
+      <title>Nomenclature LPP Version 419</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2171,11 +2756,11 @@ JO du 21/07/2016 T73
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v419</guid>
+      <guid>urn:ameli:lpp:419</guid>
       <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 418</title>
+      <title>Nomenclature LPP Version 418</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2203,11 +2788,11 @@ Avis prix (JO du 16/07/2015 T181)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v418</guid>
+      <guid>urn:ameli:lpp:418</guid>
       <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 417</title>
+      <title>Nomenclature LPP Version 417</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2235,11 +2820,11 @@ Avis prix (JO du 16/07/2015 T181)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v417</guid>
+      <guid>urn:ameli:lpp:417</guid>
       <pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 416</title>
+      <title>Nomenclature LPP Version 416</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2272,11 +2857,11 @@ arrêté du 20/06/2016 (JO du 23/06/2016 - T219)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v416</guid>
+      <guid>urn:ameli:lpp:416</guid>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 415</title>
+      <title>Nomenclature LPP Version 415</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2304,11 +2889,11 @@ arrêté du 4/4/2016 (JO du 12/4/2016 - T23)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v415</guid>
+      <guid>urn:ameli:lpp:415</guid>
       <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 414</title>
+      <title>Nomenclature LPP Version 414</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2338,11 +2923,11 @@ Correction PLV (JO du 01/03/2016 - T16)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v414</guid>
+      <guid>urn:ameli:lpp:414</guid>
       <pubDate>Wed, 25 May 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 413</title>
+      <title>Nomenclature LPP Version 413</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2372,11 +2957,11 @@ avis prix (JO 3/09/2014-T84)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v413</guid>
+      <guid>urn:ameli:lpp:413</guid>
       <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 412</title>
+      <title>Nomenclature LPP Version 412</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2405,11 +2990,11 @@ décision du Conseil d'État rendue le 18/04/2016 annulant les baisses de prix p
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v412</guid>
+      <guid>urn:ameli:lpp:412</guid>
       <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 411</title>
+      <title>Nomenclature LPP Version 411</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2439,11 +3024,11 @@ arrêté du 20/4/2016 (JO du 27/4/2016 - T19)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v411</guid>
+      <guid>urn:ameli:lpp:411</guid>
       <pubDate>Wed, 04 May 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 410</title>
+      <title>Nomenclature LPP Version 410</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2477,11 +3062,11 @@ avis prix (JO 15/12/2015-T119, JO 27/02/2015-T121, JO 9/06/2015-T94)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v410</guid>
+      <guid>urn:ameli:lpp:410</guid>
       <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 409</title>
+      <title>Nomenclature LPP Version 409</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2511,11 +3096,11 @@ correctif prix ((JO du 11/03/16 T134)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v409</guid>
+      <guid>urn:ameli:lpp:409</guid>
       <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 408</title>
+      <title>Nomenclature LPP Version 408</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2545,11 +3130,11 @@ avis prix (JO du 10/4/15 T114 - JO du 10/7/15 T151 - JO du 13/11/15 T173  et  T1
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v408</guid>
+      <guid>urn:ameli:lpp:408</guid>
       <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 407</title>
+      <title>Nomenclature LPP Version 407</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2579,11 +3164,11 @@ arrêté du 7/3/16 (JO du 16/3/16 - T15)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v407</guid>
+      <guid>urn:ameli:lpp:407</guid>
       <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 406</title>
+      <title>Nomenclature LPP Version 406</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2613,11 +3198,11 @@ Arrêté du 19/02/16 (JO 02/03/2016-T19)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v406</guid>
+      <guid>urn:ameli:lpp:406</guid>
       <pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 405</title>
+      <title>Nomenclature LPP Version 405</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2647,11 +3232,11 @@ Arrêté du 19/02/16 (JO 26/02/2016-T 19)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v405</guid>
+      <guid>urn:ameli:lpp:405</guid>
       <pubDate>Wed, 02 Mar 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 404</title>
+      <title>Nomenclature LPP Version 404</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2679,11 +3264,11 @@ Arrêté du 19/02/2016 (JO du 23/02/2016 T18)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v404</guid>
+      <guid>urn:ameli:lpp:404</guid>
       <pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 403</title>
+      <title>Nomenclature LPP Version 403</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2711,11 +3296,11 @@ Arrêté du 06/11/15 (JO du 10/11/15 T14)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v403</guid>
+      <guid>urn:ameli:lpp:403</guid>
       <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 402</title>
+      <title>Nomenclature LPP Version 402</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2747,11 +3332,11 @@ Arrêté du 01/02/2016 (JO du 03/02/2016 T31, T33, T34, T36, T37 et JO du 04/02/
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v402</guid>
+      <guid>urn:ameli:lpp:402</guid>
       <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 401</title>
+      <title>Nomenclature LPP Version 401</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2779,11 +3364,11 @@ Arrêté du 28/01/2016 (JO du 02/02/16 T7 et T8)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v401</guid>
+      <guid>urn:ameli:lpp:401</guid>
       <pubDate>Wed, 03 Feb 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 400</title>
+      <title>Nomenclature LPP Version 400</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2814,11 +3399,11 @@ Arrêté du 15/01/2016 (JO du 19/01/2016 T23)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v400</guid>
+      <guid>urn:ameli:lpp:400</guid>
       <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 399</title>
+      <title>Nomenclature LPP Version 399</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2846,11 +3431,11 @@ Avis relatif aux prix (JO du 26/11/2015 T121)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v399</guid>
+      <guid>urn:ameli:lpp:399</guid>
       <pubDate>Thu, 07 Jan 2016 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 398</title>
+      <title>Nomenclature LPP Version 398</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2882,11 +3467,11 @@ Avis relatif aux prix (JO du 17/12/2015 T156)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v398</guid>
+      <guid>urn:ameli:lpp:398</guid>
       <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 397</title>
+      <title>Nomenclature LPP Version 397</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2920,11 +3505,11 @@ Arrêté du 15 décembre 2015 (JO du 18/12/2015 T37)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v397</guid>
+      <guid>urn:ameli:lpp:397</guid>
       <pubDate>Wed, 23 Dec 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 396</title>
+      <title>Nomenclature LPP Version 396</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2954,11 +3539,11 @@ arrêté du 02/12/15 (JO du 04/12/15)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v396</guid>
+      <guid>urn:ameli:lpp:396</guid>
       <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 395</title>
+      <title>Nomenclature LPP Version 395</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -2988,11 +3573,11 @@ arrêté du 06/11/15 (JO du 10/11/15)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v395</guid>
+      <guid>urn:ameli:lpp:395</guid>
       <pubDate>Thu, 19 Nov 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 394</title>
+      <title>Nomenclature LPP Version 394</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3022,11 +3607,11 @@ arrêté du 23/10/15 (JO du 27/10/15 T18 et 20)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v394</guid>
+      <guid>urn:ameli:lpp:394</guid>
       <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 393</title>
+      <title>Nomenclature LPP Version 393</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3057,11 +3642,11 @@ JO du 06/09/2013 T27
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v393</guid>
+      <guid>urn:ameli:lpp:393</guid>
       <pubDate>Thu, 08 Oct 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 392</title>
+      <title>Nomenclature LPP Version 392</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3091,11 +3676,11 @@ arrêté du 24/08/15 (JO du 01/09/15 T15, T16, T17, T20, T22)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v392</guid>
+      <guid>urn:ameli:lpp:392</guid>
       <pubDate>Wed, 09 Sep 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 391</title>
+      <title>Nomenclature LPP Version 391</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3123,11 +3708,11 @@ Avis relatif aux tarifs et aux PLV au public (JO du 06/06/14 T145)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v391</guid>
+      <guid>urn:ameli:lpp:391</guid>
       <pubDate>Tue, 25 Aug 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 390</title>
+      <title>Nomenclature LPP Version 390</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3155,11 +3740,11 @@ arrêté du 24/07/2015 (JO du 29/07/15 T26)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v390</guid>
+      <guid>urn:ameli:lpp:390</guid>
       <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 389</title>
+      <title>Nomenclature LPP Version 389</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3188,11 +3773,11 @@ arrêté du 24/07/2015 (JO du 29/07/15 T26, 28,29,30,31)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v389</guid>
+      <guid>urn:ameli:lpp:389</guid>
       <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 388</title>
+      <title>Nomenclature LPP Version 388</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3223,11 +3808,11 @@ arrêté du 20/07/15 (JO du 23/07/15 T19)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v388</guid>
+      <guid>urn:ameli:lpp:388</guid>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 387</title>
+      <title>Nomenclature LPP Version 387</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3256,11 +3841,11 @@ Avis relatif aux tarifs et aux PLV au public (JO du 28/08/13 T80)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v387</guid>
+      <guid>urn:ameli:lpp:387</guid>
       <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 386</title>
+      <title>Nomenclature LPP Version 386</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3292,11 +3877,11 @@ Avis relatif aux tarifs et aux PLV au public (JO du 02/04/15 T102 , du 10/04/201
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v386</guid>
+      <guid>urn:ameli:lpp:386</guid>
       <pubDate>Fri, 10 Jul 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 385</title>
+      <title>Nomenclature LPP Version 385</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3325,11 +3910,11 @@ Arrêtés des 16, 18 et 22/06/2015
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v385</guid>
+      <guid>urn:ameli:lpp:385</guid>
       <pubDate>Thu, 02 Jul 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 384</title>
+      <title>Nomenclature LPP Version 384</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3359,11 +3944,11 @@ Arrêté du 28/05/15 (JO du 3/06/2015 T16)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v384</guid>
+      <guid>urn:ameli:lpp:384</guid>
       <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 383</title>
+      <title>Nomenclature LPP Version 383</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3392,11 +3977,11 @@ Avis rectificatif de prix (JO du 02/06/2015 T67).
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v383</guid>
+      <guid>urn:ameli:lpp:383</guid>
       <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 382</title>
+      <title>Nomenclature LPP Version 382</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3426,11 +4011,11 @@ Arrêté du 06/05/15 (JO du 27/05/2015 T18)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v382</guid>
+      <guid>urn:ameli:lpp:382</guid>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 381</title>
+      <title>Nomenclature LPP Version 381</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3463,11 +4048,11 @@ Avis relatif aux prix (JO du 14/05/2015 T95)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v381</guid>
+      <guid>urn:ameli:lpp:381</guid>
       <pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 380</title>
+      <title>Nomenclature LPP Version 380</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3495,11 +4080,11 @@ Arrêté du 22/04/15 (JO du 28/04/2015 T19 et T21)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v380</guid>
+      <guid>urn:ameli:lpp:380</guid>
       <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 379</title>
+      <title>Nomenclature LPP Version 379</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3528,11 +4113,11 @@ Arrêté du 14/04/15 (JO du 17/04/2015 T28 et T30)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v379</guid>
+      <guid>urn:ameli:lpp:379</guid>
       <pubDate>Fri, 24 Apr 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 378</title>
+      <title>Nomenclature LPP Version 378</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3560,11 +4145,11 @@ arrêté du 7/04/15 (JO du 10/04/15 - T33 et T35)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v378</guid>
+      <guid>urn:ameli:lpp:378</guid>
       <pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 377</title>
+      <title>Nomenclature LPP Version 377</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3592,11 +4177,11 @@ Avis relatif aux prix (JO du 20/02/2014)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v377</guid>
+      <guid>urn:ameli:lpp:377</guid>
       <pubDate>Fri, 10 Apr 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 376</title>
+      <title>Nomenclature LPP Version 376</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3628,11 +4213,11 @@ arrêté du 16/03/15 (JO du 19/03/15 - T25)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v376</guid>
+      <guid>urn:ameli:lpp:376</guid>
       <pubDate>Tue, 24 Mar 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 375</title>
+      <title>Nomenclature LPP Version 375</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3666,11 +4251,11 @@ Arrêté du 9 mars 2015 (JO du 12/03/2015 T27- T30)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v375</guid>
+      <guid>urn:ameli:lpp:375</guid>
       <pubDate>Thu, 19 Mar 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 374</title>
+      <title>Nomenclature LPP Version 374</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3698,11 +4283,11 @@ Arrêté du 23 février 2015 JO du 27/02/2015 - T33)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v374</guid>
+      <guid>urn:ameli:lpp:374</guid>
       <pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 373</title>
+      <title>Nomenclature LPP Version 373</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3732,11 +4317,11 @@ Arrêté du 24 février 2015 JO du 27/02/2015 - T33 et T37)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v373</guid>
+      <guid>urn:ameli:lpp:373</guid>
       <pubDate>Fri, 06 Mar 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 372</title>
+      <title>Nomenclature LPP Version 372</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3766,11 +4351,11 @@ Arrêté du 16 février 2015 (JO du 20/02/2015 - T38)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v372</guid>
+      <guid>urn:ameli:lpp:372</guid>
       <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 371</title>
+      <title>Nomenclature LPP Version 371</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3798,11 +4383,11 @@ Avis relatif aux tarifs et aux prix limites de vente au public (JO du 17/02/15)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v371</guid>
+      <guid>urn:ameli:lpp:371</guid>
       <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 370</title>
+      <title>Nomenclature LPP Version 370</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3830,11 +4415,11 @@ arrêté du 5/02/15 (JO du 10/02/15)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v370</guid>
+      <guid>urn:ameli:lpp:370</guid>
       <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 369</title>
+      <title>Nomenclature LPP Version 369</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3864,11 +4449,11 @@ arrêté du 12/01/15 (JO du 15/01/15 T14)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v369</guid>
+      <guid>urn:ameli:lpp:369</guid>
       <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 368</title>
+      <title>Nomenclature LPP Version 368</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3896,11 +4481,11 @@ avis prix JO du 11/10/13
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v368</guid>
+      <guid>urn:ameli:lpp:368</guid>
       <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 367</title>
+      <title>Nomenclature LPP Version 367</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3931,11 +4516,11 @@ avis prix JO du 19/12/14
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v367</guid>
+      <guid>urn:ameli:lpp:367</guid>
       <pubDate>Tue, 23 Dec 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 366</title>
+      <title>Nomenclature LPP Version 366</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -3964,11 +4549,11 @@ arrêté du 29/08/14 (JO du 3/09/2014)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v366</guid>
+      <guid>urn:ameli:lpp:366</guid>
       <pubDate>Tue, 16 Dec 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 365</title>
+      <title>Nomenclature LPP Version 365</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4000,11 +4585,11 @@ arrêté du 22/10/13 (décision du Conseil d'État en date du 28/11/2014)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v365</guid>
+      <guid>urn:ameli:lpp:365</guid>
       <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 364</title>
+      <title>Nomenclature LPP Version 364</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4034,11 +4619,11 @@ arrêté du 18/11/14 (JO du 21/11/14)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v364</guid>
+      <guid>urn:ameli:lpp:364</guid>
       <pubDate>Wed, 26 Nov 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 363</title>
+      <title>Nomenclature LPP Version 363</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4067,11 +4652,11 @@ arrêté du 5/11/14 (JO du 13/11/2014)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v363</guid>
+      <guid>urn:ameli:lpp:363</guid>
       <pubDate>Tue, 18 Nov 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 362</title>
+      <title>Nomenclature LPP Version 362</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4101,11 +4686,11 @@ arrêté du 03/10/2014 (JO du 09/10/20414)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v362</guid>
+      <guid>urn:ameli:lpp:362</guid>
       <pubDate>Wed, 22 Oct 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 361</title>
+      <title>Nomenclature LPP Version 361</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4133,11 +4718,11 @@ arrêté du 3/10/14 (JO du 8/10/2014)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v361</guid>
+      <guid>urn:ameli:lpp:361</guid>
       <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 360</title>
+      <title>Nomenclature LPP Version 360</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4165,11 +4750,11 @@ arrêté du 23/09/14 (JO du 25/09/2014)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v360</guid>
+      <guid>urn:ameli:lpp:360</guid>
       <pubDate>Tue, 30 Sep 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 359</title>
+      <title>Nomenclature LPP Version 359</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4197,11 +4782,11 @@ T3 ch1
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v359</guid>
+      <guid>urn:ameli:lpp:359</guid>
       <pubDate>Mon, 29 Sep 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 358</title>
+      <title>Nomenclature LPP Version 358</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4229,11 +4814,11 @@ JO du 11/09/2014
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v358</guid>
+      <guid>urn:ameli:lpp:358</guid>
       <pubDate>Thu, 18 Sep 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 357</title>
+      <title>Nomenclature LPP Version 357</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4264,11 +4849,11 @@ arrêté du 04/09/14 (JO du 09/09/2014)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v357</guid>
+      <guid>urn:ameli:lpp:357</guid>
       <pubDate>Fri, 12 Sep 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 356</title>
+      <title>Nomenclature LPP Version 356</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4302,11 +4887,11 @@ arrêté du 28/07/2014 (JO du 05/08/2014)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v356</guid>
+      <guid>urn:ameli:lpp:356</guid>
       <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 355</title>
+      <title>Nomenclature LPP Version 355</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4334,11 +4919,11 @@ Arrêté du 28/07/2014 (JO du 05/08/2014)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v355</guid>
+      <guid>urn:ameli:lpp:355</guid>
       <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 354</title>
+      <title>Nomenclature LPP Version 354</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4366,11 +4951,11 @@ Arrêté du 24/07/2014 (JO du 29/07/2014)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v354</guid>
+      <guid>urn:ameli:lpp:354</guid>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 353</title>
+      <title>Nomenclature LPP Version 353</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4398,11 +4983,11 @@ Arrêté du 23/07/2014 (JO du 25/07/2014)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v353</guid>
+      <guid>urn:ameli:lpp:353</guid>
       <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 352</title>
+      <title>Nomenclature LPP Version 352</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4433,11 +5018,11 @@ Avis relatif aux prix (JO du 26/07/2014)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v352</guid>
+      <guid>urn:ameli:lpp:352</guid>
       <pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 351</title>
+      <title>Nomenclature LPP Version 351</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4466,11 +5051,11 @@ Arrêté du 25 juin 2014 (JO du 01/07/2014)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v351</guid>
+      <guid>urn:ameli:lpp:351</guid>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 350</title>
+      <title>Nomenclature LPP Version 350</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4498,11 +5083,11 @@ Arrêtés du 26 mai et du 3 juin 2014
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v350</guid>
+      <guid>urn:ameli:lpp:350</guid>
       <pubDate>Fri, 20 Jun 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 349</title>
+      <title>Nomenclature LPP Version 349</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4532,11 +5117,11 @@ Arrêté du 3 juin 2014 (JO du 05/06/2014)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v349</guid>
+      <guid>urn:ameli:lpp:349</guid>
       <pubDate>Thu, 05 Jun 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 348</title>
+      <title>Nomenclature LPP Version 348</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4567,11 +5152,11 @@ arrêté du 12 mai 2014  (JO du 15/5/2014)
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v348</guid>
+      <guid>urn:ameli:lpp:348</guid>
       <pubDate>Thu, 22 May 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 347</title>
+      <title>Nomenclature LPP Version 347</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4599,11 +5184,11 @@ JO du 13/05/2014
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v347</guid>
+      <guid>urn:ameli:lpp:347</guid>
       <pubDate>Tue, 13 May 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 346</title>
+      <title>Nomenclature LPP Version 346</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4631,11 +5216,11 @@ T1 - Ch 1
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v346</guid>
+      <guid>urn:ameli:lpp:346</guid>
       <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Version 345</title>
+      <title>Nomenclature LPP Version 345</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
@@ -4664,7 +5249,7 @@ Arrêté du 18/04/2014 (JO du 24/04/2014) et Avis relatif aux prix (JO du 23/04/
 &lt;/div&gt;
         &lt;/article&gt;
       &lt;/div&gt;</description>
-      <guid>urn:ameli:lpp:v345</guid>
+      <guid>urn:ameli:lpp:345</guid>
       <pubDate>Wed, 30 Apr 2014 00:00:00 +0000</pubDate>
     </item>
   </channel>

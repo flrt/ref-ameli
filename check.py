@@ -5,7 +5,7 @@
 
 """
 __author__ = 'Frederic Laurent'
-__version__ = "1.0"
+__version__ = "1.1"
 __copyright__ = 'Copyright 2017, Frederic Laurent'
 __license__ = "MIT"
 
@@ -13,7 +13,7 @@ import argparse
 import logging
 import sys
 
-import helpers
+from easy_atom import helpers
 import watchdog
 
 
@@ -67,5 +67,5 @@ def main():
 
 
 if __name__ == "__main__":
-    loggers = helpers.stdout_logger(['ccam_wd', 'lpp_wd', 'ucd_wd', 'nabm_wd', 'feed', 'action'], logging.INFO)
+    loggers = helpers.stdout_logger(['ccam_wd', 'lpp_wd', 'ucd_wd', 'nabm_wd', 'feed', 'action'], logging.DEBUG)
     main()

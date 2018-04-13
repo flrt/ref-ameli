@@ -1,7 +1,6 @@
 {
     "versions": [
         {
-            "compl": null,
             "date": "2017-12-15T19:10:20.695088+00:00",
             "files": [
                 "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT046.dbf",
@@ -9,10 +8,14 @@
                 "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT046.dbf"
             ],
             "url": null,
-            "version": "46"
+            "version": "46",
+            "html": null,
+            "id": "urn:ameli:nabm:v46",
+            "summary": "Version 46 disponible",
+            "title": "Nomenclature NABM Version 46",
+            "type": "NABM"
         },
         {
-            "compl": null,
             "date": "2017-09-15T16:00:02.078688+00:00",
             "files": [
                 "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT045.dbf",
@@ -20,7 +23,12 @@
                 "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT045.dbf"
             ],
             "url": null,
-            "version": "45"
+            "version": "45",
+            "html": null,
+            "id": "urn:ameli:nabm:v45",
+            "summary": "Version 45 disponible",
+            "title": "Nomenclature NABM Version 45",
+            "type": "NABM"
         }
     ]
 }

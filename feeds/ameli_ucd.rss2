@@ -3,23 +3,411 @@
   <channel>
     <!--Atom feed ID = https://www.opikanoba.org/feeds/ameli/ucd-->
     <title>Versions du référentiel AMELI - UCD</title>
-    <atom:link href="https://MYWEB.URL/feeds/ameli_ucd.rss2" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.opikanoba.org/feedsameli_ucd.rss2" rel="self" type="application/rss+xml"/>
     <link>https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/medicaments</link>
     <description>Referentiel - Médicaments remboursables par l'Assurance Maladie</description>
     <copyright>CC BY-SA 3.0 FR</copyright>
     <managingEditor>frederic.laurent@gmail.com (Frederic LAURENT)</managingEditor>
-    <pubDate>Tue, 02 Jan 2018 16:00:29 +0000</pubDate>
-    <lastBuildDate>Tue, 02 Jan 2018 16:00:29 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Apr 2018 14:56:50 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Apr 2018 14:56:50 +0000</lastBuildDate>
     <category>referentiel,ameli,UCD</category>
     <generator>XSL stylesheet - http://github.com/flrt/xsl_atom2rss2</generator>
-    <!--Atom feed generator : https://github.com/flrt/ref-ameli-->
+    <!--Atom feed generator : https://github.com/flrt/atom_gen-->
     <docs>https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/medicaments</docs>
     <item>
-      <title>Version 390</title>
+      <title>Nomenclature UCD Version 404</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
-            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00404_20180410.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00404_20180410.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_maj_00404_20180410.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_maj_00404_20180410.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00404_20180410.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00404_20180410.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00404_20180410.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00404_20180410.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00404_20180410.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00404_20180410.dbf&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+          &lt;div&gt;
+    &lt;h1&gt;Informations sur la version 404&lt;/h1&gt;
+    &lt;p&gt;17 lignes mises à jour.&lt;/p&gt;
+    
+    &lt;p&gt;Les médicaments concernés par la mise à jour sont les suivants :&lt;/p&gt;
+    &lt;p&gt;UCEDANE, EPCLUSA, LAMIVUDINE, ABACAVIR, OCALIVA, OCTAGAM, VOSEVI, ISENTRESS&lt;/p&gt;
+
+    &lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ucd:v404</guid>
+      <pubDate>Thu, 12 Apr 2018 07:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature UCD Version 403</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00403_20180405.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00403_20180405.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_maj_00403_20180405.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_maj_00403_20180405.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00403_20180405.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00403_20180405.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00403_20180405.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00403_20180405.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00403_20180405.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00403_20180405.dbf&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+          &lt;div&gt;
+    &lt;h1&gt;Informations sur la version 403&lt;/h1&gt;
+    &lt;p&gt;31 lignes mises à jour.&lt;/p&gt;
+    
+    &lt;p&gt;Les médicaments concernés par la mise à jour sont les suivants :&lt;/p&gt;
+    &lt;p&gt;ABACAVIR, GANCICLOVIR, VOSEVI, ISENTRESS, EPCLUSA, RITONAVIR, ENBREL, ENTECAVIR, LAMIVUDINE, KIOVIG, OCTAGAM&lt;/p&gt;
+
+    &lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ucd:v403</guid>
+      <pubDate>Fri, 06 Apr 2018 10:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature UCD Version 402</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00402_20180330.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00402_20180330.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00402_20180330.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00402_20180330.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00402_20180330.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00402_20180330.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00402_20180330.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00402_20180330.dbf&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ucd:v402</guid>
+      <pubDate>Fri, 30 Mar 2018 13:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature UCD Version 401</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00401_20180322.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00401_20180322.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00401_20180322.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00401_20180322.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00401_20180322.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00401_20180322.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00401_20180322.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00401_20180322.dbf&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ucd:v401</guid>
+      <pubDate>Thu, 22 Mar 2018 14:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature UCD Version 400</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00400_20180315.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00400_20180315.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00400_20180315.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00400_20180315.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00400_20180315.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00400_20180315.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00400_20180315.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00400_20180315.dbf&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ucd:v400</guid>
+      <pubDate>Thu, 15 Mar 2018 14:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature UCD Version 399</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00399_20180309.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00399_20180309.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00399_20180309.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00399_20180309.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00399_20180309.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00399_20180309.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00399_20180309.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00399_20180309.dbf&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ucd:v399</guid>
+      <pubDate>Fri, 09 Mar 2018 16:00:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature UCD Version 398</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00398_20180305.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00398_20180305.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00398_20180305.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00398_20180305.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00398_20180305.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00398_20180305.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00398_20180305.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00398_20180305.dbf&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ucd:v398</guid>
+      <pubDate>Mon, 05 Mar 2018 15:00:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature UCD Version 397</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00397_20180226.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00397_20180226.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00397_20180226.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00397_20180226.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00397_20180226.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00397_20180226.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00397_20180226.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00397_20180226.dbf&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ucd:v397</guid>
+      <pubDate>Mon, 26 Feb 2018 16:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature UCD Version 396</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00396_20180216.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00396_20180216.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00396_20180216.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00396_20180216.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00396_20180216.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00396_20180216.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00396_20180216.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00396_20180216.dbf&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ucd:v396</guid>
+      <pubDate>Mon, 19 Feb 2018 11:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature UCD Version 395</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00395_20180208.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00395_20180208.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00395_20180208.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00395_20180208.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00395_20180208.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00395_20180208.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00395_20180208.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00395_20180208.dbf&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ucd:v395</guid>
+      <pubDate>Thu, 08 Feb 2018 16:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature UCD Version 394</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00394_20180205.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00394_20180205.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00394_20180205.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00394_20180205.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00394_20180205.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00394_20180205.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00394_20180205.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00394_20180205.dbf&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ucd:v394</guid>
+      <pubDate>Mon, 05 Feb 2018 14:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature UCD Version 393</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00393_20180124.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00393_20180124.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00393_20180124.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00393_20180124.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00393_20180124.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00393_20180124.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00393_20180124.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00393_20180124.dbf&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ucd:v393</guid>
+      <pubDate>Wed, 24 Jan 2018 11:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature UCD Version 392</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00392_20180118.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00392_20180118.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00392_20180118.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00392_20180118.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00392_20180118.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00392_20180118.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00392_20180118.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00392_20180118.dbf&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ucd:v392</guid>
+      <pubDate>Thu, 18 Jan 2018 15:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature UCD Version 391</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
+            &lt;ul&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00391_20180105.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00391_20180105.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00391_20180105.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00391_20180105.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00391_20180105.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00391_20180105.dbf&lt;/a&gt;
+              &lt;/li&gt;
+              &lt;li&gt;
+                &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00391_20180105.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00391_20180105.dbf&lt;/a&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/article&gt;
+      &lt;/div&gt;</description>
+      <guid>urn:ameli:ucd:v391</guid>
+      <pubDate>Fri, 05 Jan 2018 13:00:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nomenclature UCD Version 390</title>
+      <description>&lt;div&gt;
+        &lt;article&gt;
+          &lt;div&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
             &lt;ul&gt;
               &lt;li&gt;
                 &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00390_20180102.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00390_20180102.dbf&lt;/a&gt;
@@ -41,11 +429,11 @@
       <pubDate>Tue, 02 Jan 2018 16:00:29 +0000</pubDate>
     </item>
     <item>
-      <title>Version 389</title>
+      <title>Nomenclature UCD Version 389</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
-            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
             &lt;ul&gt;
               &lt;li&gt;
                 &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00389_20171220.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00389_20171220.dbf&lt;/a&gt;
@@ -67,11 +455,11 @@
       <pubDate>Wed, 20 Dec 2017 14:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>Version 388</title>
+      <title>Nomenclature UCD Version 388</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
-            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
             &lt;ul&gt;
               &lt;li&gt;
                 &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00388_20171215.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00388_20171215.dbf&lt;/a&gt;
@@ -93,11 +481,11 @@
       <pubDate>Mon, 18 Dec 2017 09:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>Version 387</title>
+      <title>Nomenclature UCD Version 387</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
-            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
             &lt;ul&gt;
               &lt;li&gt;
                 &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00387_20171211.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00387_20171211.dbf&lt;/a&gt;
@@ -119,11 +507,11 @@
       <pubDate>Mon, 11 Dec 2017 14:00:03 +0000</pubDate>
     </item>
     <item>
-      <title>Version 386</title>
+      <title>Nomenclature UCD Version 386</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
-            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
             &lt;ul&gt;
               &lt;li&gt;
                 &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00386_20171130.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00386_20171130.dbf&lt;/a&gt;
@@ -145,11 +533,11 @@
       <pubDate>Thu, 30 Nov 2017 11:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>Version 385</title>
+      <title>Nomenclature UCD Version 385</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
-            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
             &lt;ul&gt;
               &lt;li&gt;
                 &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00385_20171122.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00385_20171122.dbf&lt;/a&gt;
@@ -171,11 +559,11 @@
       <pubDate>Wed, 22 Nov 2017 17:00:01 +0000</pubDate>
     </item>
     <item>
-      <title>Version 384</title>
+      <title>Nomenclature UCD Version 384</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
-            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
             &lt;ul&gt;
               &lt;li&gt;
                 &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00384_20171108.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00384_20171108.dbf&lt;/a&gt;
@@ -197,11 +585,11 @@
       <pubDate>Wed, 08 Nov 2017 14:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>Version 383</title>
+      <title>Nomenclature UCD Version 383</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
-            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
             &lt;ul&gt;
               &lt;li&gt;
                 &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00383_20171103.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00383_20171103.dbf&lt;/a&gt;
@@ -223,11 +611,11 @@
       <pubDate>Fri, 03 Nov 2017 16:55:02 +0000</pubDate>
     </item>
     <item>
-      <title>Version 382</title>
+      <title>Nomenclature UCD Version 382</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
-            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
             &lt;ul&gt;
               &lt;li&gt;
                 &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00382_20171025.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00382_20171025.dbf&lt;/a&gt;
@@ -249,11 +637,11 @@
       <pubDate>Thu, 26 Oct 2017 08:58:45 +0000</pubDate>
     </item>
     <item>
-      <title>Version 381</title>
+      <title>Nomenclature UCD Version 381</title>
       <description>&lt;div&gt;
         &lt;article&gt;
           &lt;div&gt;
-            &lt;h1&gt;Fichier à télécharger : &lt;/h1&gt;
+            &lt;h1&gt;Fichiers à télécharger : &lt;/h1&gt;
             &lt;ul&gt;
               &lt;li&gt;
                 &lt;a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00381_20171018.dbf"&gt;http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00381_20171018.dbf&lt;/a&gt;

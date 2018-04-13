@@ -8,7 +8,7 @@
 import os.path
 import unittest
 
-import action
+from easy_atom import action
 
 
 class TestRegex(unittest.TestCase):
