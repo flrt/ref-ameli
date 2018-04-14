@@ -210,11 +210,9 @@ class UCDWatchDog(WatchDog):
 
         for u in urls:
             if 'ucd_maj' in u:
-                self.logger.debug("TEST %s"%u)
                 da = action.DownloadAction()
                 local_fn = da.download(u)
 
-        self.logger.debug("Local UCD : %s"%local_fn)
         if local_fn:
             try:
                 database = DBF(local_fn, encoding='iso8859-1')
