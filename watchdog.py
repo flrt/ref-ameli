@@ -202,7 +202,7 @@ class UCDWatchDog(WatchDog):
     def format_html_compl(version, urls):
         # download
         local_fn = None
-        med_regexp = re.compile("(\w+).*")
+        med_regexp = re.compile(r"(\w+).*")
         med_set = set()
         records = []
         txt = ""
@@ -210,11 +210,11 @@ class UCDWatchDog(WatchDog):
 
         for u in urls:
             if 'ucd_maj' in u:
-                print("TEST %s"%u)
+                self.logger.debug("TEST %s"%u)
                 da = action.DownloadAction()
                 local_fn = da.download(u)
 
-        print("Local UCD : %s"%local_fn)
+        self.logger.debug("Local UCD : %s"%local_fn)
         if local_fn:
             try:
                 database = DBF(local_fn, encoding='iso8859-1')
@@ -352,9 +352,8 @@ class CCAMWatchDog(WatchDog):
         # .../documents/Ccam_Note_V47.pdf
         regexcompl = re.compile(r'.*C\w*?m_Note_V(\d+\.?\d*)\.pdf')
 
-        self.logger.info(f"Check {url2check}")
+        self.logger.debug(f"Check {url2check}")
         rcheck = requests.get(url2check)
-        self.logger.info("Check OK")
 
         # parse du contenu
         soup = BeautifulSoup(rcheck.text, "html5lib")
