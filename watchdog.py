@@ -34,17 +34,24 @@ class WatchDog(versions.VersionDetector):
     def fetch_data(self):
         raise Exception("DO implement")
 
-    def __init__(self, nomen, feed_conf=None, data_conf=None, mail_conf=None):
+    def __init__(self, nomen, feed_conf=None, data_conf=None, mail_conf=None, tweet_conf=None):
         versions.VersionDetector.__init__(self, nomen)
         self.logger = logging.getLogger('%s_wd' % nomen)
         self.nomen = nomen
+        self.feed = None
         self.feed_conf = feed_conf
         self.data_conf = data_conf
         self.mail_conf = mail_conf
+        self.tweet_conf = tweet_conf
 
         self.logger.debug("Feed configuration : %s" % self.feed_conf)
         self.logger.debug("Data configuration : %s" % self.data_conf)
         self.logger.debug("Mail configuration : %s" % self.mail_conf)
+        self.logger.debug("Twitter configuration : %s" % self.tweet_conf)
+
+        if self.feed_conf:
+            self.feed = atom.Feed(self.nomen, selfhref=self.feed_conf['feed_base'])
+
 
     def fill_infos(self, **kwargs):
         """
@@ -58,18 +65,37 @@ class WatchDog(versions.VersionDetector):
         # version de l'information : soit la version passee en parametre ou la version
         # courante
         v = kwargs['version'] if 'version' in kwargs else self.get_current_version()
+        _summary = f'Version {v} disponible'
+        if kwargs['available'] is False:
+            _summary = f'Version {v} en cours de publication'
 
+        # valeurs par defaut
         d = {'type': self.nomen.upper(),
              'id': f'urn:ameli:{self.nomen}:v{v}',
              'version': v,
              'date': datetime.datetime.now(datetime.timezone.utc).isoformat(sep='T'),
              'url': None,
              'title': f'Nomenclature {self.nomen.upper()} Version {v}',
-             'summary': f'Version {v} disponible',
+             'summary': _summary,
              'files': [],
-             'html': None}
+             'html': None,
+             'available': True}
+        # mise a jour avec les donnees en argument
         d.update(kwargs)
         return d
+
+    def summary140(self, infos):
+        if infos['available']:
+            # Message 140
+            # Nomenclature UCD Version 406 disponible #ameli #référentiels (RSS : https://www.opikanoba.org/feeds/ameli_ucd.rss2)
+            if self.feed:
+                return '{} disponible #ameli #{} #référentiels (Flux RSS : {})'.format(
+                    infos['title'], infos['type'], self.feed.feed_url(feed_type='rss2'))
+            else:
+                return '{} disponible #ameli #{} #référentiels'.format(
+                    infos['title'], infos['type'])
+        return None
+
 
     def process(self):
         """
@@ -78,24 +104,40 @@ class WatchDog(versions.VersionDetector):
         """
 
         self.load_previous()
+
         infos = self.fetch_data()
 
-        if infos and self.is_newer(infos):
+        # si les infos correspondent a :
+        # - une nouvelle version : is_newer
+        # - une version qui n'etait pas completement disponible et qui l'est desormais
+        if infos and (self.is_newer(infos) or self.in_progress_status_changed(infos)):
+            if self.tweet_conf:
+                # notification tweeter
+                text140 = self.summary140(infos)
+                if text140:
+                    act = action.TweetAction(conf_filename=self.tweet_conf)
+                    url_tweet = act.process(text140)
+                    if url_tweet:
+                        # 1 seule URL -> recuperation enregistrement 1
+                        #{'available': False, 'url_status': [{'url': 'https://www.twitter.com/.../status/...', 'http_status': 301, 'size': '0'}]}
+                        url_infos = self.check_urls([url_tweet])['url_status'][0]
+                        self.logger.info(url_infos)
+                        url_infos['type']='link'
+                        infos['files_props'].append(url_infos)
+
             self.new_version(infos)
             self.save_current_versions()
 
-            if self.feed_conf:
+            if self.feed:
                 # https://validator.w3.org/feed/docs/warning/RelativeSelf.html
 
-                updatedfeed = atom.Feed(self.nomen, selfhref=self.feed_conf['feed_base'])
-
-                feed = updatedfeed.generate(self.version['versions'])
-                updatedfeed.save(feed)
-                updatedfeed.rss2()
+                feed = self.feed.generate(self.version['versions'])
+                self.feed.save(feed)
+                self.feed.rss2()
 
                 if self.feed_conf['ftp_config']:
                     act = action.UploadAction(conf_filename=self.feed_conf['ftp_config'])
-                    act.process([updatedfeed.feed_filename, updatedfeed.rss2_filename])
+                    act.process([self.feed.feed_filename, self.feed.rss2_filename])
 
             files = []
             # telechargement des fichiers si configurés
@@ -132,8 +174,26 @@ class WatchDog(versions.VersionDetector):
             with open(fn, "w") as fout:
                 fout.write(content)
 
+    def check_urls(self, urllist=[]):
+        """
+        Verifie si les fichiers sont bien presents via 1 requete HEAD
+        :param urllist: liste des urls
+        :return: dict avec 1 status global et les status par URL
+        """
+        result=dict(available=True, url_status=[])
+        for url in urllist:
+            req=requests.head(url)
+            result['url_status'].append(dict(
+                url=url, http_status=req.status_code, 
+                size=req.headers['Content-Length']))
+            
+            result['available'] = result['available'] & (req.status_code==200)
+            
+        self.logger.debug("CHECKS %s"%result)
+        return result
 
 class UCDWatchDog(WatchDog):
+    
     def fetch_data(self):
         self.logger.info("Fetch data... Current version  > %d ", self.get_current_version())
 
@@ -183,13 +243,22 @@ class UCDWatchDog(WatchDog):
             if len(dbf_map.keys()) == 1:
                 # 1 version = OK
                 _version = list(dbf_map.keys())[0]
+                # verification de la disponibilite des URL
+                url_checked = self.check_urls(dbf_map[_version])
+                # ajout du type de donnees
+                for u in url_checked['url_status']:
+                    u['type']='data' 
+
                 infos = self.fill_infos(version=_version,
                                         files=dbf_map[_version],
+                                        files_props=url_checked['url_status'],
+                                        available=url_checked['available'],
                                         html=self.format_html_compl(_version, dbf_map[_version]))
+
             elif len(dbf_map.keys()) > 1:
                 self.logger.error("Plusieurs versions  !!! %s" % str(dbf_map.keys()))
             else:
-                self.logger.debug("No version found")
+                self.logger.debug("Aucune version trouvee")
 
         else:
             self.logger.error(
@@ -257,8 +326,15 @@ class LPPWatchDog(WatchDog):
         if rcheck.status_code == 200:
             compl = self.load_infos(test_version)
 
+            url_checked = self.check_urls([url_])
+            for u in url_checked['url_status']:
+                u['type']='data'
+
+
             infos = self.fill_infos(version=str(test_version),
                                     files=[url_],
+                                    files_props=url_checked['url_status'],
+                                    available=url_checked['available'],
                                     html=self.format_html_compl(compl))
         else:
             self.logger.warning("Document LPP numero {} non disponible [{}]".format(test_version, rcheck.status_code))
@@ -380,6 +456,13 @@ class CCAMWatchDog(WatchDog):
                 version = v[:-3] if v.endswith('.00') else v
                 # ajout des fichiers
                 files.append('%s%s' % (baseurl, link.get('href')))
+                
+        # verification de la disponibilite des URL
+        url_checked = self.check_urls(files)
+        # ajout du type de donnees
+        for u in url_checked['url_status']:
+            u['type']='data' 
+
 
         for link in pdf_list:
             # recherche d'un document pdf relatif a la version trouvée des fichiers dbf
@@ -391,7 +474,12 @@ class CCAMWatchDog(WatchDog):
                 if resregcompl.group(1) == version:
                     compl = self.format_html_compl({'version': version,'pdf': f'{baseurl}{href}'})
 
-        return self.fill_infos(version=version, files=files, html=compl)
+        return self.fill_infos(
+            version=version, 
+            files=files, 
+            files_props=url_checked['url_status'],
+            available=url_checked['available'],
+            html=compl)
 
     @staticmethod
     def format_html_compl(compl):
@@ -409,9 +497,8 @@ class NABMWatchDog(WatchDog):
 
     def fetch_data(self):
         self.logger.info("Fetch data... Current version  > %d ", self.get_current_version())
-
-        infos = None
-
+        
+        files = []
         test_version = self.get_current_version() + 1
         url_base = "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/"
         nabm_files = ["NABM_FICHE_TOT%03d.dbf" % test_version,
@@ -425,9 +512,19 @@ class NABMWatchDog(WatchDog):
         self.logger.debug("Test version %d code [%d] - %s", test_version, rcheck.status_code, rcheck.text)
 
         if rcheck.status_code == 200:
-            infos = self.fill_infos(version=str(test_version))
-            infos["files"] = list(map(lambda x: "{}{}".format(url_base, x), nabm_files))
+            files = list(map(lambda x: "{}{}".format(url_base, x), nabm_files))
         else:
             self.logger.warning("Documents NABM numero {} non disponible [{}]".format(test_version, rcheck.status_code))
 
-        return infos
+        # verification de la disponibilite des URL
+        url_checked = self.check_urls(files)
+        # ajout du type de donnees
+        for u in url_checked['url_status']:
+            u['type']='data' 
+
+        return self.fill_infos(
+            version=str(test_version), 
+            files=files, 
+            files_props=url_checked['url_status'],
+            available=url_checked['available'])
+

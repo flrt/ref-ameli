@@ -1,6 +1,125 @@
 {
     "versions": [
         {
+            "available": true,
+            "date": "2018-05-12T08:25:33.187476+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00407_20180504.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_maj_00407_20180504.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00407_20180504.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00407_20180504.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00407_20180504.dbf"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "2827330",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00407_20180504.dbf"
+                },
+                {
+                    "http_status": 200,
+                    "size": "33858",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_maj_00407_20180504.dbf"
+                },
+                {
+                    "http_status": 200,
+                    "size": "1728448",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00407_20180504.dbf"
+                },
+                {
+                    "http_status": 200,
+                    "size": "444757",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00407_20180504.dbf"
+                },
+                {
+                    "http_status": 200,
+                    "size": "233686",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00407_20180504.dbf"
+                },
+                {
+                    "http_status": 301,
+                    "size": "0",
+                    "type": "link",
+                    "url": "https://www.twitter.com/frlrtdev/status/995218408013692928"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 407</h1>\n    <p>23 lignes mises \u00e0 jour.</p>\n    \n    <p>Les m\u00e9dicaments concern\u00e9s par la mise \u00e0 jour sont les suivants :</p>\n    <p>PANZYGA, VESANOID, ABACAVIR, CASPOFUNGINE, NEVIRAPINE, KOVALTRY, EPOPROSTENOL</p>\n\n    <p></p>\n</div>",
+            "id": "urn:ameli:ucd:v407",
+            "summary": "Version 407 disponible",
+            "title": "Nomenclature UCD Version 407",
+            "type": "UCD",
+            "url": null,
+            "version": "407"
+        },
+        {
+            "available": true,
+            "date": "2018-05-03T15:29:10.134029+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00406_20180426.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_maj_00406_20180426.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00406_20180426.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00406_20180426.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00406_20180426.dbf"
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 406</h1>\n    <p>22 lignes mises \u00e0 jour.</p>\n    \n    <p>Les m\u00e9dicaments concern\u00e9s par la mise \u00e0 jour sont les suivants :</p>\n    <p>CABOMETYX, ZEJULA, RUCONEST, REPATHA, TREMFYA, VONCENTO, OCREVUS, BARACLUDE, EPOPROSTENOL, NUCALA</p>\n\n    <p></p>\n</div>",
+            "id": "urn:ameli:ucd:v406",
+            "summary": "Version 406 disponible",
+            "title": "Nomenclature UCD Version 406",
+            "type": "UCD",
+            "url": null,
+            "url_status": [
+                {
+                    "length": "2809026",
+                    "status": 200,
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00406_20180426.dbf"
+                },
+                {
+                    "length": "32450",
+                    "status": 200,
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_maj_00406_20180426.dbf"
+                },
+                {
+                    "length": "1721194",
+                    "status": 200,
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00406_20180426.dbf"
+                },
+                {
+                    "length": "442748",
+                    "status": 200,
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00406_20180426.dbf"
+                },
+                {
+                    "length": "233686",
+                    "status": 200,
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00406_20180426.dbf"
+                }
+            ],
+            "version": "406"
+        },
+        {
+            "available": false,
+            "date": "2018-04-27T15:16:37.617058+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00406_20180426.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_maj_00406_20180426.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00406_20180426.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00406_20180426.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00406_20180426.dbf"
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 406</h1>\n    <p>0 lignes mises \u00e0 jour.</p>\n    \n    <p>Les m\u00e9dicaments concern\u00e9s par la mise \u00e0 jour sont les suivants :</p>\n    <p></p>\n\n    <p>Erreur de lecture du fichier ucd_maj_00406_20180426.dbf</p>\n</div>",
+            "id": "urn:ameli:ucd:v406",
+            "summary": "Version 406 en cours de publication",
+            "title": "Nomenclature UCD Version 406",
+            "type": "UCD",
+            "url": null,
+            "version": "406"
+        },
+        {
             "date": "2018-04-12T07:58:05.795895+00:00",
             "files": [
                 "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00404_20180410.dbf",
@@ -29,6 +148,7 @@
             ],
             "html": "<div>\n    <h1>Informations sur la version 403</h1>\n    <p>31 lignes mises \u00e0 jour.</p>\n    \n    <p>Les m\u00e9dicaments concern\u00e9s par la mise \u00e0 jour sont les suivants :</p>\n    <p>ABACAVIR, GANCICLOVIR, VOSEVI, ISENTRESS, EPCLUSA, RITONAVIR, ENBREL, ENTECAVIR, LAMIVUDINE, KIOVIG, OCTAGAM</p>\n\n    <p></p>\n</div>",
             "id": "urn:ameli:ucd:v403",
+            "status": "in-progress",
             "summary": "Version 403 disponible",
             "title": "Nomenclature UCD Version 403",
             "type": "UCD",

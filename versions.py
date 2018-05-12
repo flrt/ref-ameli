@@ -84,6 +84,30 @@ class VersionDetector:
     def is_newer(self, infos):
         return float(self.get_current_version()) < float(infos["version"])
 
+    def in_progress_status_changed(self, infos):
+        self.logger.debug(f"Version {infos['version']}, statut={infos['available']}")
+        if "available" in infos and infos["available"]==False:
+            return False
+        
+        # version courante totalement disponible
+        _v = float(infos["version"])
+        # recuperation des enregistrements ayant la meme version
+        _vv = list(filter(lambda x: x['version'], self.version['versions']))
+        self.logger.debug(_vv)
+
+        _same_version = list(filter(
+                lambda x: "version" in x and float(x["version"])==_v, self.version['versions']))
+        self.logger.debug(f"Version actuelle {_v}, nb d'enregistrement dans l'historique {len(_same_version)}")
+        # recuperation des enregistrements qui sont en non dispo
+        _in_progress = list(filter(lambda x: "available" in x and x["available"]==False, _same_version))
+
+        # si le nombre d'enregistrement en cours == nombre total -> il n'y avait pas de version disponible
+        status_changed = len(_same_version)==len(_in_progress)
+        self.logger.debug(f"Changement status ? {status_changed}")
+
+        return status_changed
+
+
     def get_current_version(self):
         return self.last
 

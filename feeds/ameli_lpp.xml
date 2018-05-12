@@ -4,8 +4,8 @@
   <title>Versions du référentiel AMELI - LPP</title>
   <subtitle>Referentiel - Liste des produits et prestations</subtitle>
   <link href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp" rel="related"/>
-  <link href="https://www.opikanoba.org/feedsameli_lpp.xml" rel="self"/>
-  <updated>2018-04-13T15:15:23.213903+00:00</updated>
+  <link href="https://www.opikanoba.org/feeds/ameli_lpp.xml" rel="self"/>
+  <updated>2018-05-12T08:49:05.712450+00:00</updated>
   <author>
     <name>Frederic LAURENT</name>
     <email>frederic.laurent@gmail.com</email>
@@ -14,17 +14,196 @@
   <generator uri="https://github.com/flrt/atom_gen" version="1.0">python program - atom.py</generator>
   <rights>CC BY-SA 3.0 FR</rights>
   <entry>
+    <title>Nomenclature LPP Version 493</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP493.zip" rel="related" type="application/zip"/>
+    <link href="https://www.twitter.com/frlrtdev/status/995224334171025409" rel="related" type="application/octet-stream"/>
+    <id>urn:ameli:lpp:v493</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP493.zip">LPP493.zip (374.19 Ko)</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 493</h1>
+    <p>Titre et chapitre visés par les textes réglementaires : </p>
+    <pre>
+TIII Ch4 HEARTWARE 
+TIII Ch1 NOVAE 
+TIII Ch1 GYROS
+TII Ch4 SOMNOMED
+TII Ch3 BAHA 
+TII Ch1 CORIN 
+TIII Ch2 SULZER 
+  RADIATIONS 31/07/2018 
+    </pre>
+
+    <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+    <pre>
+Arrêté du 26 avril 2018 - (JO du 02/05/2018-T15)
+Arrêté du 26 avril 2018 - (JO du 02/05/2018-T17-T99)
+    </pre>
+
+    <p>Date du JO le plus récent de la version : <em>02-05-2018</em></p>
+    <p>Date de mise en ligne sur le site <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a> : <em/></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-05-12T08:49:06.088651+00:00</updated>
+    <summary>Version 493 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature LPP Version 492</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP492.zip" rel="related" type="application/zip"/>
+    <link href="https://www.twitter.com/SisInterop/status/994986389740630016" rel="related" type="application/octet-stream"/>
+    <id>urn:ameli:lpp:v492</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP492.zip">LPP492.zip (332.88 Ko)</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 492</h1>
+    <p>Titre et chapitre visés par les textes réglementaires : </p>
+    <pre>
+TIII Ch4 HEARTWARE 
+TIII Ch1 NOVAE 
+TIII Ch1 GYROS
+TII Ch4 SOMNOMED
+TII Ch3 BAHA 
+TII Ch1 CORIN 
+TIII Ch2 SULZER 
+  RADIATIONS 31/07/2018 
+    </pre>
+
+    <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+    <pre>
+Arrêté du 18 avril 2018 -  (JO du 24/04/2018-T5)
+Arrêté du 18 avril 2018 -  (JO du 24/04/2018-T6-T113)
+Arrêté du 19 avril 2018 -  (JO du 24/04/2018-T8-T115)
+Arrêté du 20 avril 2018 - (JO du 25/04/2018-T11-T88)
+Arrêté du 20 avril 2018 - (JO du 25/04/2018-T12-T89)
+Arrêté du 20 avril 2018 - (JO du 25/04/2018-T13-T90)
+Arrêté du 20 avril 2018 - (JO du 25/04/2018-T16-T91)
+Arrêté du 20 avril 2018 - (JO du 25/04/2018-T18)
+    </pre>
+
+    <p>Date du JO le plus récent de la version : <em>25-04-2018</em></p>
+    <p>Date de mise en ligne sur le site <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a> : <em/></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-05-11T17:03:35.721709+00:00</updated>
+    <summary>Version 492 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature LPP Version 491</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP491.zip" rel="related" type="application/zip"/>
+    <link href="https://www.twitter.com/frlrtdev/status/994984022550962176" rel="related" type="application/octet-stream"/>
+    <id>urn:ameli:lpp:v491</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP491.zip">LPP491.zip (372.87 Ko)</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 491</h1>
+    <p>Titre et chapitre visés par les textes réglementaires : </p>
+    <pre>
+RECTIF PRIX
+TII Ch7 VARI-FLEX
+    </pre>
+
+    <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+    <pre>
+Rectification des prix erronés de cession en HT à compter du 01/07/2017 - Avis relatif à la tarification de certains pansements visés à l’article L. 165-1 du code de la sécurité sociale
+Arrêté du 18 avril 2018 - (JO du 20/04/2018-T27)
+    </pre>
+
+    <p>Date du JO le plus récent de la version : <em>20-04-2018</em></p>
+    <p>Date de mise en ligne sur le site <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a> : <em/></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-05-11T16:54:11.342866+00:00</updated>
+    <summary>Version 491 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature LPP Version 490</title>
+    <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP490.zip" rel="related" type="application/zip"/>
+    <link href="https://www.twitter.com/frlrtdev/status/994983883694362624" rel="related" type="application/octet-stream"/>
+    <id>urn:ameli:lpp:v490</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>1 Fichier à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP490.zip">LPP490.zip (372.83 Ko)</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 490</h1>
+    <p>Titre et chapitre visés par les textes réglementaires : </p>
+    <pre>
+PRIX AU 01/05/2018 
+TI Ch3 B BRAUN
+TIII Ch1 MOBILITY 
+TIII Ch1 RADIATIONS 
+    </pre>
+
+    <p>Dates des arrêtés visés - Avis tarifs et prix : </p>
+    <pre>
+ Avis relatif à la tarification des stérilets au cuivre (JO du 29/03/2018-T137)
+Arrêté du 6 avril 2018 - (JO du 10/04/2018-T11)
+Arrêté du 6 avril 2018 - (JO du 12/04/2018-T19)
+Arrêté du 11 avril 2018 - (JO du 13/04/2018-T30)
+    </pre>
+
+    <p>Date du JO le plus récent de la version : <em>13-04-2018</em></p>
+    <p>Date de mise en ligne sur le site <a href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp">Ameli.fr</a> : <em>17-04-2018</em></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-05-11T16:53:38.205696+00:00</updated>
+    <summary>Version 490 disponible</summary>
+  </entry>
+  <entry>
     <title>Nomenclature LPP Version 489</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP489.zip" rel="related" type="application/zip"/>
+    <link href="https://www.twitter.com/frlrtdev/status/994258978354974720" rel="related" type="application/octet-stream"/>
     <id>urn:ameli:lpp:v489</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP489.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP489.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP489.zip">LPP489.zip (374.7 Ko)</a>
               </li>
             </ul>
           </div>
@@ -48,7 +227,7 @@ Arrêté du 4 avril 2018 - (JO du 06/04/2018-T11)
         </article>
       </div>
     </content>
-    <updated>2018-04-11T16:49:48.480577+00:00</updated>
+    <updated>2018-05-09T16:53:07.201477+00:00</updated>
     <summary>Version 489 disponible</summary>
   </entry>
   <entry>
@@ -59,10 +238,10 @@ Arrêté du 4 avril 2018 - (JO du 06/04/2018-T11)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP488.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP488.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP488.zip">LPP488.zip</a>
               </li>
             </ul>
           </div>
@@ -109,10 +288,10 @@ Arrêté du 28 mars 2018 - (JO du 30/03/2018-T25)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP487.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP487.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP487.zip">LPP487.zip</a>
               </li>
             </ul>
           </div>
@@ -157,10 +336,10 @@ Arrêté du 21 mars 2018 - (JO du 23/03/2018-T23-T115)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP486.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP486.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP486.zip">LPP486.zip</a>
               </li>
             </ul>
           </div>
@@ -201,10 +380,10 @@ arrêté du 12 mars 2018 portant modification des conditions d’inscription de 
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP485.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP485.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP485.zip">LPP485.zip</a>
               </li>
             </ul>
           </div>
@@ -245,10 +424,10 @@ Arrêté du 6 mars 2018 - JO du 08/03/2018-T35-T36-T129
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP484.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP484.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP484.zip">LPP484.zip</a>
               </li>
             </ul>
           </div>
@@ -281,10 +460,10 @@ Avis relatif à la tarification de MITRACLIP et MITRACLIP NT visés à l’artic
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP483.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP483.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP483.zip">LPP483.zip</a>
               </li>
             </ul>
           </div>
@@ -321,10 +500,10 @@ Arrêté du 14 février 2018 - JO du 20/02/2018-T13-T105
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP482.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP482.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP482.zip">LPP482.zip</a>
               </li>
             </ul>
           </div>
@@ -371,10 +550,10 @@ Arrêté du 13 février 2018 - JO du 16/02/2018-T18-T100
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP481.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP481.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP481.zip">LPP481.zip</a>
               </li>
             </ul>
           </div>
@@ -412,10 +591,10 @@ COREVALVE - Arrêté du 8 février 2018 - JO du 09/02/2018-T45-T124
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP480.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP480.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP480.zip">LPP480.zip</a>
               </li>
             </ul>
           </div>
@@ -449,10 +628,10 @@ Arrêté du 29 janvier 2018 portant inscription du système de télésurveillanc
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP479.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP479.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP479.zip">LPP479.zip</a>
               </li>
             </ul>
           </div>
@@ -487,10 +666,10 @@ PRIX 2742214- Avis relatif à la tarification du pied à variante prothétique -
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP478.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP478.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP478.zip">LPP478.zip</a>
               </li>
             </ul>
           </div>
@@ -532,10 +711,10 @@ Avis relatif à la tarification de NEW-FILL - JO du 19/01/2018-T96
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP477.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP477.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP477.zip">LPP477.zip</a>
               </li>
             </ul>
           </div>
@@ -574,10 +753,10 @@ Arrêté du 10 janvier 2018  -JO du 12/01/2018-T13-T130
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP476.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP476.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP476.zip">LPP476.zip</a>
               </li>
             </ul>
           </div>
@@ -616,10 +795,10 @@ Arrêté du 21 décembre 2017 - JO du 29/12/2017-T53
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP475.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP475.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP475.zip">LPP475.zip</a>
               </li>
             </ul>
           </div>
@@ -666,10 +845,10 @@ Arrêté du 15 décembre 2017   - (JO du 20/12/2017-T24-T120)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP474.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP474.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP474.zip">LPP474.zip</a>
               </li>
             </ul>
           </div>
@@ -718,10 +897,10 @@ Avis relatif à la tarification des pieds à restitution d’énergie  - JO du 1
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP473.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP473.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP473.zip">LPP473.zip</a>
               </li>
             </ul>
           </div>
@@ -763,10 +942,10 @@ Rectification du taux de majoration pour La Réunion pour les 12 codes passés d
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP472.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP472.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP472.zip">LPP472.zip</a>
               </li>
             </ul>
           </div>
@@ -809,10 +988,10 @@ Arrêté du 29 novembre 2017  - JO du 01/12/2017-T23
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP471.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP471.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP471.zip">LPP471.zip</a>
               </li>
             </ul>
           </div>
@@ -857,10 +1036,10 @@ Avis relatif à la tarification de AEQUASYAL  - JO du 24/11/2017-T146
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP470.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP470.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP470.zip">LPP470.zip</a>
               </li>
             </ul>
           </div>
@@ -893,10 +1072,10 @@ Arrêté du 9 novembre 2017 - JO du 14/11/2017 – T35
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP469.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP469.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP469.zip">LPP469.zip</a>
               </li>
             </ul>
           </div>
@@ -944,10 +1123,10 @@ Arrêté du 31 octobre 2017 - JO du 03/11/2017 – T20
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP468.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP468.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP468.zip">LPP468.zip</a>
               </li>
             </ul>
           </div>
@@ -987,10 +1166,10 @@ Arrêté du 25 octobre 2017 - JO du 27/10/2017 - T17
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP467.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP467.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP467.zip">LPP467.zip</a>
               </li>
             </ul>
           </div>
@@ -1034,10 +1213,10 @@ Avis relatif à la tarification des aliments MODULEN IBD, IMPACT ENTERAL, ORAL I
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP466.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP466.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP466.zip">LPP466.zip</a>
               </li>
             </ul>
           </div>
@@ -1071,10 +1250,10 @@ Avis relatif à la tarification de VIATORR TIPS visé à l’article L. 165-1 du
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP465.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP465.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP465.zip">LPP465.zip</a>
               </li>
             </ul>
           </div>
@@ -1114,10 +1293,10 @@ Arrêté du 3 octobre 2017 - JO du 06/10/2017 – T20
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP464.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP464.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP464.zip">LPP464.zip</a>
               </li>
             </ul>
           </div>
@@ -1159,10 +1338,10 @@ JO du 06/12/2016 T186
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP463.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP463.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP463.zip">LPP463.zip</a>
               </li>
             </ul>
           </div>
@@ -1202,10 +1381,10 @@ Avis de fixation de tarifs et de prix limites de vente au public (PLV) du forfai
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP462.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP462.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP462.zip">LPP462.zip</a>
               </li>
             </ul>
           </div>
@@ -1242,10 +1421,10 @@ Arrêté du 29 août 2017 - JO du 01/09/2017 – T 12
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP461.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP461.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP461.zip">LPP461.zip</a>
               </li>
             </ul>
           </div>
@@ -1295,10 +1474,10 @@ Arrêté du 4 août 2017 - JO du 17/08/2017 – T 27
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP460.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP460.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP460.zip">LPP460.zip</a>
               </li>
             </ul>
           </div>
@@ -1339,10 +1518,10 @@ Arrêté du 28 juillet 2017 - JO du 02/08/2017 – T 17
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP459.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP459.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP459.zip">LPP459.zip</a>
               </li>
             </ul>
           </div>
@@ -1379,10 +1558,10 @@ Avis relatif tarif du dispositif de réhabilitation de mobilité mandibulaire - 
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP458.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP458.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP458.zip">LPP458.zip</a>
               </li>
             </ul>
           </div>
@@ -1421,10 +1600,10 @@ Arrêté du 18 juillet 2017 - JO du 20/07/2017 – T 23                         
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP457.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP457.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP457.zip">LPP457.zip</a>
               </li>
             </ul>
           </div>
@@ -1463,10 +1642,10 @@ Arrêté du 7 juillet 2017 - JO du 12/07/2017 T19
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP456.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP456.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP456.zip">LPP456.zip</a>
               </li>
             </ul>
           </div>
@@ -1523,10 +1702,10 @@ Arrêté du 4 juillet 2017 - JO du 07/07/2017 T22
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP455.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP455.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP455.zip">LPP455.zip</a>
               </li>
             </ul>
           </div>
@@ -1573,10 +1752,10 @@ Arrêté du 3 mai 2017 - JO du 05/05/2017 T70 – Art.2
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP454.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP454.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP454.zip">LPP454.zip</a>
               </li>
             </ul>
           </div>
@@ -1617,10 +1796,10 @@ Avis relatif aux tarifs - JO du 15/06/2017 T139
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP453.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP453.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP453.zip">LPP453.zip</a>
               </li>
             </ul>
           </div>
@@ -1653,10 +1832,10 @@ Arrêté du 12 juin 2017 - JO du 14/06/2017 T9
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP452.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP452.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP452.zip">LPP452.zip</a>
               </li>
             </ul>
           </div>
@@ -1691,10 +1870,10 @@ Rectification « Age Maxi » à 10 ans pour le code 1173636 (JO du 20/04/2017 T1
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP451.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP451.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP451.zip">LPP451.zip</a>
               </li>
             </ul>
           </div>
@@ -1727,10 +1906,10 @@ Arrêté du 8 septembre 2016- JO du 13/09/2016 T15.
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP450.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP450.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP450.zip">LPP450.zip</a>
               </li>
             </ul>
           </div>
@@ -1767,10 +1946,10 @@ Rectification de certains codes  - JO du 29/03/2017-T33
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP449.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP449.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP449.zip">LPP449.zip</a>
               </li>
             </ul>
           </div>
@@ -1818,10 +1997,10 @@ certains codes - JO du 21/05/2015- T9
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP448.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP448.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP448.zip">LPP448.zip</a>
               </li>
             </ul>
           </div>
@@ -1862,10 +2041,10 @@ Arrêté du 04 mai 2017 -  JO du 05/05/2017-T75
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP447.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP447.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP447.zip">LPP447.zip</a>
               </li>
             </ul>
           </div>
@@ -1902,10 +2081,10 @@ Arrêté du 26 avril 2017 - JO du 28/04/2017 T47
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP446.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP446.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP446.zip">LPP446.zip</a>
               </li>
             </ul>
           </div>
@@ -1943,10 +2122,10 @@ JO du 20/04/2017 T18
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP445.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP445.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP445.zip">LPP445.zip</a>
               </li>
             </ul>
           </div>
@@ -1985,10 +2164,10 @@ JO du 13/04/2017-T 27
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP444.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP444.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP444.zip">LPP444.zip</a>
               </li>
             </ul>
           </div>
@@ -2025,10 +2204,10 @@ JO du 11/04/2017-T 53
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP443.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP443.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP443.zip">LPP443.zip</a>
               </li>
             </ul>
           </div>
@@ -2071,10 +2250,10 @@ JO du 31/03/2017-T 168
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP442.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP442.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP442.zip">LPP442.zip</a>
               </li>
             </ul>
           </div>
@@ -2108,10 +2287,10 @@ Arrêté du 20 mars 2017 (JO du 22/03/2017-T 27)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP441.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP441.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP441.zip">LPP441.zip</a>
               </li>
             </ul>
           </div>
@@ -2153,10 +2332,10 @@ avis relatif à la baisse de tarifs - JO du 07/03/2017 T112
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP440.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP440.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP440.zip">LPP440.zip</a>
               </li>
             </ul>
           </div>
@@ -2194,10 +2373,10 @@ Avis relatif aux tarifs et aux prix limites du JO du 06/04/2016 T80
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP439.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP439.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP439.zip">LPP439.zip</a>
               </li>
             </ul>
           </div>
@@ -2245,10 +2424,10 @@ Arrêté du 17 février 2017 - JO du 21/02/2017 T17
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP438.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP438.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP438.zip">LPP438.zip</a>
               </li>
             </ul>
           </div>
@@ -2287,10 +2466,10 @@ Arrêté du 5 janvier 2017-  JO du 10/01/2017 T10
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP437.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP437.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP437.zip">LPP437.zip</a>
               </li>
             </ul>
           </div>
@@ -2329,10 +2508,10 @@ JO du 31/01/217 T29
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP436.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP436.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP436.zip">LPP436.zip</a>
               </li>
             </ul>
           </div>
@@ -2371,10 +2550,10 @@ Rectification avis relatif prix- JO du 26/07/2016
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP435.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP435.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP435.zip">LPP435.zip</a>
               </li>
             </ul>
           </div>
@@ -2407,10 +2586,10 @@ JO du 12/01/2017 T22
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP434.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP434.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP434.zip">LPP434.zip</a>
               </li>
             </ul>
           </div>
@@ -2444,10 +2623,10 @@ JO du 10/01/2017 T12, T15, T19 et T23
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP433.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP433.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP433.zip">LPP433.zip</a>
               </li>
             </ul>
           </div>
@@ -2489,10 +2668,10 @@ JO du 06/12/2016 T181
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP432.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP432.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP432.zip">LPP432.zip</a>
               </li>
             </ul>
           </div>
@@ -2528,10 +2707,10 @@ JO du 15/12/2016 - T 136
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP431.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP431.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP431.zip">LPP431.zip</a>
               </li>
             </ul>
           </div>
@@ -2570,10 +2749,10 @@ JO du 16/12/2016 T47
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP430.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP430.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP430.zip">LPP430.zip</a>
               </li>
             </ul>
           </div>
@@ -2611,10 +2790,10 @@ JO du 13/12/2016 T119
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP429.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP429.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP429.zip">LPP429.zip</a>
               </li>
             </ul>
           </div>
@@ -2649,10 +2828,10 @@ JO du 25/11/2016 T9 et T10
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP428.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP428.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP428.zip">LPP428.zip</a>
               </li>
             </ul>
           </div>
@@ -2686,10 +2865,10 @@ JO du 23/07/2016 T23
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP427.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP427.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP427.zip">LPP427.zip</a>
               </li>
             </ul>
           </div>
@@ -2723,10 +2902,10 @@ JO du 08/11/2016 - T6, T8 et T10
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP426.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP426.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP426.zip">LPP426.zip</a>
               </li>
             </ul>
           </div>
@@ -2760,10 +2939,10 @@ JO du 25/10/2016 - T25, T26 et T27
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP425.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP425.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP425.zip">LPP425.zip</a>
               </li>
             </ul>
           </div>
@@ -2801,10 +2980,10 @@ JO du 21/10/2016 - T 93
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP424.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP424.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP424.zip">LPP424.zip</a>
               </li>
             </ul>
           </div>
@@ -2844,10 +3023,10 @@ JO du 28/09/2016 T12
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP423.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP423.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP423.zip">LPP423.zip</a>
               </li>
             </ul>
           </div>
@@ -2889,10 +3068,10 @@ JO du 23/07/2016 T23
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP422.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP422.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP422.zip">LPP422.zip</a>
               </li>
             </ul>
           </div>
@@ -2927,10 +3106,10 @@ arrêté du 29/08/2016 (JO du 01/09/2016 - T35)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP421.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP421.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP421.zip">LPP421.zip</a>
               </li>
             </ul>
           </div>
@@ -2963,10 +3142,10 @@ JO du 02/04/2015 - T 102
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP420.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP420.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP420.zip">LPP420.zip</a>
               </li>
             </ul>
           </div>
@@ -3004,10 +3183,10 @@ JO du 27/07/2016 - T 98
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP419.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP419.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP419.zip">LPP419.zip</a>
               </li>
             </ul>
           </div>
@@ -3050,10 +3229,10 @@ JO du 21/07/2016 T73
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP418.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP418.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP418.zip">LPP418.zip</a>
               </li>
             </ul>
           </div>
@@ -3086,10 +3265,10 @@ Avis prix (JO du 16/07/2015 T181)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP417.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP417.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP417.zip">LPP417.zip</a>
               </li>
             </ul>
           </div>
@@ -3122,10 +3301,10 @@ Avis prix (JO du 16/07/2015 T181)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP416.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP416.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP416.zip">LPP416.zip</a>
               </li>
             </ul>
           </div>
@@ -3163,10 +3342,10 @@ arrêté du 20/06/2016 (JO du 23/06/2016 - T219)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP415.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP415.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP415.zip">LPP415.zip</a>
               </li>
             </ul>
           </div>
@@ -3199,10 +3378,10 @@ arrêté du 4/4/2016 (JO du 12/4/2016 - T23)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP414.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP414.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP414.zip">LPP414.zip</a>
               </li>
             </ul>
           </div>
@@ -3237,10 +3416,10 @@ Correction PLV (JO du 01/03/2016 - T16)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP413.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP413.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP413.zip">LPP413.zip</a>
               </li>
             </ul>
           </div>
@@ -3275,10 +3454,10 @@ avis prix (JO 3/09/2014-T84)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP412.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP412.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP412.zip">LPP412.zip</a>
               </li>
             </ul>
           </div>
@@ -3312,10 +3491,10 @@ décision du Conseil d'État rendue le 18/04/2016 annulant les baisses de prix p
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP411.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP411.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP411.zip">LPP411.zip</a>
               </li>
             </ul>
           </div>
@@ -3350,10 +3529,10 @@ arrêté du 20/4/2016 (JO du 27/4/2016 - T19)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP410.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP410.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP410.zip">LPP410.zip</a>
               </li>
             </ul>
           </div>
@@ -3392,10 +3571,10 @@ avis prix (JO 15/12/2015-T119, JO 27/02/2015-T121, JO 9/06/2015-T94)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP409.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP409.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP409.zip">LPP409.zip</a>
               </li>
             </ul>
           </div>
@@ -3430,10 +3609,10 @@ correctif prix ((JO du 11/03/16 T134)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP408.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP408.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP408.zip">LPP408.zip</a>
               </li>
             </ul>
           </div>
@@ -3468,10 +3647,10 @@ avis prix (JO du 10/4/15 T114 - JO du 10/7/15 T151 - JO du 13/11/15 T173  et  T1
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP407.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP407.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP407.zip">LPP407.zip</a>
               </li>
             </ul>
           </div>
@@ -3506,10 +3685,10 @@ arrêté du 7/3/16 (JO du 16/3/16 - T15)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP406.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP406.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP406.zip">LPP406.zip</a>
               </li>
             </ul>
           </div>
@@ -3544,10 +3723,10 @@ Arrêté du 19/02/16 (JO 02/03/2016-T19)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP405.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP405.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP405.zip">LPP405.zip</a>
               </li>
             </ul>
           </div>
@@ -3582,10 +3761,10 @@ Arrêté du 19/02/16 (JO 26/02/2016-T 19)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP404.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP404.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP404.zip">LPP404.zip</a>
               </li>
             </ul>
           </div>
@@ -3618,10 +3797,10 @@ Arrêté du 19/02/2016 (JO du 23/02/2016 T18)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP403.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP403.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP403.zip">LPP403.zip</a>
               </li>
             </ul>
           </div>
@@ -3654,10 +3833,10 @@ Arrêté du 06/11/15 (JO du 10/11/15 T14)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP402.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP402.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP402.zip">LPP402.zip</a>
               </li>
             </ul>
           </div>
@@ -3694,10 +3873,10 @@ Arrêté du 01/02/2016 (JO du 03/02/2016 T31, T33, T34, T36, T37 et JO du 04/02/
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP401.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP401.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP401.zip">LPP401.zip</a>
               </li>
             </ul>
           </div>
@@ -3730,10 +3909,10 @@ Arrêté du 28/01/2016 (JO du 02/02/16 T7 et T8)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP400.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP400.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP400.zip">LPP400.zip</a>
               </li>
             </ul>
           </div>
@@ -3769,10 +3948,10 @@ Arrêté du 15/01/2016 (JO du 19/01/2016 T23)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP399.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP399.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP399.zip">LPP399.zip</a>
               </li>
             </ul>
           </div>
@@ -3805,10 +3984,10 @@ Avis relatif aux prix (JO du 26/11/2015 T121)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP398.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP398.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP398.zip">LPP398.zip</a>
               </li>
             </ul>
           </div>
@@ -3845,10 +4024,10 @@ Avis relatif aux prix (JO du 17/12/2015 T156)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP397.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP397.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP397.zip">LPP397.zip</a>
               </li>
             </ul>
           </div>
@@ -3887,10 +4066,10 @@ Arrêté du 15 décembre 2015 (JO du 18/12/2015 T37)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP396.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP396.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP396.zip">LPP396.zip</a>
               </li>
             </ul>
           </div>
@@ -3925,10 +4104,10 @@ arrêté du 02/12/15 (JO du 04/12/15)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP395.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP395.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP395.zip">LPP395.zip</a>
               </li>
             </ul>
           </div>
@@ -3963,10 +4142,10 @@ arrêté du 06/11/15 (JO du 10/11/15)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP394.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP394.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP394.zip">LPP394.zip</a>
               </li>
             </ul>
           </div>
@@ -4001,10 +4180,10 @@ arrêté du 23/10/15 (JO du 27/10/15 T18 et 20)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP393.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP393.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP393.zip">LPP393.zip</a>
               </li>
             </ul>
           </div>
@@ -4040,10 +4219,10 @@ JO du 06/09/2013 T27
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP392.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP392.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP392.zip">LPP392.zip</a>
               </li>
             </ul>
           </div>
@@ -4078,10 +4257,10 @@ arrêté du 24/08/15 (JO du 01/09/15 T15, T16, T17, T20, T22)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP391.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP391.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP391.zip">LPP391.zip</a>
               </li>
             </ul>
           </div>
@@ -4114,10 +4293,10 @@ Avis relatif aux tarifs et aux PLV au public (JO du 06/06/14 T145)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP390.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP390.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP390.zip">LPP390.zip</a>
               </li>
             </ul>
           </div>
@@ -4150,10 +4329,10 @@ arrêté du 24/07/2015 (JO du 29/07/15 T26)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP389.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP389.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP389.zip">LPP389.zip</a>
               </li>
             </ul>
           </div>
@@ -4187,10 +4366,10 @@ arrêté du 24/07/2015 (JO du 29/07/15 T26, 28,29,30,31)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP388.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP388.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP388.zip">LPP388.zip</a>
               </li>
             </ul>
           </div>
@@ -4226,10 +4405,10 @@ arrêté du 20/07/15 (JO du 23/07/15 T19)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP387.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP387.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP387.zip">LPP387.zip</a>
               </li>
             </ul>
           </div>
@@ -4263,10 +4442,10 @@ Avis relatif aux tarifs et aux PLV au public (JO du 28/08/13 T80)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP386.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP386.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP386.zip">LPP386.zip</a>
               </li>
             </ul>
           </div>
@@ -4303,10 +4482,10 @@ Avis relatif aux tarifs et aux PLV au public (JO du 02/04/15 T102 , du 10/04/201
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP385.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP385.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP385.zip">LPP385.zip</a>
               </li>
             </ul>
           </div>
@@ -4340,10 +4519,10 @@ Arrêtés des 16, 18 et 22/06/2015
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP384.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP384.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP384.zip">LPP384.zip</a>
               </li>
             </ul>
           </div>
@@ -4378,10 +4557,10 @@ Arrêté du 28/05/15 (JO du 3/06/2015 T16)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP383.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP383.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP383.zip">LPP383.zip</a>
               </li>
             </ul>
           </div>
@@ -4415,10 +4594,10 @@ Avis rectificatif de prix (JO du 02/06/2015 T67).
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP382.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP382.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP382.zip">LPP382.zip</a>
               </li>
             </ul>
           </div>
@@ -4453,10 +4632,10 @@ Arrêté du 06/05/15 (JO du 27/05/2015 T18)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP381.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP381.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP381.zip">LPP381.zip</a>
               </li>
             </ul>
           </div>
@@ -4494,10 +4673,10 @@ Avis relatif aux prix (JO du 14/05/2015 T95)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP380.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP380.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP380.zip">LPP380.zip</a>
               </li>
             </ul>
           </div>
@@ -4530,10 +4709,10 @@ Arrêté du 22/04/15 (JO du 28/04/2015 T19 et T21)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP379.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP379.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP379.zip">LPP379.zip</a>
               </li>
             </ul>
           </div>
@@ -4567,10 +4746,10 @@ Arrêté du 14/04/15 (JO du 17/04/2015 T28 et T30)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP378.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP378.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP378.zip">LPP378.zip</a>
               </li>
             </ul>
           </div>
@@ -4603,10 +4782,10 @@ arrêté du 7/04/15 (JO du 10/04/15 - T33 et T35)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP377.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP377.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP377.zip">LPP377.zip</a>
               </li>
             </ul>
           </div>
@@ -4639,10 +4818,10 @@ Avis relatif aux prix (JO du 20/02/2014)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP376.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP376.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP376.zip">LPP376.zip</a>
               </li>
             </ul>
           </div>
@@ -4679,10 +4858,10 @@ arrêté du 16/03/15 (JO du 19/03/15 - T25)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP375.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP375.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP375.zip">LPP375.zip</a>
               </li>
             </ul>
           </div>
@@ -4721,10 +4900,10 @@ Arrêté du 9 mars 2015 (JO du 12/03/2015 T27- T30)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP374.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP374.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP374.zip">LPP374.zip</a>
               </li>
             </ul>
           </div>
@@ -4757,10 +4936,10 @@ Arrêté du 23 février 2015 JO du 27/02/2015 - T33)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP373.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP373.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP373.zip">LPP373.zip</a>
               </li>
             </ul>
           </div>
@@ -4795,10 +4974,10 @@ Arrêté du 24 février 2015 JO du 27/02/2015 - T33 et T37)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP372.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP372.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP372.zip">LPP372.zip</a>
               </li>
             </ul>
           </div>
@@ -4833,10 +5012,10 @@ Arrêté du 16 février 2015 (JO du 20/02/2015 - T38)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP371.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP371.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP371.zip">LPP371.zip</a>
               </li>
             </ul>
           </div>
@@ -4869,10 +5048,10 @@ Avis relatif aux tarifs et aux prix limites de vente au public (JO du 17/02/15)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP370.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP370.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP370.zip">LPP370.zip</a>
               </li>
             </ul>
           </div>
@@ -4905,10 +5084,10 @@ arrêté du 5/02/15 (JO du 10/02/15)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP369.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP369.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP369.zip">LPP369.zip</a>
               </li>
             </ul>
           </div>
@@ -4943,10 +5122,10 @@ arrêté du 12/01/15 (JO du 15/01/15 T14)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP368.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP368.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP368.zip">LPP368.zip</a>
               </li>
             </ul>
           </div>
@@ -4979,10 +5158,10 @@ avis prix JO du 11/10/13
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP367.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP367.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP367.zip">LPP367.zip</a>
               </li>
             </ul>
           </div>
@@ -5018,10 +5197,10 @@ avis prix JO du 19/12/14
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP366.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP366.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP366.zip">LPP366.zip</a>
               </li>
             </ul>
           </div>
@@ -5055,10 +5234,10 @@ arrêté du 29/08/14 (JO du 3/09/2014)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP365.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP365.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP365.zip">LPP365.zip</a>
               </li>
             </ul>
           </div>
@@ -5095,10 +5274,10 @@ arrêté du 22/10/13 (décision du Conseil d'État en date du 28/11/2014)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP364.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP364.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP364.zip">LPP364.zip</a>
               </li>
             </ul>
           </div>
@@ -5133,10 +5312,10 @@ arrêté du 18/11/14 (JO du 21/11/14)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP363.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP363.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP363.zip">LPP363.zip</a>
               </li>
             </ul>
           </div>
@@ -5170,10 +5349,10 @@ arrêté du 5/11/14 (JO du 13/11/2014)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP362.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP362.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP362.zip">LPP362.zip</a>
               </li>
             </ul>
           </div>
@@ -5208,10 +5387,10 @@ arrêté du 03/10/2014 (JO du 09/10/20414)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP361.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP361.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP361.zip">LPP361.zip</a>
               </li>
             </ul>
           </div>
@@ -5244,10 +5423,10 @@ arrêté du 3/10/14 (JO du 8/10/2014)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP360.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP360.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP360.zip">LPP360.zip</a>
               </li>
             </ul>
           </div>
@@ -5280,10 +5459,10 @@ arrêté du 23/09/14 (JO du 25/09/2014)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP359.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP359.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP359.zip">LPP359.zip</a>
               </li>
             </ul>
           </div>
@@ -5316,10 +5495,10 @@ T3 ch1
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP358.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP358.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP358.zip">LPP358.zip</a>
               </li>
             </ul>
           </div>
@@ -5352,10 +5531,10 @@ JO du 11/09/2014
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP357.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP357.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP357.zip">LPP357.zip</a>
               </li>
             </ul>
           </div>
@@ -5391,10 +5570,10 @@ arrêté du 04/09/14 (JO du 09/09/2014)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP356.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP356.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP356.zip">LPP356.zip</a>
               </li>
             </ul>
           </div>
@@ -5433,10 +5612,10 @@ arrêté du 28/07/2014 (JO du 05/08/2014)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP355.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP355.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP355.zip">LPP355.zip</a>
               </li>
             </ul>
           </div>
@@ -5469,10 +5648,10 @@ Arrêté du 28/07/2014 (JO du 05/08/2014)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP354.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP354.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP354.zip">LPP354.zip</a>
               </li>
             </ul>
           </div>
@@ -5505,10 +5684,10 @@ Arrêté du 24/07/2014 (JO du 29/07/2014)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP353.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP353.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP353.zip">LPP353.zip</a>
               </li>
             </ul>
           </div>
@@ -5541,10 +5720,10 @@ Arrêté du 23/07/2014 (JO du 25/07/2014)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP352.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP352.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP352.zip">LPP352.zip</a>
               </li>
             </ul>
           </div>
@@ -5580,10 +5759,10 @@ Avis relatif aux prix (JO du 26/07/2014)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP351.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP351.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP351.zip">LPP351.zip</a>
               </li>
             </ul>
           </div>
@@ -5617,10 +5796,10 @@ Arrêté du 25 juin 2014 (JO du 01/07/2014)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP350.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP350.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP350.zip">LPP350.zip</a>
               </li>
             </ul>
           </div>
@@ -5653,10 +5832,10 @@ Arrêtés du 26 mai et du 3 juin 2014
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP349.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP349.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP349.zip">LPP349.zip</a>
               </li>
             </ul>
           </div>
@@ -5691,10 +5870,10 @@ Arrêté du 3 juin 2014 (JO du 05/06/2014)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP348.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP348.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP348.zip">LPP348.zip</a>
               </li>
             </ul>
           </div>
@@ -5730,10 +5909,10 @@ arrêté du 12 mai 2014  (JO du 15/5/2014)
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP347.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP347.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP347.zip">LPP347.zip</a>
               </li>
             </ul>
           </div>
@@ -5766,10 +5945,10 @@ JO du 13/05/2014
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP346.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP346.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP346.zip">LPP346.zip</a>
               </li>
             </ul>
           </div>
@@ -5802,10 +5981,10 @@ T1 - Ch 1
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichier à télécharger : </h1>
+            <h1>1 Fichier à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP345.zip">http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP345.zip</a>
+                <a href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP345.zip">LPP345.zip</a>
               </li>
             </ul>
           </div>

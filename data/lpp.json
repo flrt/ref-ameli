@@ -1,9 +1,136 @@
 {
     "versions": [
         {
-            "date": "2018-04-11T16:49:48.480577+00:00",
+            "available": true,
+            "date": "2018-05-12T08:49:06.088651+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP493.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "383166",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP493.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": "0",
+                    "type": "link",
+                    "url": "https://www.twitter.com/frlrtdev/status/995224334171025409"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 493</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nTIII Ch4 HEARTWARE \nTIII Ch1 NOVAE \nTIII Ch1 GYROS\nTII Ch4 SOMNOMED\nTII Ch3 BAHA \nTII Ch1 CORIN \nTIII Ch2 SULZER \n  RADIATIONS 31/07/2018 \n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nArr\u00eat\u00e9 du 26 avril 2018 - (JO du 02/05/2018-T15)\nArr\u00eat\u00e9 du 26 avril 2018 - (JO du 02/05/2018-T17-T99)\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>02-05-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v493",
+            "summary": "Version 493 disponible",
+            "title": "Nomenclature LPP Version 493",
+            "type": "LPP",
+            "url": null,
+            "version": "493"
+        },
+        {
+            "available": true,
+            "date": "2018-05-11T17:03:35.721709+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP492.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "340871",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP492.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": "0",
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/994986389740630016"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 492</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nTIII Ch4 HEARTWARE \nTIII Ch1 NOVAE \nTIII Ch1 GYROS\nTII Ch4 SOMNOMED\nTII Ch3 BAHA \nTII Ch1 CORIN \nTIII Ch2 SULZER \n  RADIATIONS 31/07/2018 \n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nArr\u00eat\u00e9 du 18 avril 2018 -  (JO du 24/04/2018-T5)\nArr\u00eat\u00e9 du 18 avril 2018 -  (JO du 24/04/2018-T6-T113)\nArr\u00eat\u00e9 du 19 avril 2018 -  (JO du 24/04/2018-T8-T115)\nArr\u00eat\u00e9 du 20 avril 2018 - (JO du 25/04/2018-T11-T88)\nArr\u00eat\u00e9 du 20 avril 2018 - (JO du 25/04/2018-T12-T89)\nArr\u00eat\u00e9 du 20 avril 2018 - (JO du 25/04/2018-T13-T90)\nArr\u00eat\u00e9 du 20 avril 2018 - (JO du 25/04/2018-T16-T91)\nArr\u00eat\u00e9 du 20 avril 2018 - (JO du 25/04/2018-T18)\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>25-04-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v492",
+            "summary": "Version 492 disponible",
+            "title": "Nomenclature LPP Version 492",
+            "type": "LPP",
+            "url": null,
+            "version": "492"
+        },
+        {
+            "available": true,
+            "date": "2018-05-11T16:54:11.342866+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP491.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "381821",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP491.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": "0",
+                    "type": "link",
+                    "url": "https://www.twitter.com/frlrtdev/status/994984022550962176"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 491</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nRECTIF PRIX\nTII Ch7 VARI-FLEX\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nRectification des prix erron\u00e9s de cession en HT \u00e0 compter du 01/07/2017 - Avis relatif \u00e0 la tarification de certains pansements vis\u00e9s \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale\nArr\u00eat\u00e9 du 18 avril 2018 - (JO du 20/04/2018-T27)\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>20-04-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v491",
+            "summary": "Version 491 disponible",
+            "title": "Nomenclature LPP Version 491",
+            "type": "LPP",
+            "url": null,
+            "version": "491"
+        },
+        {
+            "available": true,
+            "date": "2018-05-11T16:53:38.205696+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP490.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "381779",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP490.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": "0",
+                    "type": "link",
+                    "url": "https://www.twitter.com/frlrtdev/status/994983883694362624"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 490</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nPRIX AU 01/05/2018\u00a0\nTI Ch3 B BRAUN\nTIII Ch1 MOBILITY \nTIII Ch1 RADIATIONS \n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\n Avis relatif \u00e0 la tarification des st\u00e9rilets au cuivre (JO du 29/03/2018-T137)\nArr\u00eat\u00e9 du 6 avril 2018 - (JO du 10/04/2018-T11)\nArr\u00eat\u00e9 du 6 avril 2018 - (JO du 12/04/2018-T19)\nArr\u00eat\u00e9 du 11 avril 2018 - (JO du 13/04/2018-T30)\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>13-04-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em>17-04-2018</em></p>\n</div>",
+            "id": "urn:ameli:lpp:v490",
+            "summary": "Version 490 disponible",
+            "title": "Nomenclature LPP Version 490",
+            "type": "LPP",
+            "url": null,
+            "version": "490"
+        },
+        {
+            "available": true,
+            "date": "2018-05-09T16:53:07.201477+00:00",
             "files": [
                 "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP489.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "383694",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP489.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": "0",
+                    "type": "link",
+                    "url": "https://www.twitter.com/frlrtdev/status/994258978354974720"
+                }
             ],
             "html": "<div>\n    <h1>Informations sur la version 489</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nTII Ch7 RADIATIONS\nTIII Ch1 RADIATIONS\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nArr\u00eat\u00e9 du 28 mars 2018 - (JO du 04/04/2018-T14)\nArr\u00eat\u00e9 du 4 avril 2018 - (JO du 06/04/2018-T11)\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>06-04-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
             "id": "urn:ameli:lpp:v489",

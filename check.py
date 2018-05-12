@@ -24,14 +24,16 @@ def main():
 
     parser.add_argument("ref", choices=['ucd', 'lpp', 'ccam', 'nabm'], help="referentiel : ucd | lpp | ccam | nabm")
     parser.add_argument("-a", "--action", action="append",
-                        choices=['feed', 'download'],
+                        choices=['feed', 'download', 'tweet'],
                         help="""
                         action disponible : <feed> -> produit un fichiers de syndication ATOM, 
-                        <download> -> télécharge les fichiers""")
+                        <download> -> télécharge les fichiers
+                        <tweet> -> poste 1 tweet concernant la mise a jour""")
     parser.add_argument("--feedbase",
                         help="URL de base des flux atom, utilisés dans le flux ATOM pour s'autoréférencer (*)")
     parser.add_argument("--feedftp", help="configuration FTP pour upload du flux ATOM, format JSON")
     parser.add_argument("--dataftp", help="configuration FTP pour upload des données, format JSON")
+    parser.add_argument("--twitter", help="configuration Twitter permettant de poster la mise à jour")    
     parser.add_argument("--mail", help="configuration Mail pour envoyer une notification, format JSON")
     parser.add_argument("--backupdir", help="Répertoire de sauvegarde des pages html")
     parser.add_argument("--downdir", help="Répertoire de téléchargements des fichiers de données")
@@ -51,8 +53,7 @@ def main():
         'download': 'download' in args.action,
         'ftp_config': args.dataftp,
         'backup_dir': args.backupdir if args.backupdir else 'backup',
-        'download_dir': args.downdir if args.downdir else 'down'
-    }
+        'download_dir': args.downdir if args.downdir else 'down'    }
 
     wd_class = {"ucd": watchdog.UCDWatchDog,
                 "lpp": watchdog.LPPWatchDog,
@@ -62,10 +63,11 @@ def main():
     instance = wd_class[args.ref](nomen=args.ref,
                                   feed_conf=feed_conf,
                                   data_conf=data_conf,
-                                  mail_conf=args.mail)
+                                  mail_conf=args.mail,
+                                  tweet_conf=args.twitter)
     instance.process()
 
 
 if __name__ == "__main__":
-    loggers = helpers.stdout_logger(['ccam_wd', 'lpp_wd', 'ucd_wd', 'nabm_wd', 'feed', 'action'], logging.INFO)
+    loggers = helpers.stdout_logger(['ccam_wd', 'lpp_wd', 'ucd_wd', 'nabm_wd', 'feed', 'action'], logging.DEBUG)
     main()

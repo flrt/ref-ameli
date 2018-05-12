@@ -1,19 +1,46 @@
 {
     "versions": [
         {
-            "date": "2017-12-15T19:10:20.695088+00:00",
+            "available": true,
+            "date": "2018-05-12T08:16:28.651520+00:00",
             "files": [
                 "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT046.dbf",
                 "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT046.dbf",
                 "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT046.dbf"
             ],
-            "url": null,
-            "version": "46",
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "295506",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT046.dbf"
+                },
+                {
+                    "http_status": 200,
+                    "size": "104444",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT046.dbf"
+                },
+                {
+                    "http_status": 200,
+                    "size": "9935",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT046.dbf"
+                },
+                {
+                    "http_status": 301,
+                    "size": "0",
+                    "type": "link",
+                    "url": "https://www.twitter.com/frlrtdev/status/995216124479459328"
+                }
+            ],
             "html": null,
             "id": "urn:ameli:nabm:v46",
             "summary": "Version 46 disponible",
             "title": "Nomenclature NABM Version 46",
-            "type": "NABM"
+            "type": "NABM",
+            "url": null,
+            "version": "46"
         },
         {
             "date": "2017-09-15T16:00:02.078688+00:00",
@@ -22,13 +49,13 @@
                 "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT045.dbf",
                 "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT045.dbf"
             ],
-            "url": null,
-            "version": "45",
             "html": null,
             "id": "urn:ameli:nabm:v45",
             "summary": "Version 45 disponible",
             "title": "Nomenclature NABM Version 45",
-            "type": "NABM"
+            "type": "NABM",
+            "url": null,
+            "version": "45"
         }
     ]
 }

@@ -4,8 +4,8 @@
   <title>Versions du référentiel AMELI - NABM</title>
   <subtitle>Referentiel - Le codage des actes de biologie - NABM</subtitle>
   <link href="https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/nomenclatures-codage/codage-actes-biologiques-nabm" rel="related"/>
-  <link href="https://www.opikanoba.org/feedsameli_nabm.xml" rel="self"/>
-  <updated>2018-04-13T15:06:44.454552+00:00</updated>
+  <link href="https://www.opikanoba.org/feeds/ameli_nabm.xml" rel="self"/>
+  <updated>2018-05-12T08:16:28.315439+00:00</updated>
   <author>
     <name>Frederic LAURENT</name>
     <email>frederic.laurent@gmail.com</email>
@@ -23,23 +23,23 @@
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichiers à télécharger : </h1>
+            <h1>3 Fichiers à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT046.dbf">http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT046.dbf</a>
+                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT046.dbf">NABM_FICHE_TOT046.dbf (288.58 Ko)</a>
               </li>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT046.dbf">http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT046.dbf</a>
+                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT046.dbf">NABM_HISTO_TOT046.dbf (102.0 Ko)</a>
               </li>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT046.dbf">http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT046.dbf</a>
+                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT046.dbf">NABM_INCOMP_TOT046.dbf (9.7 Ko)</a>
               </li>
             </ul>
           </div>
         </article>
       </div>
     </content>
-    <updated>2017-12-15T19:10:20.695088+00:00</updated>
+    <updated>2018-05-12T08:16:28.651520+00:00</updated>
     <summary>Version 46 disponible</summary>
   </entry>
   <entry>
@@ -52,16 +52,16 @@
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichiers à télécharger : </h1>
+            <h1>3 Fichiers à télécharger : </h1>
             <ul>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT045.dbf">http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT045.dbf</a>
+                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT045.dbf">NABM_FICHE_TOT045.dbf</a>
               </li>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT045.dbf">http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT045.dbf</a>
+                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT045.dbf">NABM_HISTO_TOT045.dbf</a>
               </li>
               <li>
-                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT045.dbf">http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT045.dbf</a>
+                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT045.dbf">NABM_INCOMP_TOT045.dbf</a>
               </li>
             </ul>
           </div>

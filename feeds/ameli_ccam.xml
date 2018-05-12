@@ -4,8 +4,8 @@
   <title>Versions du référentiel AMELI - CCAM</title>
   <subtitle>Referentiel - Le codage des actes médicaux - CCAM</subtitle>
   <link href="https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/nomenclatures-codage/codage-actes-medicaux-ccam" rel="related"/>
-  <link href="https://www.opikanoba.org/feedsameli_ccam.xml" rel="self"/>
-  <updated>2018-04-13T15:14:54.269349+00:00</updated>
+  <link href="https://www.opikanoba.org/feeds/ameli_ccam.xml" rel="self"/>
+  <updated>2018-05-12T08:08:45.163580+00:00</updated>
   <author>
     <name>Frederic LAURENT</name>
     <email>frederic.laurent@gmail.com</email>
@@ -23,23 +23,27 @@
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichiers à télécharger : </h1>
+            <h1>3 Fichiers à télécharger : </h1>
             <ul>
               <li>
-                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05100_DBF_PART1.zip">https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05100_DBF_PART1.zip</a>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05100_DBF_PART1.zip">CCAM05100_DBF_PART1.zip (4.93 Mo)</a>
               </li>
               <li>
-                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05100_DBF_PART2.zip">https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05100_DBF_PART2.zip</a>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05100_DBF_PART2.zip">CCAM05100_DBF_PART2.zip (4.68 Mo)</a>
               </li>
               <li>
-                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05100_DBF_PART3.zip">https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05100_DBF_PART3.zip</a>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05100_DBF_PART3.zip">CCAM05100_DBF_PART3.zip (5.08 Mo)</a>
               </li>
             </ul>
           </div>
+          <div>
+    <h1>Informations sur la version 51</h1>
+    <p>Les informations relatives à la version sont consultables dans le document <a href="https://www.ameli.fr/fileadmin/user_upload/documents/Cam_Note_V51.pdf">de notes sur le site ameli.</a></p>
+</div>
         </article>
       </div>
     </content>
-    <updated>2018-03-29T10:00:03.767032+00:00</updated>
+    <updated>2018-05-12T08:08:45.996995+00:00</updated>
     <summary>Version 51 disponible</summary>
   </entry>
   <entry>
@@ -52,16 +56,16 @@
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichiers à télécharger : </h1>
+            <h1>3 Fichiers à télécharger : </h1>
             <ul>
               <li>
-                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05000_DBF_PART1.zip">https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05000_DBF_PART1.zip</a>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05000_DBF_PART1.zip">CCAM05000_DBF_PART1.zip</a>
               </li>
               <li>
-                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART2.zip">https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART2.zip</a>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART2.zip">CCAM04900_DBF_PART2.zip</a>
               </li>
               <li>
-                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05000_DBF_PART3.zip">https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05000_DBF_PART3.zip</a>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05000_DBF_PART3.zip">CCAM05000_DBF_PART3.zip</a>
               </li>
             </ul>
           </div>
@@ -81,16 +85,16 @@
       <div xmlns="http://www.w3.org/1999/xhtml">
         <article>
           <div>
-            <h1>Fichiers à télécharger : </h1>
+            <h1>3 Fichiers à télécharger : </h1>
             <ul>
               <li>
-                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART1.zip">https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART1.zip</a>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART1.zip">CCAM04900_DBF_PART1.zip</a>
               </li>
               <li>
-                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART2.zip">https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART2.zip</a>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART2.zip">CCAM04900_DBF_PART2.zip</a>
               </li>
               <li>
-                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART3.zip">https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART3.zip</a>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM04900_DBF_PART3.zip">CCAM04900_DBF_PART3.zip</a>
               </li>
             </ul>
           </div>
