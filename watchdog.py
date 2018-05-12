@@ -152,7 +152,7 @@ class WatchDog(versions.VersionDetector):
 
             # s'il faut notifier par mail la nouvelle version
             if self.mail_conf:
-                act = action.SendMailAction(conf_filename=self.mail_conf, nomenclature=self.nomen)
+                act = action.SendMailAction(conf_filename=self.mail_conf)
                 try:
                     act.process(infos)
                 except Exception as error:
