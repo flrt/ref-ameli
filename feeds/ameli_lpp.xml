@@ -5,7 +5,7 @@
   <subtitle>Referentiel - Liste des produits et prestations</subtitle>
   <link href="https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp" rel="related"/>
   <link href="https://www.opikanoba.org/feeds/ameli_lpp.xml" rel="self"/>
-  <updated>2018-05-12T08:49:05.712450+00:00</updated>
+  <updated>2018-05-13T08:00:19.763148+00:00</updated>
   <author>
     <name>Frederic LAURENT</name>
     <email>frederic.laurent@gmail.com</email>
@@ -16,7 +16,7 @@
   <entry>
     <title>Nomenclature LPP Version 493</title>
     <link href="http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP493.zip" rel="related" type="application/zip"/>
-    <link href="https://www.twitter.com/frlrtdev/status/995224334171025409" rel="related" type="application/octet-stream"/>
+    <link href="https://www.twitter.com/frlrtdev/status/995574449633202177" rel="related" type="application/octet-stream"/>
     <id>urn:ameli:lpp:v493</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
@@ -55,7 +55,7 @@ Arrêté du 26 avril 2018 - (JO du 02/05/2018-T17-T99)
         </article>
       </div>
     </content>
-    <updated>2018-05-12T08:49:06.088651+00:00</updated>
+    <updated>2018-05-13T08:00:20.111339+00:00</updated>
     <summary>Version 493 disponible</summary>
   </entry>
   <entry>

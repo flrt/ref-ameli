@@ -2,7 +2,7 @@
     "versions": [
         {
             "available": true,
-            "date": "2018-05-12T08:16:28.651520+00:00",
+            "date": "2018-05-13T08:00:40.438440+00:00",
             "files": [
                 "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT046.dbf",
                 "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT046.dbf",
@@ -31,7 +31,7 @@
                     "http_status": 301,
                     "size": "0",
                     "type": "link",
-                    "url": "https://www.twitter.com/frlrtdev/status/995216124479459328"
+                    "url": "https://www.twitter.com/frlrtdev/status/995574534790139904"
                 }
             ],
             "html": null,

@@ -2,7 +2,7 @@
     "versions": [
         {
             "available": true,
-            "date": "2018-05-12T08:25:33.187476+00:00",
+            "date": "2018-05-13T07:58:52.148978+00:00",
             "files": [
                 "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00407_20180504.dbf",
                 "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_maj_00407_20180504.dbf",
@@ -45,10 +45,10 @@
                     "http_status": 301,
                     "size": "0",
                     "type": "link",
-                    "url": "https://www.twitter.com/frlrtdev/status/995218408013692928"
+                    "url": "https://www.twitter.com/frlrtdev/status/995574080731598848"
                 }
             ],
-            "html": "<div>\n    <h1>Informations sur la version 407</h1>\n    <p>23 lignes mises \u00e0 jour.</p>\n    \n    <p>Les m\u00e9dicaments concern\u00e9s par la mise \u00e0 jour sont les suivants :</p>\n    <p>PANZYGA, VESANOID, ABACAVIR, CASPOFUNGINE, NEVIRAPINE, KOVALTRY, EPOPROSTENOL</p>\n\n    <p></p>\n</div>",
+            "html": "<div>\n    <h1>Informations sur la version 407</h1>\n    <p>23 lignes mises \u00e0 jour.</p>\n    \n    <p>Les m\u00e9dicaments concern\u00e9s par la mise \u00e0 jour sont les suivants :</p>\n    <p>EPOPROSTENOL, KOVALTRY, CASPOFUNGINE, VESANOID, PANZYGA, NEVIRAPINE, ABACAVIR</p>\n\n    <p></p>\n</div>",
             "id": "urn:ameli:ucd:v407",
             "summary": "Version 407 disponible",
             "title": "Nomenclature UCD Version 407",

@@ -5,7 +5,7 @@
   <subtitle>Referentiel - Le codage des actes de biologie - NABM</subtitle>
   <link href="https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/nomenclatures-codage/codage-actes-biologiques-nabm" rel="related"/>
   <link href="https://www.opikanoba.org/feeds/ameli_nabm.xml" rel="self"/>
-  <updated>2018-05-12T08:16:28.315439+00:00</updated>
+  <updated>2018-05-13T08:00:40.184098+00:00</updated>
   <author>
     <name>Frederic LAURENT</name>
     <email>frederic.laurent@gmail.com</email>
@@ -18,6 +18,7 @@
     <link href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT046.dbf" rel="related" type="application/dbase"/>
     <link href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT046.dbf" rel="related" type="application/dbase"/>
     <link href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT046.dbf" rel="related" type="application/dbase"/>
+    <link href="https://www.twitter.com/frlrtdev/status/995574534790139904" rel="related" type="application/octet-stream"/>
     <id>urn:ameli:nabm:v46</id>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">
@@ -39,7 +40,7 @@
         </article>
       </div>
     </content>
-    <updated>2018-05-12T08:16:28.651520+00:00</updated>
+    <updated>2018-05-13T08:00:40.438440+00:00</updated>
     <summary>Version 46 disponible</summary>
   </entry>
   <entry>
