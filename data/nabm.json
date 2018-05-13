@@ -2,7 +2,49 @@
     "versions": [
         {
             "available": true,
-            "date": "2018-05-13T08:00:40.438440+00:00",
+            "date": "2018-04-16T15:54:10.441959+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT047.dbf",
+                "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT047.dbf",
+                "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT047.dbf"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "295506",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT047.dbf"
+                },
+                {
+                    "http_status": 200,
+                    "size": "111831",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT047.dbf"
+                },
+                {
+                    "http_status": 200,
+                    "size": "9917",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT047.dbf"
+                },
+                {
+                    "http_status": 301,
+                    "size": "0",
+                    "type": "link",
+                    "url": "https://www.twitter.com/frlrtdev/status/995580255766302720"
+                }
+            ],
+            "html": null,
+            "id": "urn:ameli:nabm:v47",
+            "summary": "Version 47 disponible",
+            "title": "Nomenclature NABM Version 47",
+            "type": "NABM",
+            "url": null,
+            "version": "47"
+        },
+        {
+            "available": true,
+            "date": "2017-12-15T19:10:20.695088+00:00",
             "files": [
                 "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT046.dbf",
                 "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT046.dbf",

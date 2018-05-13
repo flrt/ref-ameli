@@ -2,7 +2,7 @@
     "versions": [
         {
             "available": true,
-            "date": "2018-05-13T07:58:52.148978+00:00",
+            "date": "2018-05-04T16:00:04.005770+00:00",
             "files": [
                 "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00407_20180504.dbf",
                 "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_maj_00407_20180504.dbf",
@@ -40,15 +40,9 @@
                     "size": "233686",
                     "type": "data",
                     "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00407_20180504.dbf"
-                },
-                {
-                    "http_status": 301,
-                    "size": "0",
-                    "type": "link",
-                    "url": "https://www.twitter.com/frlrtdev/status/995574080731598848"
                 }
             ],
-            "html": "<div>\n    <h1>Informations sur la version 407</h1>\n    <p>23 lignes mises \u00e0 jour.</p>\n    \n    <p>Les m\u00e9dicaments concern\u00e9s par la mise \u00e0 jour sont les suivants :</p>\n    <p>EPOPROSTENOL, KOVALTRY, CASPOFUNGINE, VESANOID, PANZYGA, NEVIRAPINE, ABACAVIR</p>\n\n    <p></p>\n</div>",
+            "html": "<div>\n    <h1>Informations sur la version 407</h1>\n    <p>23 lignes mises \u00e0 jour.</p>\n    \n    <p>Les m\u00e9dicaments concern\u00e9s par la mise \u00e0 jour sont les suivants :</p>\n    <p>VESANOID, ABACAVIR, KOVALTRY, NEVIRAPINE, EPOPROSTENOL, PANZYGA, CASPOFUNGINE</p>\n\n    <p></p>\n</div>",
             "id": "urn:ameli:ucd:v407",
             "summary": "Version 407 disponible",
             "title": "Nomenclature UCD Version 407",
@@ -58,7 +52,7 @@
         },
         {
             "available": true,
-            "date": "2018-05-03T15:29:10.134029+00:00",
+            "date": "2018-04-30T08:00:03.764406+00:00",
             "files": [
                 "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00406_20180426.dbf",
                 "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_maj_00406_20180426.dbf",
@@ -102,22 +96,21 @@
             "version": "406"
         },
         {
-            "available": false,
-            "date": "2018-04-27T15:16:37.617058+00:00",
+            "date": "2018-04-20T14:04:48.546273+00:00",
             "files": [
-                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00406_20180426.dbf",
-                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_maj_00406_20180426.dbf",
-                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00406_20180426.dbf",
-                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00406_20180426.dbf",
-                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00406_20180426.dbf"
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00405_20180420.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_maj_00405_20180420.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00405_20180420.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00405_20180420.dbf",
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00405_20180420.dbf"
             ],
-            "html": "<div>\n    <h1>Informations sur la version 406</h1>\n    <p>0 lignes mises \u00e0 jour.</p>\n    \n    <p>Les m\u00e9dicaments concern\u00e9s par la mise \u00e0 jour sont les suivants :</p>\n    <p></p>\n\n    <p>Erreur de lecture du fichier ucd_maj_00406_20180426.dbf</p>\n</div>",
-            "id": "urn:ameli:ucd:v406",
-            "summary": "Version 406 en cours de publication",
-            "title": "Nomenclature UCD Version 406",
+            "html": "<div>\n    <h1>Informations sur la version 405</h1>\n    <p>0 lignes mises \u00e0 jour.</p>\n    \n    <p>Les m\u00e9dicaments concern\u00e9s par la mise \u00e0 jour sont les suivants :</p>\n    <p></p>\n\n    <p>Erreur de lecture du fichier ucd_maj_00405_20180420.dbf</p>\n</div>",
+            "id": "urn:ameli:ucd:v405",
+            "summary": "Version 405 disponible",
+            "title": "Nomenclature UCD Version 405",
             "type": "UCD",
             "url": null,
-            "version": "406"
+            "version": "405"
         },
         {
             "date": "2018-04-12T07:58:05.795895+00:00",

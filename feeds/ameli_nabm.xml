@@ -5,7 +5,7 @@
   <subtitle>Referentiel - Le codage des actes de biologie - NABM</subtitle>
   <link href="https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/nomenclatures-codage/codage-actes-biologiques-nabm" rel="related"/>
   <link href="https://www.opikanoba.org/feeds/ameli_nabm.xml" rel="self"/>
-  <updated>2018-05-13T08:00:40.184098+00:00</updated>
+  <updated>2018-05-13T08:23:24.157084+00:00</updated>
   <author>
     <name>Frederic LAURENT</name>
     <email>frederic.laurent@gmail.com</email>
@@ -13,6 +13,36 @@
   <category term="referentiel,ameli,NABM"/>
   <generator uri="https://github.com/flrt/atom_gen" version="1.0">python program - atom.py</generator>
   <rights>CC BY-SA 3.0 FR</rights>
+  <entry>
+    <title>Nomenclature NABM Version 47</title>
+    <link href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT047.dbf" rel="related" type="application/dbase"/>
+    <link href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT047.dbf" rel="related" type="application/dbase"/>
+    <link href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT047.dbf" rel="related" type="application/dbase"/>
+    <link href="https://www.twitter.com/frlrtdev/status/995580255766302720" rel="related" type="application/octet-stream"/>
+    <id>urn:ameli:nabm:v47</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>3 Fichiers à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT047.dbf">NABM_FICHE_TOT047.dbf (288.58 Ko)</a>
+              </li>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_HISTO_TOT047.dbf">NABM_HISTO_TOT047.dbf (109.21 Ko)</a>
+              </li>
+              <li>
+                <a href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_INCOMP_TOT047.dbf">NABM_INCOMP_TOT047.dbf (9.68 Ko)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-05-13T08:23:24.416997+00:00</updated>
+    <summary>Version 47 disponible</summary>
+  </entry>
   <entry>
     <title>Nomenclature NABM Version 46</title>
     <link href="http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/NABM_FICHE_TOT046.dbf" rel="related" type="application/dbase"/>
