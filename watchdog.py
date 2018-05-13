@@ -417,8 +417,6 @@ class CCAMWatchDog(WatchDog):
         baseurl = 'https://www.ameli.fr'
         url2check = f'{baseurl}/accueil-de-la-ccam/telechargement/index.php'
 
-        infos = None
-
         # ex: CCAM04900_DBF_PART3.zip
         regexdata = re.compile(r'.*?(CCAM(\d+)_DBF_PART(\d+)\.zip)')
 
@@ -444,7 +442,7 @@ class CCAMWatchDog(WatchDog):
         compl = None
 
         for link in zip_list:
-            # recuperation des liens vers les document dbf, complete le dict infos avec les donnees trouvees
+            # recuperation des liens vers les document dbf
 
             resregex = regexdata.match(link.get('href'))
             if resregex:
