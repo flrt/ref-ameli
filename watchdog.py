@@ -180,7 +180,7 @@ class WatchDog(versions.VersionDetector):
         :param urllist: liste des urls
         :return: dict avec 1 status global et les status par URL
         """
-        result=dict(available=True, url_status=[])
+        result=dict(available=False, url_status=[])
         for url in urllist:
             req=requests.head(url)
             result['url_status'].append(dict(
@@ -511,18 +511,19 @@ class NABMWatchDog(WatchDog):
 
         if rcheck.status_code == 200:
             files = list(map(lambda x: "{}{}".format(url_base, x), nabm_files))
+                # verification de la disponibilite des URL
+            url_checked = self.check_urls(files)
+            # ajout du type de donnees
+            for u in url_checked['url_status']:
+                u['type']='data' 
+
+            return self.fill_infos(
+                version=str(test_version), 
+                files=files, 
+                files_props=url_checked['url_status'],
+                available=url_checked['available'])
         else:
             self.logger.warning("Documents NABM numero {} non disponible [{}]".format(test_version, rcheck.status_code))
-
-        # verification de la disponibilite des URL
-        url_checked = self.check_urls(files)
-        # ajout du type de donnees
-        for u in url_checked['url_status']:
-            u['type']='data' 
-
-        return self.fill_infos(
-            version=str(test_version), 
-            files=files, 
-            files_props=url_checked['url_status'],
-            available=url_checked['available'])
+            return None
+      
 
