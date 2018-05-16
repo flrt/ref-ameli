@@ -182,10 +182,14 @@ class WatchDog(versions.VersionDetector):
         """
         result=dict(available=False, url_status=[])
         for url in urllist:
+            self.logger.debug("Check URL {}".format(url))
             req=requests.head(url)
-            result['url_status'].append(dict(
-                url=url, http_status=req.status_code, 
-                size=req.headers['Content-Length']))
+            _size = 0
+            if req.status_code == 200 and 'Content-Length' in req.headers:
+                _size = req.headers['Content-Length']
+
+            result['url_status'].append(
+                dict(url=url, http_status=req.status_code, size=_size))
             
             result['available'] = result['available'] & (req.status_code==200)
             
