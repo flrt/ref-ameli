@@ -61,7 +61,6 @@ class VersionDetector:
         self.last = int(sorted(set(map(lambda x: x["version"], self.version["versions"])))[-1])
 
         self.logger.info("Derniere version traitee : {}".format(self.last))
-        self.logger.debug("Configuration : {}".format(str(self.version[0])))
 
     def save_current_versions(self):
         """
@@ -94,7 +93,6 @@ class VersionDetector:
         _v = float(infos["version"])
         # recuperation des enregistrements ayant la meme version
         _vv = list(filter(lambda x: x['version'], self.version['versions']))
-        self.logger.debug(_vv)
 
         _same_version = list(filter(
                 lambda x: "version" in x and float(x["version"])==_v, self.version['versions']))

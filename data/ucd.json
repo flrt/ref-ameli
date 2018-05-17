@@ -1,61 +1,6 @@
 {
     "versions": [
-        {
-            "available": true,
-            "date": "2018-05-16T10:42:37.737285+00:00",
-            "files": [
-                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00408_20180516.dbf",
-                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_maj_00408_20180516.dbf",
-                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00408_20180516.dbf",
-                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00408_20180516.dbf",
-                "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00408_20180516.dbf"
-            ],
-            "files_props": [
-                {
-                    "http_status": 200,
-                    "size": "2823106",
-                    "type": "data",
-                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_total_00408_20180516.dbf"
-                },
-                {
-                    "http_status": 200,
-                    "size": "47938",
-                    "type": "data",
-                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_maj_00408_20180516.dbf"
-                },
-                {
-                    "http_status": 200,
-                    "size": "1731796",
-                    "type": "data",
-                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/ucd_histo_prix_00408_20180516.dbf"
-                },
-                {
-                    "http_status": 200,
-                    "size": "443609",
-                    "type": "data",
-                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_taux_00408_20180516.dbf"
-                },
-                {
-                    "http_status": 200,
-                    "size": "233686",
-                    "type": "data",
-                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/bdm_it/retro_histo_cout_sup_00408_20180516.dbf"
-                },
-                {
-                    "http_status": 301,
-                    "size": 0,
-                    "type": "link",
-                    "url": "https://www.twitter.com/frlrtdev/status/997040580411654144"
-                }
-            ],
-            "html": "<div>\n    <h1>Informations sur la version 408</h1>\n    <p>33 lignes mises \u00e0 jour.</p>\n    \n    <p>Les m\u00e9dicaments concern\u00e9s par la mise \u00e0 jour sont les suivants :</p>\n    <p>PROLASTIN, INTELENCE, VESANOID, PREZISTA, ABACAVIR, EPOPROSTENOL, PANZYGA, KOVALTRY, NEVIRAPINE, CASPOFUNGINE</p>\n\n    <p></p>\n</div>",
-            "id": "urn:ameli:ucd:v408",
-            "summary": "Version 408 disponible",
-            "title": "Nomenclature UCD Version 408",
-            "type": "UCD",
-            "url": null,
-            "version": "408"
-        },
+        
         {
             "available": false,
             "date": "2018-05-16T10:42:37.737285+00:00",
