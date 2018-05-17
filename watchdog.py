@@ -180,7 +180,11 @@ class WatchDog(versions.VersionDetector):
         :param urllist: liste des urls
         :return: dict avec 1 status global et les status par URL
         """
-        result=dict(available=False, url_status=[])
+        if len(urllist)==0:
+            return dict(available=False, url_status=[])
+
+        result=dict(available=True, url_status=[])
+
         for url in urllist:
             self.logger.debug("Check URL {}".format(url))
             req=requests.head(url)

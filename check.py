@@ -69,5 +69,5 @@ def main():
 
 
 if __name__ == "__main__":
-    loggers = helpers.stdout_logger(['ccam_wd', 'lpp_wd', 'ucd_wd', 'nabm_wd', 'feed', 'action'], logging.INFO)
+    loggers = helpers.stdout_logger(['ccam_wd', 'lpp_wd', 'ucd_wd', 'nabm_wd', 'feed', 'action'], logging.DEBUG)
     main()
