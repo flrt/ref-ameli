@@ -60,7 +60,8 @@ class VersionDetector:
         # calcule la version la plus recente : max
         self.last = int(sorted(set(map(lambda x: x["version"], self.version["versions"])))[-1])
 
-        self.logger.debug("Versions : {}".format(str(self.version)))
+        self.logger.info("Derniere version traitee : {}".format(self.last))
+        self.logger.debug("Configuration : {}".format(str(self.version[0])))
 
     def save_current_versions(self):
         """
