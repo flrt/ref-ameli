@@ -101,7 +101,7 @@ class VersionDetector:
         _in_progress = list(filter(lambda x: "available" in x and x["available"]==False, _same_version))
 
         # si le nombre d'enregistrement en cours == nombre total -> il n'y avait pas de version disponible
-        status_changed = len(_same_version)==len(_in_progress)
+        status_changed = len(_same_version)!=len(_in_progress)
         self.logger.debug(f"Changement status ? {status_changed}")
 
         return status_changed
