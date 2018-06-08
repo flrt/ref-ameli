@@ -85,23 +85,29 @@ class VersionDetector:
         return float(self.get_current_version()) < float(infos["version"])
 
     def in_progress_status_changed(self, infos):
+        """
+            Compare le statut de la derniere analyse du statut des fichiers (disponible ou non)
+            avec la version actuelle
+
+        :param infos: information sur la version
+        :return: si les donnees courantes ne sont pas disponibles : false
+                 si les donnees courants sont disponibles, compare avec le dernier statut de la version
+        """
         self.logger.debug(f"Version {infos['version']}, statut={infos['available']}")
         if "available" in infos and infos["available"]==False:
             return False
         
         # version courante totalement disponible
         _v = float(infos["version"])
-        # recuperation des enregistrements ayant la meme version
-        _vv = list(filter(lambda x: x['version'], self.version['versions']))
-
+ 
+        # recuperation des enregistrements ayant la meme version que celle en cours
         _same_version = list(filter(
                 lambda x: "version" in x and float(x["version"])==_v, self.version['versions']))
-        self.logger.debug(f"Version actuelle {_v}, nb d'enregistrement dans l'historique {len(_same_version)}")
-        # recuperation des enregistrements qui sont en non dispo
-        _in_progress = list(filter(lambda x: "available" in x and x["available"]==False, _same_version))
 
-        # si le nombre d'enregistrement en cours == nombre total -> il n'y avait pas de version disponible
-        status_changed = len(_same_version)!=len(_in_progress)
+        self.logger.debug(f"Version actuelle {_v}, nb d'enregistrement dans l'historique {len(_same_version)}")
+        self.logger.debug(f"Dernier statut de {_v} = {_same_version[0]['available']}")
+
+        status_changed = infos['available']!=_same_version[0]['available']
         self.logger.debug(f"Changement status ? {status_changed}")
 
         return status_changed
