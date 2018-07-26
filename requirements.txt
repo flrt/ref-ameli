@@ -6,3 +6,4 @@ mailer
 xlrd
 arrow
 dbfread
+tweepy
