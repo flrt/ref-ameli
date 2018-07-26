@@ -10,6 +10,8 @@ RUN pip install bs4
 RUN pip install mailer
 RUN pip install xlrd
 RUN pip install arrow
+RUN pip install dbfread
+RUN pip install tweepy
 
 RUN git clone https://github.com/flrt/atom_gen.git /opt/atom_gen
 RUN pip install /opt/atom_gen/dist/atom_gen-1.0.tar.gz
