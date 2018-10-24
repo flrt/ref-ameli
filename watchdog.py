@@ -192,6 +192,11 @@ class WatchDog(versions.VersionDetector):
             if req.status_code == 200 and 'Content-Length' in req.headers:
                 _size = req.headers['Content-Length']
 
+                if int(_size) < 400:
+                    req2=requests.get(url)
+                    self.logger.debug(req2.text)
+                    result['available'] = False
+
             result['url_status'].append(
                 dict(url=url, http_status=req.status_code, size=_size))
             
