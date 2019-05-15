@@ -4,8 +4,8 @@
   <title>Versions du référentiel AMELI - CCAM</title>
   <subtitle>Referentiel - Le codage des actes médicaux - CCAM</subtitle>
   <link href="https://www.ameli.fr/medecin/exercice-liberal/facturation-remuneration/nomenclatures-codage/codage-actes-medicaux-ccam" rel="related"/>
-  <link href="https://www.opikanoba.org/feeds/ameli_ccam.xml" rel="self"/>
-  <updated>2018-05-13T07:59:56.368633+00:00</updated>
+  <link href="https://opikanoba.org/feeds/ameli_ccam.xml" rel="self"/>
+  <updated>2019-04-23T20:50:26.298057+00:00</updated>
   <author>
     <name>Frederic LAURENT</name>
     <email>frederic.laurent@gmail.com</email>
@@ -13,6 +13,295 @@
   <category term="referentiel,ameli,CCAM"/>
   <generator uri="https://github.com/flrt/atom_gen" version="1.0">python program - atom.py</generator>
   <rights>CC BY-SA 3.0 FR</rights>
+  <entry>
+    <title>Nomenclature CCAM Version 57</title>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05700_DBF_PART1.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05700_DBF_PART2.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05700_DBF_PART3.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:ccam:v57</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>3 Fichiers à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05700_DBF_PART1.zip">CCAM05700_DBF_PART1.zip (5.46 Mo)</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05700_DBF_PART2.zip">CCAM05700_DBF_PART2.zip (5.41 Mo)</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05700_DBF_PART3.zip">CCAM05700_DBF_PART3.zip (5.45 Mo)</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 57</h1>
+    <p>Les informations relatives à la version sont consultables dans le document <a href="https://www.ameli.fr/fileadmin/user_upload/documents/Cam_Note_V57.pdf">de notes sur le site ameli.</a></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2019-04-23T20:50:27.525983+00:00</updated>
+    <summary>Version 57 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature CCAM Version 56.10</title>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05610_DBF_PART1.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05610_DBF_PART2.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05610_DBF_PART3.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:ccam:v56.10</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>3 Fichiers à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05610_DBF_PART1.zip">CCAM05610_DBF_PART1.zip (5.46 Mo)</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05610_DBF_PART2.zip">CCAM05610_DBF_PART2.zip (5.41 Mo)</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05610_DBF_PART3.zip">CCAM05610_DBF_PART3.zip (5.45 Mo)</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 56.10</h1>
+    <p>Les informations relatives à la version sont consultables dans le document <a href="https://www.ameli.fr/fileadmin/user_upload/documents/Cam_Note_V56.10.pdf">de notes sur le site ameli.</a></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2019-03-25T18:28:30.955622+00:00</updated>
+    <summary>Version 56.10 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature CCAM Version 56</title>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05600_DBF_PART1.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05600_DBF_PART2.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05600_DBF_PART3.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:ccam:v56</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>3 Fichiers à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05600_DBF_PART1.zip">CCAM05600_DBF_PART1.zip (5.46 Mo)</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05600_DBF_PART2.zip">CCAM05600_DBF_PART2.zip (5.41 Mo)</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05600_DBF_PART3.zip">CCAM05600_DBF_PART3.zip (5.45 Mo)</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 56</h1>
+    <p>Les informations relatives à la version sont consultables dans le document <a href="https://www.ameli.fr/fileadmin/user_upload/documents/Cam_Note_V56.pdf">de notes sur le site ameli.</a></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2019-03-07T18:28:30.955622+00:00</updated>
+    <summary>Version 56 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature CCAM Version 55.50</title>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05550_DBF_PART1.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05550_DBF_PART2.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05550_DBF_PART3.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:ccam:v55.50</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>3 Fichiers à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05550_DBF_PART1.zip">CCAM05550_DBF_PART1.zip (5.46 Mo)</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05550_DBF_PART2.zip">CCAM05550_DBF_PART2.zip (5.41 Mo)</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05550_DBF_PART3.zip">CCAM05550_DBF_PART3.zip (5.45 Mo)</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 55.50</h1>
+    <p>Les informations relatives à la version sont consultables dans le document <a href="https://www.ameli.fr/fileadmin/user_upload/documents/Cam_Note_V55.50.pdf">de notes sur le site ameli.</a></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2019-01-15T18:28:30.955622+00:00</updated>
+    <summary>Version 55.50 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature CCAM Version 55</title>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05500_DBF_PART1.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05500_DBF_PART2.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05500_DBF_PART3.zip" rel="related" type="application/zip"/>
+    <id>urn:ameli:ccam:v55</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>3 Fichiers à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05500_DBF_PART1.zip">CCAM05500_DBF_PART1.zip (5.46 Mo)</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05500_DBF_PART2.zip">CCAM05500_DBF_PART2.zip (5.41 Mo)</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05500_DBF_PART3.zip">CCAM05500_DBF_PART3.zip (5.45 Mo)</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 55</h1>
+    <p>Les informations relatives à la version sont consultables dans le document <a href="https://www.ameli.fr/fileadmin/user_upload/documents/Cam_Note_V55.pdf">de notes sur le site ameli.</a></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-12-12T18:28:30.955622+00:00</updated>
+    <summary>Version 55 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature CCAM Version 54.10</title>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05410_DBF_PART1.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05410_DBF_PART2.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05410_DBF_PART3.zip" rel="related" type="application/zip"/>
+    <link href="https://www.twitter.com/SisInterop/status/1052106895257993220" rel="related" type="application/octet-stream"/>
+    <id>urn:ameli:ccam:v54.10</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>3 Fichiers à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05410_DBF_PART1.zip">CCAM05410_DBF_PART1.zip (5.2 Mo)</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05410_DBF_PART2.zip">CCAM05410_DBF_PART2.zip (5.04 Mo)</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05410_DBF_PART3.zip">CCAM05410_DBF_PART3.zip (5.21 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-10-16T08:00:05.552313+00:00</updated>
+    <summary>Version 54.10 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature CCAM Version 54</title>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05400_DBF_PART1.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05400_DBF_PART2.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05400_DBF_PART3.zip" rel="related" type="application/zip"/>
+    <link href="https://www.twitter.com/SisInterop/status/1030378723558805504" rel="related" type="application/octet-stream"/>
+    <id>urn:ameli:ccam:v54</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>3 Fichiers à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05400_DBF_PART1.zip">CCAM05400_DBF_PART1.zip (5.16 Mo)</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05400_DBF_PART2.zip">CCAM05400_DBF_PART2.zip (5.0 Mo)</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05400_DBF_PART3.zip">CCAM05400_DBF_PART3.zip (5.18 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-08-17T09:00:05.732500+00:00</updated>
+    <summary>Version 54 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature CCAM Version 53</title>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05300_DBF_PART1.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05300_DBF_PART2.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05300_DBF_PART3.zip" rel="related" type="application/zip"/>
+    <link href="https://www.twitter.com/SisInterop/status/1016607981679542272" rel="related" type="application/octet-stream"/>
+    <id>urn:ameli:ccam:v53</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>3 Fichiers à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05300_DBF_PART1.zip">CCAM05300_DBF_PART1.zip (5.09 Mo)</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05300_DBF_PART2.zip">CCAM05300_DBF_PART2.zip (4.9 Mo)</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05300_DBF_PART3.zip">CCAM05300_DBF_PART3.zip (5.15 Mo)</a>
+              </li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-07-10T09:00:05.030603+00:00</updated>
+    <summary>Version 53 disponible</summary>
+  </entry>
+  <entry>
+    <title>Nomenclature CCAM Version 52</title>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05200_DBF_PART1.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05200_DBF_PART2.zip" rel="related" type="application/zip"/>
+    <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05200_DBF_PART3.zip" rel="related" type="application/zip"/>
+    <link href="https://www.twitter.com/SisInterop/status/999288874487730176" rel="related" type="application/octet-stream"/>
+    <id>urn:ameli:ccam:v52</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <article>
+          <div>
+            <h1>3 Fichiers à télécharger : </h1>
+            <ul>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05200_DBF_PART1.zip">CCAM05200_DBF_PART1.zip (5.07 Mo)</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05200_DBF_PART2.zip">CCAM05200_DBF_PART2.zip (5.49 Mo)</a>
+              </li>
+              <li>
+                <a href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05200_DBF_PART3.zip">CCAM05200_DBF_PART3.zip (5.22 Mo)</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+    <h1>Informations sur la version 52</h1>
+    <p>Les informations relatives à la version sont consultables dans le document <a href="https://www.ameli.fr/fileadmin/user_upload/documents/Ccam_Note_V52.pdf">de notes sur le site ameli.</a></p>
+</div>
+        </article>
+      </div>
+    </content>
+    <updated>2018-05-23T14:00:08.102567+00:00</updated>
+    <summary>Version 52 disponible</summary>
+  </entry>
   <entry>
     <title>Nomenclature CCAM Version 51</title>
     <link href="https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05100_DBF_PART1.zip" rel="related" type="application/zip"/>
@@ -44,7 +333,7 @@
         </article>
       </div>
     </content>
-    <updated>2018-05-13T07:59:57.191096+00:00</updated>
+    <updated>2018-03-29T10:00:03.767032+00:00</updated>
     <summary>Version 51 disponible</summary>
   </entry>
   <entry>

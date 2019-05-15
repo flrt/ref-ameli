@@ -192,6 +192,7 @@ class WatchDog(versions.VersionDetector):
             if req.status_code == 200 and 'Content-Length' in req.headers:
                 _size = req.headers['Content-Length']
 
+                # parfois la requete aboutit code 200 mais le contenu indique 'The requested URL was rejected'
                 if int(_size) < 400:
                     req2=requests.get(url)
                     self.logger.debug(req2.text)
@@ -330,7 +331,8 @@ class LPPWatchDog(WatchDog):
         # VERSION actuelle : PB si nouvelle version pour la mise a jour des donnees dans le DICT
         # A voir infos / versions / maj
 
-        test_version = self.get_current_version() + 1
+        # versions LPP sont entieres
+        test_version = int(self.get_current_version()) + 1
         url_ = f'http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP{test_version}.zip'
 
         rcheck = requests.head(url_)
@@ -510,7 +512,8 @@ class NABMWatchDog(WatchDog):
         self.logger.info("Fetch data... Current version  > %d ", self.get_current_version())
         
         files = []
-        test_version = self.get_current_version() + 1
+        # versions NABM sont entieres
+        test_version = int(self.get_current_version()) + 1
         url_base = "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/"
         nabm_files = ["NABM_FICHE_TOT%03d.dbf" % test_version,
                       "NABM_HISTO_TOT%03d.dbf" % test_version,
@@ -526,17 +529,23 @@ class NABMWatchDog(WatchDog):
             files = list(map(lambda x: "{}{}".format(url_base, x), nabm_files))
                 # verification de la disponibilite des URL
             url_checked = self.check_urls(files)
-            # ajout du type de donnees
-            for u in url_checked['url_status']:
-                u['type']='data' 
 
-            return self.fill_infos(
-                version=str(test_version), 
-                files=files, 
-                files_props=url_checked['url_status'],
-                available=url_checked['available'])
-        else:
-            self.logger.warning("Documents NABM numero {} non disponible [{}]".format(test_version, rcheck.status_code))
-            return None
-      
+            # Dans le cas NABM, vu le nombre de bad request, on considere
+            # qu'un statut partiel mais non dispo ne genere pas de nouvelle version 
+
+            if url_checked['available']:
+                # ajout du type de donnees
+                for u in url_checked['url_status']:
+                    u['type']='data' 
+
+                return self.fill_infos(
+                    version=str(test_version), 
+                    files=files, 
+                    files_props=url_checked['url_status'],
+                    available=url_checked['available'])
+
+        # rien de neuf
+        self.logger.warning("Documents NABM numero {} non disponible [{}]".format(test_version, rcheck.status_code))
+        return None
+
 

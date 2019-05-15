@@ -2,6 +2,1098 @@
     "versions": [
         {
             "available": true,
+            "date": "2019-04-30T17:00:02.855040+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP532.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "399592",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP532.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1123270801107640320"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 532</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nRECTIF PRIX PPC \nPRIX AU 01/05/2019\nTIII Ch1\nTII Ch7 C WALK \nTII Ch7 RHEO \nTIII Ch2 COLLAPAT  \nTIII Ch1 RELAY PRO \nTIII Ch1 MISTENT\nTIII Ch1 STRATOS\nTIII  Ch4 HIRES ULTRA    \n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nRectification des prix erron\u00e9s au 01/01/2018 de sept codes PPC - Avis relatif \u00e0 la fixation de tarifs et de prix limites de vente au public (PLV) des dispositifs m\u00e9dicaux \u00e0 pression positive continue (PPC) pour traitement du syndrome d\u2019apn\u00e9es/hypopn\u00e9es obstructives du sommeil et prestations associ\u00e9es (JO du 16/12/2017-T 126)\n- Avis de fixation des prix de cession, des tarifs et des prix limites de vente au public en euros TTC des sets de pansements inscrits au titre I de la liste pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale (JO du 13/03/2019-T 67) - Avis relatif \u00e0 la tarification de certains implants orthop\u00e9diques (JO du 19/04/2019-T 117)\n- Arr\u00eat\u00e9 du 11 avril 2019 portant inscription du stent de micro-pontage trab\u00e9culaire iSTENT INJECT de la soci\u00e9t\u00e9 GLAUKOS France au titre III de la liste des produits et prestations remboursables (JO du 16/04/2019-T 15-T 95)\n- Arr\u00eat\u00e9 du 15 avril 2019 portant renouvellement et modification des conditions d\u2019inscription du pied \u00e0 restitution d\u2019\u00e9nergie C-WALK 1C40 de la soci\u00e9t\u00e9 OTTO BOCK inscrit au titre II de la liste des produits et prestations remboursables (JO du 17/04/2019-T 20-T 115)\n- Arr\u00eat\u00e9 du 15 avril 2019 portant inscription du genou monoaxial RHEO KNEE (3e g\u00e9n\u00e9ration) de la soci\u00e9t\u00e9 \u00d6SSUR au titre II de la liste des produits et prestations remboursables  (JO du 17/04/2019-T 21-T 116)\n- Arr\u00eat\u00e9 du 15 avril 2019 portant renouvellement d\u2019inscription des implants osseux COLLAPAT II de la soci\u00e9t\u00e9 SYMATESE inscrits au titre III de la liste des produits et prestations remboursables (JO du 19/04/2019-T 8-T 112)\n- Arr\u00eat\u00e9 du 16 avril 2019 portant inscription des endoproth\u00e8ses aortiques thoraciques RELAY PRO et RELAY NBS PRO de la soci\u00e9t\u00e9 VASCUTEK France au titre III de la liste des produits et prestations remboursables  (JO du 19/04/2019-T 10-T 113)\n- Arr\u00eat\u00e9 du 16 avril 2019 portant inscription de l\u2019endoproth\u00e8se coronaire \u00e0 \u00e9lution de sirolimus MISTENT SES de la soci\u00e9t\u00e9 STENTYS au titre III de la liste des produits et prestations remboursables (JO du 19/04/2019-T 12-T 114)\n- Arr\u00eat\u00e9 du 16 avril 2019 portant inscription des cotyles \u00e0 insert \u00e0 double mobilit\u00e9 STRATOS de la soci\u00e9t\u00e9 SCIENCE ET MEDECINE SAS au titre III de la liste des produits et prestations remboursables  (JO du 19/04/2019-T 14-T 115)\n- Arr\u00eat\u00e9 du 16 avril 2019 portant inscription de l\u2019implant cochl\u00e9aire HIRES ULTRA 3D avec \u00e9lectrodes HIFOCUS MIDSCALA et SLIM J de la soci\u00e9t\u00e9 ADVANCED BIONICS au titre III de la liste des produits et prestations remboursables  (JO du 19/04/2019-T 16-T 116)\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>19-04-2019</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v532",
+            "summary": "Version 532 disponible",
+            "title": "Nomenclature LPP Version 532",
+            "type": "LPP",
+            "url": null,
+            "version": "532"
+        },
+        {
+            "available": true,
+            "date": "2019-04-17T17:00:02.586902+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP531.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "387721",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP531.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1118559757739098112"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 531</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nTI Ch1 RECTIF \nDISPO GENERALES\nTI Ch1 FREESTYLE \n\u00a0\nTIII Ch1 BIOTRONIK \nTIII Ch1 WEB \nTIII Ch1 COTYLE DOUBLE \nTIII Ch1 YUKON \nRADIATIONS \nPRIX AU 15/04/2019 \nTIII Ch1 MPACT \nTII Ch4 BLUEPRO \nTIII Ch1 ELUNIR \nPRIX TRIDENT \nTI Ch1 ZNO-O LITE \n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nRectification des dispositions g\u00e9n\u00e9rales erron\u00e9es pour 11 codes \n- Arr\u00eat\u00e9 du 13 d\u00e9cembre 2017 modifiant la proc\u00e9dure d\u2019inscription et les conditions de prise en charge du dispositif m\u00e9dical \u00e0 pression positive continue pour traitement de l\u2019apn\u00e9e du sommeil -  JO du 16/12/2017-T 27\n- Arr\u00eat\u00e9 du 25 mars 2019 portant renouvellement d\u2019inscription des \u00e9lectrodes pour mesure de la c\u00e9ton\u00e9mie FREESTYLE OPTIUM beta-CETONE de la soci\u00e9t\u00e9 ABBOTT France - JO du 27/03/2019-T 9\n- Arr\u00eat\u00e9 du 27 mars 2019 portant inscription de l\u2019endoproth\u00e8se coronaire (stent) couvert de polyur\u00e9thane PK PAPYRUS de la soci\u00e9t\u00e9 Biotronik France - JO du 02/04/2019-T 10-T 134\n- Arr\u00eat\u00e9 du 27 mars 2019 portant inscription du syst\u00e8me d\u2019embolisation d\u2019an\u00e9vrismes intracr\u00e2niens WEB de la soci\u00e9t\u00e9 MICROVENTION EUROPE - JO du 02/04/2019-T 12-T 135\n- Arr\u00eat\u00e9 du 27 mars 2019 portant inscription des cotyles \u00e0 insert \u00e0 double mobilit\u00e9 COTYLE DOUBLE MOBILIT\u00c9 CIMENT\u00c9 et COTYLE DOUBLE MOBILIT\u00c9 HAC (sans ciment) de la soci\u00e9t\u00e9 CERAVER - les laboratoires Ost\u00e9al M\u00e9dical ,- JO du 02/04/2019-T 14-T 136\n- Arr\u00eat\u00e9 du 27 mars 2019 portant inscription et modification des conditions d\u2019inscription des endoproth\u00e8ses coronaires enrob\u00e9es de sirolimus YUKON CHROME PC et YUKON CHOICE PC de la soci\u00e9t\u00e9 TRANSLUMINA GmbH - JO du 02/04/2019-T 16-T 137\n- Arr\u00eat\u00e9 du 27 mars 2019 portant radiation de produits - JO du 02/04/2019-T 18  - T 20\n - Arr\u00eat\u00e9 du 2 avril 2019 portant radiation de produits  - JO du 06/04/2019-T 16\n- Avis relatif \u00e0 la tarification des kits compressifs multicouches 3M COBAN 2 et PROFORE  - JO du 02/04/2019-T 138\n - Avis relatif \u00e0 la tarification des kits compressifs multicouches URGO K2 et URGO K2 LATEX FREE - JO du 02/04/2019-T 139\n- Arr\u00eat\u00e9 du 27 mars 2019 portant inscription de cotyles \u00e0 insert \u00e0 double mobilit\u00e9 MPACT DM, VERSACEM, VERSAFITCUP DM de la soci\u00e9t\u00e9 MEDACTA France - JO du 04/04/2019-T 11-T 148\n- Arr\u00eat\u00e9 du 2 avril 2019 portant inscription de l\u2019orth\u00e8se d\u2019avanc\u00e9e mandibulaire provisoire BLUEPRO de la st\u00e9 BLUESOM \n- JO 04/04/2019-T 14-T150\n- Arr\u00eat\u00e9 du 2 avril 2019 portant inscription de l\u2019endoproth\u00e8se coronaire enrob\u00e9e de ridaforolimus ELUNIR de la soci\u00e9t\u00e9 CARDINAL HEALTH France - JO du 04/04/2019-T 15-T 151\nAvis relatif \u00e0 la tarification des implants orthop\u00e9diques pour proth\u00e8se de hanche TRIDENT X3 - JO du 04/04/2019-T 149\n- Arr\u00eat\u00e9 du 2 avril 2019 portant inscription du concentrateur mobile d\u2019oxyg\u00e8ne ZEN-O LITE RS-00608-G de la soci\u00e9t\u00e9 GAS CONTROL EQUIPMENT (GCE) - JO du 05/04/2019-T 12-T 96\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>05-04-2019</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v531",
+            "summary": "Version 531 disponible",
+            "title": "Nomenclature LPP Version 531",
+            "type": "LPP",
+            "url": null,
+            "version": "531"
+        },
+        {
+            "available": true,
+            "date": "2019-04-11T14:00:02.316047+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP530.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "397818",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP530.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1116340130917302273"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 530</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nRECTIF TIRE LAIT\nTII Ch4 AMOENA\nTIII Ch1 LVIS\nTI Ch1 PULMOSONIC\nTIII Ch4 SMARTVIEW\n \nPRIX AU 01/04/2019\n \nTI Ch1 INOGEN\n \nTI Ch1 INOGEN ONE\n \nTIII Ch1 SATURNE\n \nTIII Ch3 DIZG \n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nRectification du code prestation erron\u00e9 pour les codes 1161248, 1129440 et 1128044 - Arr\u00eat\u00e9 du 11 mars 2019 portant modification des modalit\u00e9s de prise en charge des tire-laits inscrits au titre Ier de la liste pr\u00e9vue \u00e0 l\u2019article L. 165-1 (LPP) du code de la s\u00e9curit\u00e9 sociale (JO du 12/03/2019-T 11)\nArr\u00eat\u00e9 du 25 mars 2019 portant modification des conditions d\u2019inscription de la proth\u00e8se mammaire externe AMOENA de la soci\u00e9t\u00e9 AMOENA France inscrite au titre II de la liste des produits et prestations remboursables pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale (JO du 27/03/2019-T 10)\nArr\u00eat\u00e9 du 25 mars 2019 portant modification des conditions d\u2019inscription du stent intracr\u00e2nien auto-expansible LVIS de la soci\u00e9t\u00e9 MICROVENTION inscrit au titre III de la liste des produits et prestations remboursables pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale (JO du 27/03/2019-T 11)\nArr\u00eat\u00e9 du 25 mars 2019 portant changement de distributeur pour les dispositifs NEB 99, PULMOSONIC 5500 F et IFILL de la soci\u00e9t\u00e9 DEVILBISS HEALTHCARE France vers la soci\u00e9t\u00e9 DRIVE DEVILBISS HEALTHCARE France inscrits au titre I de la liste des produits et prestations remboursables pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale (JO du 27/03/2019-T 12-T 143)Arr\u00eat\u00e9 du 25 mars 2019 portant changement de distributeur pour les syst\u00e8mes de t\u00e9l\u00e9surveillance pour DCI simple, double et triple chambre SMARTVIEW et du stimulateur cardiaque triple chambre REPLY CRT-P de la soci\u00e9t\u00e9 LIVANOVA France inscrits au titre III de la liste des produits et prestations remboursables pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale (JO du 27/03/2019-T 13-T 144-T 145)\nAvis relatif \u00e0 la tarification de l\u2019\u00e9lectrode pour mesure de la c\u00e9ton\u00e9mie FREESTYLE OPTIUM beta-CETONE vis\u00e9e \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale (JO du 27/03/2019-T 141) - Avis relatif \u00e0 la tarification des proth\u00e8ses mammaires externes AMOENA vis\u00e9es \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale (JO du 27/03/2019-T 142)\nArr\u00eat\u00e9 du 25 mars 2019 portant modification des conditions d\u2019inscription du concentrateur d\u2019oxyg\u00e8ne mobile INOGEN ONE G2 de la soci\u00e9t\u00e9 INOGEN, de ses prestations associ\u00e9es et de ses forfaits associ\u00e9s du respiratoire, inscrit au titre I de la liste des produits et prestations remboursables pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale (JO du 238/03/2019-T 11)\nArr\u00eat\u00e9 du 25 mars 2019 portant modification des conditions d\u2019inscription du concentrateur d\u2019oxyg\u00e8ne mobile INOGEN ONE G3 de la soci\u00e9t\u00e9 INOGEN, de ses prestations associ\u00e9es et de ses forfaits associ\u00e9s du respiratoire, inscrit au titre I de la liste des produits et prestations remboursables pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale (JO du 28/03/2019-T 12)\nArr\u00eat\u00e9 du 25 mars 2019 portant modification des conditions d\u2019inscription des cotyles \u00e0 insert \u00e0 double mobilit\u00e9 SATURNE de la soci\u00e9t\u00e9 AMPLITUDE SAS inscrits au titre III de la liste des produits et prestations remboursables pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale (JO du 28/03/2019-T 14-T 131)\nArr\u00eat\u00e9 du 27 mars 2019 portant inscription des allogreffes osseuses viro-inactiv\u00e9es par proc\u00e9d\u00e9 DIZG de la soci\u00e9t\u00e9 NOVOMEDICS France au titre III de la liste des produits et prestations remboursables pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale (JO du 31/03/2019-T 8-T 80)\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>31-03-2019</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v530",
+            "summary": "Version 530 disponible",
+            "title": "Nomenclature LPP Version 530",
+            "type": "LPP",
+            "url": null,
+            "version": "530"
+        },
+        {
+            "available": true,
+            "date": "2019-03-28T18:00:02.962948+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP529.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "394520",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP529.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1111327101532209152"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 529</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nTI Ch2\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nArr\u00eat\u00e9 du 18 mars 2019 portant modification des modalit\u00e9s de prise en charge des proth\u00e8ses capillaires et accessoires - JO du 20/03/2019-T 4-T 5-T 127\n Arr\u00eat\u00e9 du 20 mars 2019 modifiant l\u2019arr\u00eat\u00e9 du 18 mars 2019 portant modification des modalit\u00e9s de prise en charge des proth\u00e8ses capillaires et accessoires - JO du 26/03/2019-T 4\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>26-03-2019</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v529",
+            "summary": "Version 529 disponible",
+            "title": "Nomenclature LPP Version 529",
+            "type": "LPP",
+            "url": null,
+            "version": "529"
+        },
+        {
+            "available": true,
+            "date": "2019-03-22T15:00:02.602214+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP528.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "399232",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP528.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1109107474311856130"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 528</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nPRIX AU 01/04/2019 \nTI Ch1 TIRE LAIT \nTIV Ch2 VERMEIREN \n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nAvis relatif \u00e0 la tarification de EMBLEM S-ICD et EMBLEM MRI S-ICD - JO du 08/03/2018-T 129 \nAvis relatif aux tarifs et aux prix limites de vente au public en euros TTC des implants d\u2019embolisation art\u00e9rielle - JO du 06/02/2019-T 85\nAvis relatif \u00e0 la tarification des aiguilles pour autotraitement - JO du 22/02/2019-T 103 \nArr\u00eat\u00e9 du 11 mars 2019 portant modification des modalit\u00e9s de prise en charge des tire-laits - JO du 12/03/209-T 11-T 12-T 84\nArr\u00eat\u00e9 du 11 mars 2019 portant inscription du scooter \u00e9lectrique modulaire ERIS du laboratoire VERMEIREN - JO du 14/03/2019-T 9-T 108\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>14-03-2019</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v528",
+            "summary": "Version 528 disponible",
+            "title": "Nomenclature LPP Version 528",
+            "type": "LPP",
+            "url": null,
+            "version": "528"
+        },
+        {
+            "available": true,
+            "date": "2019-03-20T15:00:11.405589+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP527.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "397999",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP527.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1108382735507353601"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 527</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nTIII Ch4\nTIII Ch1\nTI Ch1 \n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nArr\u00eat\u00e9 du 1er mars 2019 portant modification des conditions d\u2019inscription des microsph\u00e8res d\u2019Yttrium-90 SIR-SPHERES -JO du 07/03/2019-T 19-T 157\nArr\u00eat\u00e9 du 1er mars 2019 portant renouvellement d\u2019inscription de l\u2019endoproth\u00e8se p\u00e9riph\u00e9rique \u00e0 lib\u00e9ration de principe actif (paclitaxel) ELUVIA-JO du 07/03/2019-T 20-T 158\n Arr\u00eat\u00e9 du 1er mars 2019 portant renouvellement d\u2019inscription du ligament artificiel pour le genou LARS -JO du 07/03/2019-T 21\n Arr\u00eat\u00e9 du 1er mars 2019 portant changement de distributeur pour les solutions st\u00e9riles pour traitement symptomatique de la s\u00e9cheresse oculaire THEALOSE et THEALOSE UD -JO du 07/03/2019-T 22-T 159\n Arr\u00eat\u00e9 du 21 f\u00e9vrier 2019 portant inscription du stimulateur cardiaque implantable simple chambre implant\u00e9 par voie transcatheter MICRA -JO du 09/03/2019-T 9\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>09-03-2019</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v527",
+            "summary": "Version 527 disponible",
+            "title": "Nomenclature LPP Version 527",
+            "type": "LPP",
+            "url": null,
+            "version": "527"
+        },
+        {
+            "available": true,
+            "date": "2019-03-05T18:00:07.908840+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP526.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "397584",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP526.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1102992201271906308"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 526</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nTIII Ch4 MICRA\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nArr\u00eat\u00e9 du 21 f\u00e9vrier 2019 portant inscription du stimulateur cardiaque implantable simple chambre implant\u00e9 par voie transcatheter MICRA de la soci\u00e9t\u00e9 MEDTRONIC France SAS au titre III de la liste des produits et prestations remboursables pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale (JO du 28/02/2019-T 20-T 135)\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>28-02-2019</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v526",
+            "summary": "Version 526 disponible",
+            "title": "Nomenclature LPP Version 526",
+            "type": "LPP",
+            "url": null,
+            "version": "526"
+        },
+        {
+            "available": true,
+            "date": "2019-02-28T15:00:13.093313+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP525.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "398245",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP525.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1101134985241812992"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 525</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nTIII Ch1 GLACE \nTI Ch1 SORTEZ\nTIII Ch3 PHOENIX\nTIII Ch1 DURASUL\nPRIX AU 01/03/2019\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nArr\u00eat\u00e9 du 14 f\u00e9vrier 2019 portant inscription de l\u2019implant cranio-faciale sur mesure GLACE de la soci\u00e9t\u00e9 DISPOMED - JO du 19/02/2019-T16-T 69\n Arr\u00eat\u00e9 du 14 f\u00e9vrier 2019 portant inscription du pr\u00e9servatif masculin lubrifi\u00e9 SORTEZ COUVERTS ! du laboratoire POLIDIS - JO du 196/02/2019-T 17-T 70 \n Arr\u00eat\u00e9 du 18 f\u00e9vrier 2019 portant modification des conditions d\u2019inscription des allogreffes osseuses viro-inactiv\u00e9es par proc\u00e9d\u00e9 PHOENIX de la soci\u00e9t\u00e9 TBF G\u00e9nie Tissulaire - JO du 20/02/2019-T 13\n Arr\u00eat\u00e9 du 18 f\u00e9vrier 2019 portant renouvellement et modification des conditions d\u2019inscription du cotyle monobloc DURASUL et de l\u2019insert DURASUL de la soci\u00e9t\u00e9 ZIMMER France - JO du 22/02/2019-T 4\nAvis relatif \u00e0 la tarification de certains dispositifs m\u00e9dicaux pour autosurveillance de la glyc\u00e9mie - JO du 22/02/2019-T 104\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>22-02-2019</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v525",
+            "summary": "Version 525 disponible",
+            "title": "Nomenclature LPP Version 525",
+            "type": "LPP",
+            "url": null,
+            "version": "525"
+        },
+        {
+            "available": true,
+            "date": "2019-02-21T15:00:02.693549+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP524.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "397230",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP524.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1098598226612101121"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 524</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nRECTIF HISTO 1117201 \nTV Ch1 EMBOTRAP \nTIII Ch4 SYNCHROMED II \n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nArr\u00eat\u00e9 du 19 juin 2018 portant changement de d\u00e9nomination et de distributeur de la pompe \u00e0 insuline externe sans tubulure ext\u00e9rieure MYLIFE OMNIPOD de la soci\u00e9t\u00e9 YPSOMED SAS -  JO du 21/06/2018-T 19\nArr\u00eat\u00e9 du 8 f\u00e9vrier 2019 portant inscription du dispositif de revascularisation de type stent retriever EMBOTRAP II de la soci\u00e9t\u00e9 JOHNSON  et  JOHNSON MEDICAL - JO du 12/02/2019-T 10-T 150\nArr\u00eat\u00e9 du 8 f\u00e9vrier 2019 portant modification des conditions d\u2019inscription du cath\u00e9ter pour pompe implantable programmable SYNCHROMED II de la soci\u00e9t\u00e9 MEDTRONIC France SAS - JO du 14/02/209-T 8\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>14-02-2019</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v524",
+            "summary": "Version 524 disponible",
+            "title": "Nomenclature LPP Version 524",
+            "type": "LPP",
+            "url": null,
+            "version": "524"
+        },
+        {
+            "available": true,
+            "date": "2019-02-07T19:00:02.254717+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP523.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "395887",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP523.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1093585192571281408"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 523</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nTIII  Ch4 SPECTRA\nTII Ch7 SYST\u00c8ME HARMONY\nTIII Ch1 AVANTAGE 3P\nTI Ch2 SENTRY\nRADIATIONS\nPRIX AU 01/02/2019\nTIII Ch1 TREGOR\nTIII Ch1 TMJ\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nArr\u00eat\u00e9 du 24 janvier 2019 portant inscription du syst\u00e8me rechargeable pour stimulation m\u00e9dullaire SPECTRA WAVEWRITER  pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale - JO du 29/01/2019-T 9-T 91\nArr\u00eat\u00e9 du 24 janvier 2019 portant renouvellement d\u2019inscription, modification des conditions d\u2019inscription et codification du syst\u00e8me \u00e0 d\u00e9pressurisation contr\u00f4l\u00e9 SYSTEME HARMONY pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale - JO du 29/01/2019-T 11 \n D\u00e9cision du 9 janvier 2019 fixant le tarif de responsabilit\u00e9, le prix limite de vente au public (PLV) en euros TTC et le prix de cession du syst\u00e8me \u00e0 d\u00e9pressurisation contr\u00f4l\u00e9 HARMONY vis\u00e9e \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale - JO du 15/01/2019-T 8\nArr\u00eat\u00e9 du 24 janvier 2019 portant modification des conditions d\u2019inscription des cotyles \u00e0 insert \u00e0 double mobilit\u00e9 AVANTAGE 3P pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale - JO du 29/01/2019-T 12-T 92\nArr\u00eat\u00e9 du 24 janvier 2019 portant changement de d\u00e9nomination commerciale et renouvellement d\u2019inscription du matelas \u00e0 air motoris\u00e9 SENTRY 1200 V2 pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale - JO du 29/01/2019-T 13\nArr\u00eat\u00e9 du 24 janvier 2019 portant radiation de produits au titre I de la liste des produits et prestations remboursables pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale - JO du 29/01/2019-T 14\nD\u00e9cision du 23 janvier 2019 fixant le tarif de responsabilit\u00e9 et le prix limite de vente au public (PLV) en euros TTC des endoproth\u00e8ses aortiques abdominales POWERLINK vis\u00e9e \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale - JO du 29/01/2019-T 16\nArr\u00eat\u00e9 du 28 janvier 2019 portant inscription de la cupule TREGOR MEDIAL CUP pour cotyle \u00e0 double mobilit\u00e9 pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale - JO du 31/01/2019-T 25-T 140\n Arr\u00eat\u00e9 du 29 janvier 2019 portant inscription de la cupule pour cotyle \u00e0 double mobilit\u00e9 non ciment\u00e9e TREGOR PLUS pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale - JO du 31/01/2019-T 29-T 141\n Arr\u00eat\u00e9 du 29 janvier 2019 portant changement de distributeur et renouvellement d\u2019inscription de la proth\u00e8se totale de l\u2019articulation temporo-mandibulaire TMJ pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale - JO du 31/01/2019-T 31-T 142\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>31-01-2019</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v523",
+            "summary": "Version 523 disponible",
+            "title": "Nomenclature LPP Version 523",
+            "type": "LPP",
+            "url": null,
+            "version": "523"
+        },
+        {
+            "available": true,
+            "date": "2019-02-04T18:00:02.197957+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP522.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "386754",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP522.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1092482929303932928"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 522</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nRECTIF PRIX 1129888 \nAU 01/01/2019\u00a0\nTII Ch1 PODIABETES \nTI Ch3 BIFLEX \nTV Ch2 COMET\nTIII Ch1 PROMUS  \nTIII Ch1 ULTIMASTER \nTI Ch1 HYLORIS\nTI Ch1 NEOVIS  \n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nAvis relatif \u00e0 la fixation de tarifs et de prix limites de vente au public (PLV) des dispositifs m\u00e9dicaux \u00e0 pression positive continue (PPC) pour traitement du syndrome d\u2019apn\u00e9es/hypopn\u00e9es obstructives du sommeil et prestations associ\u00e9es\nJO du 16/12/2017-T 126\nArr\u00eat\u00e9 du 16 janvier 2019 portant renouvellement d\u2019inscription des chaussures th\u00e9rapeutiques de s\u00e9rie \u00e0 usage prolong\u00e9 PODIABETES CORTINA et PODIABETES COURMAYEUR de la soci\u00e9t\u00e9 NEUT\nJO du 22/01/2019-T 7-T 78\nArr\u00eat\u00e9 du 16 janvier 2019 portant inscription du kit de compression veineuse BIFLEX de la soci\u00e9t\u00e9 THUASNE \nJO du 22/01/2019-T 8-T 79\nArr\u00eat\u00e9 du 16 janvier 2019 portant inscription des guides de mesure de la fraction du flux de r\u00e9serve coronarien COMET de la soci\u00e9t\u00e9 BOSTON SCIENTIFIC, VERRATA et VERRATA PLUS de la soci\u00e9t\u00e9 PHILIPPS-VOLCANO, PRESSUREWIRE de la soci\u00e9t\u00e9 ABBOTT MEDICAL France\nJO du 22/01/2019-T 9-T 80-T 81-T 82\nArr\u00eat\u00e9 du 16 janvier 2019 portant inscription des endoproth\u00e8ses PROMUS ELITE et modification des conditions d\u2019inscription des endoproth\u00e8ses PROMUS PREMIER et SYNERGY de la soci\u00e9t\u00e9 BOSTON SCIENTIFIC SAS \nJO du 23/01/2019-T9-T 154\nArr\u00eat\u00e9 du 16 janvier 2019 portant inscription de l\u2019endoproth\u00e8se coronaire \u00e0 \u00e9lution de sirolimus ULTIMASTER TANSEI des Laboratoires TERUMO France  JO du 23/01/2019-T 12-T 155\nArr\u00eat\u00e9 du 23 janvier 2019 portant inscription de l\u2019\u00e9mulsion pour usage ophtalmique HYLOVIS LIPO MULTI et HYLOVIS LIPO de la soci\u00e9t\u00e9 TRB CHEMEDICA \nJO du 25/01/2019-T7-T 96  -  T 8-T 97\nArr\u00eat\u00e9 du 23 janvier 2019 portant inscription de l\u2019\u00e9mulsion pour usage ophtalmique NEOVIS TOTAL et NEOVIS TOTAL MULTI  de la soci\u00e9t\u00e9 HORUS PHARMA \nJO du 25/01/2019-T 9-T 98  -  T10-T 99\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>25-01-2019</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v522",
+            "summary": "Version 522 disponible",
+            "title": "Nomenclature LPP Version 522",
+            "type": "LPP",
+            "url": null,
+            "version": "522"
+        },
+        {
+            "available": true,
+            "date": "2019-01-24T15:00:02.234204+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP521.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "395337",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP521.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1088451364424806402"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 521</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nPRIX AU 01/02/2019 \nTII Ch3 AIDES AUDITIVES\nTI Ch1 TADIMDILUANT\nTIII Ch4 DACM\nTI Ch2 ALOVA\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nAvis relatif aux tarifs et aux prix limites de vente au public en euros TTC des stimulateurs cardiaques vis\u00e9s \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale JO du 15/01/2019-T 69\nAvis relatif aux tarifs et aux prix limites de vente au public en euros TTC des stimulateurs cardiaques vis\u00e9s \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale JO du 15/01/2019-T 70\nArr\u00eat\u00e9 du 16 janvier 2019 portant modification de r\u00e9f\u00e9rences du DACM HEARTWARE de la soci\u00e9t\u00e9 MEDTRONIC au titre III de la liste des produits et prestations remboursables pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale JO du 18/01/2019-T 87\nAvis relatif \u00e0 la tarification des endoproth\u00e8ses aortiques abdominales vis\u00e9es \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale JO du 18/01/2019-T 88\nLettre du minist\u00e8re des solidarit\u00e9s et de la sant\u00e9 du 08/01/2019 concernant les modalit\u00e9s de facturation de la t\u00e9l\u00e9transmission des prestations de suivi r\u00e9alis\u00e9es par l\u2019audioproth\u00e9siste\nArr\u00eat\u00e9 du 9 janvier 2019 portant inscription de la solution saline isotonique NaCl 0,9 % (3 ml) st\u00e9rile TADIMDILUANT du laboratoire Zambon France au titre I de la liste des produits et prestations remboursables pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale JO du 16/01/2019-T 10-T 98\nArr\u00eat\u00e9 du 16 janvier 2019 portant modification de r\u00e9f\u00e9rences du DACM HEARTWARE de la soci\u00e9t\u00e9 MEDTRONIC au titre III de la liste des produits et prestations remboursables pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale JO du 18/01/2019-T 16\nArr\u00eat\u00e9 du 16 janvier 2019 portant modifications des conditions d\u2019inscription du matelas en mousse visco\u00e9lastique ALOVA de la soci\u00e9t\u00e9 ASKL\u00c9 SANT\u00c9 inscrit au titre I de la liste des produits et prestations remboursables pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale JO du 18/01/2018-T 17\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>18/01/2019</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v521",
+            "summary": "Version 521 disponible",
+            "title": "Nomenclature LPP Version 521",
+            "type": "LPP",
+            "url": null,
+            "version": "521"
+        },
+        {
+            "available": true,
+            "date": "2019-01-17T18:00:02.522834+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP520.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "382302",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP520.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1085959949006589958"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 520</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nRECTIFICATIF PRIX \nRADIATIONS \nTII Ch7 GERY \nTIII Ch1 PROFEMUR \n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nAvis relatif \u00e0 la tarification des solutions ophtalmiques - JO du 12/09/2017-T 89\nArr\u00eat\u00e9 du 17 octobre 2017 portant modification des modalit\u00e9s de prise en charge des \u00ab si\u00e8ges coquilles de s\u00e9rie \u00bb - JO du 24/10/2017-T 7\n Arr\u00eat\u00e9 du 8 janvier 2019 portant radiation de produits au titre III de la liste des produits et prestations remboursables - JO du 11/01/2019-T 13\n  Arr\u00eat\u00e9 du 8 janvier 2019 portant radiation de produits au titre III de la liste des produits et prestations remboursables - JO du 11/01/2019-T 14\nArr\u00eat\u00e9 du 4 janvier 2019 portant renouvellement et modification des conditions d\u2019inscription du pied proth\u00e9tique GERY de la soci\u00e9t\u00e9 PROTEOR - JO du 08/01/19-T 10-T 28\nArr\u00eat\u00e9 du 8 janvier 2019 portant inscription des tiges \u00e0 col modulaire PROFEMUR L, PROFEMUR GLADIATOR et PROFEMUR GLADIATOR HA de la soci\u00e9t\u00e9 MICROPORT SCIENTIFIC SAS - JO du 11/01/2019-T 12-T 101\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>11/01/2019</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v520",
+            "summary": "Version 520 disponible",
+            "title": "Nomenclature LPP Version 520",
+            "type": "LPP",
+            "url": null,
+            "version": "520"
+        },
+        {
+            "available": true,
+            "date": "2018-12-28T18:00:02.489862+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP519.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "391940",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP519.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1078712192147558400"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 519</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\n\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nArr\u00eat\u00e9 du 18 d\u00e9cembre 2018 (JO du 21/12/2018-T 36-T 229)\nArr\u00eat\u00e9 du 18 d\u00e9cembre 2018 (JO du 21/12/2018-T 39-T 230)\nArr\u00eat\u00e9 du 19 d\u00e9cembre 2018 (JO du 21/12/2018-T 40-T 232)\nArr\u00eat\u00e9 du 20 d\u00e9cembre 2018  (JO du 2112/2018-T 47-T 233)\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>21-12-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v519",
+            "summary": "Version 519 disponible",
+            "title": "Nomenclature LPP Version 519",
+            "type": "LPP",
+            "url": null,
+            "version": "519"
+        },
+        {
+            "available": true,
+            "date": "2018-12-20T18:00:02.459018+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP518.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "395589",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP518.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1075813088509771776"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 518</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nPRIX 3103410 \nHOT AXIOS \nTII Ch7 ODRA\nTIII Ch4 ARTISAN\nTII Ch7 RUSH \n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nAvis relatif \u00e0 la tarification des implants d\u2019embolisation ONYX, PIPELINE et PIPELINE FLEX vis\u00e9es \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale (JO du 16/10/2018-T 66)\nArr\u00eat\u00e9 du 17 d\u00e9cembre 2018 portant modification des conditions d\u2019inscription de l\u2019implant d\u2019apposition biliopancr\u00e9atique luminal HOT AXIOS de la soci\u00e9t\u00e9 BOSTON SCIENTIFIC inscrit au titre III de la liste des produits et prestations remboursables pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale (JO du 19/12/2018-T 6)\n Arr\u00eat\u00e9 du 17 d\u00e9cembre 2018 portant renouvellement d\u2019inscription de l\u2019orth\u00e8se ODRA de la soci\u00e9t\u00e9 PROTEOR inscrite au titre II de la liste des produits et prestations remboursables pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale (JO du 19/12/2018-T 7-T 148)\n Arr\u00eat\u00e9 du 17 d\u00e9cembre 2018 portant modification des conditions d\u2019inscription de l\u2019\u00e9lectrode d\u00e9cahexapolaire ARTISAN pour syst\u00e8mes implantables de stimulation m\u00e9dullaire PRECISION SPECTRA, PRECISION NOVI et PRECISION MONTAGE MRI de la soci\u00e9t\u00e9 BOSTON SCIENTIFIC inscrite au titre III de la liste des produits et prestations remboursables pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale (JO du 19/12/2018-T 8)\n Arr\u00eat\u00e9 du 17 d\u00e9cembre 2018 portant changement de distributeur pour les pieds \u00e0 restitution d\u2019\u00e9nergie RUSH HIPRO et RUSH LOPRO de la soci\u00e9t\u00e9 ORTHO EUROPE SARL inscrits au titre II de la liste des produits et prestations remboursables pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale (JO du 20/12/2018-T 37)\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>20-12-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v518",
+            "summary": "Version 518 disponible",
+            "title": "Nomenclature LPP Version 518",
+            "type": "LPP",
+            "url": null,
+            "version": "518"
+        },
+        {
+            "available": true,
+            "date": "2018-12-12T18:00:03.072098+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP517.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "391992",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP517.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1072913988160290817"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 517</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nPRIX 3212352\nRECTIF AUTOCONTROLE\n \nPRIX 3103410\n \n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nAvis relatif \u00e0 la tarification de la bioproth\u00e8se valvulaire OPEN PIVOT - (JO du 25/09/2018-T 125)\nAvis relatif \u00e0 la tarification du syst\u00e8me flash d\u2019auto-surveillance du glucose FREESTYLE LIBRE  - (JO du 31/10/2018- T 145) \nAvis relatif \u00e0 la tarification des implants d\u2019embolisation ONYX, PIPELINE et PIPELINE FLEX - (JO du 16/10/2018-T 66)\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>28-11-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v517",
+            "summary": "Version 517 disponible",
+            "title": "Nomenclature LPP Version 517",
+            "type": "LPP",
+            "url": null,
+            "version": "517"
+        },
+        {
+            "available": true,
+            "date": "2018-12-06T15:00:03.153206+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP516.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "394442",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP516.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1070694362819018753"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 516</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nPRIX 3197730\nTII Ch3 AUDITION \nPRIX AU 01/01/2019 \nTI Ch1 EDEN\n RADIATIONS \n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nAvis relatif \u00e0 la tarification des stents actifs - (JO du 27/05/2018-T 72)\nArr\u00eat\u00e9 du 14 novembre 2018 portant modification des modalit\u00e9s de prise en charge des aides auditives et prestations associ\u00e9es (JO du 16/11/2018-T 7- JO du 28/11/2018-T 126)\nAvis relatif \u00e0 la tarification des solutions ophtalmiques-  (JO du 20/11/2018-T 104) \nD\u00e9cision du 21 novembre 2018 fixant le tarif de responsabilit\u00e9 et le prix limite de vente au public en euros TTC du syst\u00e8me d\u2019autosurveillance de la glyc\u00e9mie -(JO du 28/11/2018-T 15) \nAvis relatif \u00e0 la tarification du syst\u00e8me d\u2019autosurveillance de la glyc\u00e9mie - (JO du28/11/2018-T 123) \nAvis relatif \u00e0 la tarification du dispositif d\u2019assistance circulatoire m\u00e9canique HEARTWARE - (JO du 30/11/2018-T 168)\nArr\u00eat\u00e9 du 21 novembre 2018 portant inscription du pr\u00e9servatif masculin lubrifi\u00e9 EDEN - (JO du 27/11/2018-T 2-T 133)\nArr\u00eat\u00e9 du 22 novembre 2018 portant radiation de l\u2019obturateur MONOSTOP-PORCIN - (JO du 27/11/2018-T 4) \nArr\u00eat\u00e9 du 22 novembre 2018 portant radiation de l\u2019obturateur GELATINE-BOVIN - (JO du 27/11/2018-T 6) \nArr\u00eat\u00e9 du 22 novembre 2018 portant radiation de produits au titre III de la liste des produits et prestations remboursables - (JO du 28/11/2018-T 10) \nArr\u00eat\u00e9 du 22 novembre 2018 portant radiation de produits au titre III de la liste des produits et prestations remboursables - (JO du 28/11/2018-T 12)\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>28-11-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v516",
+            "summary": "Version 516 disponible",
+            "title": "Nomenclature LPP Version 516",
+            "type": "LPP",
+            "url": null,
+            "version": "516"
+        },
+        {
+            "available": true,
+            "date": "2018-12-03T18:00:02.913844+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP515.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "393405",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP515.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1069652496677826562"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 515</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\n\u00ab\u00a0PRIX AU 01/01/2019\u00a0\u00bb\n TIII Ch4 INFINITY\nTI Ch1 SYSTANE\nTIII Ch1 CONFORMABLE\nTIII Ch4 MEDTRONIC\nTIII Ch1 MITRACLIP\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nAvis relatif \u00e0 la fixation des prix de cession, des tarifs et des prix limites de vente au public en euros TTC des pansements anatomiques- (JO du 14/07/2016-T 111)\nAvis modifiant l\u2019avis relatif \u00e0 la fixation des prix de cession, des tarifs et des prix limites de vente au public en euros TTC des pansements anatomiques (JO du 26/07/2016-T 75)\n Avis relatif \u00e0 la tarification de VIATORR TIPS - (JO du 13/10/2017-T 194)\nAvis relatif \u00e0 la fixation de tarifs et de prix limites de vente au public (PLV) des dispositifs m\u00e9dicaux \u00e0 pression positive continue (PPC) pour traitement du syndrome d\u2019apn\u00e9es/hypopn\u00e9es obstructives du sommeil et prestations associ\u00e9es\n (JO du 16/12/2017-T 126) \nmodifi\u00e9 par l\u2019avis relatif \u00e0 la tarification des prestations d\u2019oxyg\u00e9noth\u00e9rapie et ses forfaits associ\u00e9s (JO du 01/06/2018-T 116) \net par l\u2019avis relatif \u00e0 la tarification de prestations d\u2019oxyg\u00e9noth\u00e9rapie et ses forfaits associ\u00e9s (JO du 19/07/2018-T 90) \nAvis rectifiant l\u2019avis relatif \u00e0 la fixation des prix de cession, des tarifs et des prix limites de vente au public en euros TTC des pansements anatomiques - (JO du 04/05/2018-T 92)\nAvis relatif \u00e0 la tarification du concentrateur d\u2019oxyg\u00e8ne mobile INOGEN ONE G4- (JO du 01/06/2018-T 118)\n Avis relatif \u00e0 la tarification des pansements anatomiques de la gamme ACTISORB (JO du 25/07/2018-T 138)\nAvis relatif \u00e0 la tarif des implants d\u2019embolisation ONYX, PIPELINE et PIPELINE FLEX  (JO du 16/10/2018-T 66)\nAvis relatif \u00e0 la tarif des endoproth\u00e8ses pour embolisation SURPASS et SURPASS STREAMLINE (JO du 16/10/2018-T 67)\n Avis relatif \u00e0 la tarif des implants d\u2019embolisation art\u00e9rielle EMBOGOLD et EMBOSPHERE (JO du 17/10/2018-T 102) \nAvis relatif \u00e0 la tarif du syst\u00e8me flash d\u2019auto-surveillance du glucose FREESTYLE LIBRE (JO du 31/10/2018-T 145)\nAvis modifiant l\u2019avis relatif \u00e0 la tarif syst\u00e8me flash d\u2019autosurveill, glucose FREESTYLE LIBR  (JO du 06/11/2018-T104)\nAvis relatif \u00e0 la tarif des dispositifs d\u2019assistance circulatoire m\u00e9canique (DACM) JARVIK 2000 (JO du 14/11/2018-T 125)\nAvis relatif \u00e0 la tarif dispositifs d\u2019assistance circulatoire m\u00e9canique (DACM) THORATEC PVAD, HEARTMATE II V2 et HEARTMATE III (JO du 14/11/2018-T 126)\nArr\u00eat\u00e9 du 15 nov 2018 portant modif des conditions d\u2019inscription du syst\u00e8me de stimulation c\u00e9r\u00e9brale profonde INFINITY de  ABBOTT MEDICAL France inscrit au titre III de la liste des produits prestations rembour-JO du 20/11/2018-T9\nArr\u00eat\u00e9 du 15 novembre 2018 portant changement de distributeur des produits SYSTANE ULTRA, SYSTANE ULTRA UD  SYSTANE BALANCE - NOVARTIS PHARMA inscrit au titre I de la liste produits et prestations rembours (JO du 20/11/2018-T 10)\nArr\u00eat\u00e9 du 19 novembre 2018 portant modification des conditions d\u2019inscription des endoproth\u00e8ses aortiques thoraciques CONFORMABLE TAG de la soci\u00e9t\u00e9 WL GORE  et  Associ\u00e9s inscrites au titre III de la liste des produits et prestations remboursables  (JO du 22/11/2018-T 12)\nArr\u00eat\u00e9 du 19 novembre 2018 portant renouvellement d\u2019inscription et modification des conditions d\u2019inscription des syst\u00e8mes de neurostimulation m\u00e9dullaire implantables de la soci\u00e9t\u00e9 MEDTRONIC France SAS inscrits au titre III de la liste des produits et prestations  (JO du 22/11/2018-T 13)\n Arr\u00eat\u00e9 du 20 novembre 2018 portant inscription des syst\u00e8mes de clip percutan\u00e9 pour valve mitrale MITRACLIP NTR et MITRACLIP XTR de la soci\u00e9t\u00e9 ABBOTT France au titre III de la liste des produits et prestations remboursables\n (JO du 23/11/2018-T 8-T 98)\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>23-11-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v515",
+            "summary": "Version 515 disponible",
+            "title": "Nomenclature LPP Version 515",
+            "type": "LPP",
+            "url": null,
+            "version": "515"
+        },
+        {
+            "available": true,
+            "date": "2018-11-15T07:00:03.059644+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP514.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "391884",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP514.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1062963421237428224"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 514</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nTII Ch7 \n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nArr\u00eat\u00e9 du 30 octobre 2018 - JO du 06/11/2018-T 9-T 102\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>06-11-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v514",
+            "summary": "Version 514 disponible",
+            "title": "Nomenclature LPP Version 514",
+            "type": "LPP",
+            "url": null,
+            "version": "514"
+        },
+        {
+            "available": true,
+            "date": "2018-11-02T15:00:07.882280+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP513.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "380826",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP513.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1058373195219300352"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 513</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nT91\nT73\nT198\nT25 \nT101\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nArr\u00eat\u00e9 du 16 octobre - JO du 23/10/2018-T4\nArr\u00eat\u00e9 du 16 octobre - JO du 23/10/2018-T5- T111\nArr\u00eat\u00e9 du 16 octobre - JO du 24/10/2018-T17- T109\nArr\u00eat\u00e9 du 16 octobre - JO du 24/10/2018-T19- T110\nArr\u00eat\u00e9 du 16 octobre - JO du 24/10/2018-T21\nArr\u00eat\u00e9 du 16 octobre - JO du 24/10/2018-T22\nArr\u00eat\u00e9 du 16 octobre - JO du 24/10/2018-T23\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>24-10-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v513",
+            "summary": "Version 513 disponible",
+            "title": "Nomenclature LPP Version 513",
+            "type": "LPP",
+            "url": null,
+            "version": "513"
+        },
+        {
+            "available": true,
+            "date": "2018-10-25T14:00:03.170894+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP512.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "388301",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP512.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1055458973049077760"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 512</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nT91\nT73\nT198\nT25 \nT101\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nAvis relatif \u00e0 la tarification des conduits valv\u00e9s CARBO-SEAL et CARBO-SEAL VALSALVA  - JO du 25/04/2018-T 91\nAvis relatif \u00e0 la tarification des chaussures th\u00e9rapeutiques \u00e0 usage temporaire -JO du 11/09/2018-T 73\nAvis relatif \u00e0 la tarification des bioproth\u00e8ses valvulaires CAVGJ-514-00-BOVIN et VAVGJ-515-BOVIN - JO du 09/10/2018-T 198\nD\u00e9cision du 10 octobre 2018 fixant le tarif de responsabilit\u00e9 et le prix limite de vente au public (PLV) en euros TTC du dispositif m\u00e9dical AIR PLUG-PORCIN -JO du 17/10/2018-T 25\nAvis relatif \u00e0 la tarification des obturateurs - JO du 17/10/2018-T 101\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>17-10-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v512",
+            "summary": "Version 512 disponible",
+            "title": "Nomenclature LPP Version 512",
+            "type": "LPP",
+            "url": null,
+            "version": "512"
+        },
+        {
+            "available": true,
+            "date": "2018-10-19T14:00:02.335372+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP511.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "392482",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP511.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1053284642395164672"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 511</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\n\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nRectification du libell\u00e9 long erron\u00e9 du code 4313760 - Arr\u00eat\u00e9 du 5 mai 2017 - JO du 10/05/2017 - T101\nArr\u00eat\u00e9 du 1er octobre 2018 - JO du 09/10/2018-T 41-T 196\nArr\u00eat\u00e9 du 1er octobre 2018 - JO du 09/10/2018-T 43-T 197\n Arr\u00eat\u00e9 du 1er octobre 2018 - JO du 09/10/2018-T 45\nArr\u00eat\u00e9 du 9 octobre 2018 - JO du 12/10/2018-T 24\nArr\u00eat\u00e9 du 10 octobre 2018  - JO du 12/10/2018 \u2013 T 29\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>12-10-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v511",
+            "summary": "Version 511 disponible",
+            "title": "Nomenclature LPP Version 511",
+            "type": "LPP",
+            "url": null,
+            "version": "511"
+        },
+        {
+            "available": true,
+            "date": "2018-10-04T17:00:02.871285+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP510.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "393521",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP510.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1047894125222223872"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 510</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nTIII Ch2 ATS-BOVIN \nTIII Ch1 HIP\u2019N GO\nPRIX AU 01/10/2018  \n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nArr\u00eat\u00e9 du 19 septembre 2018 - JO du 25/09/2018-T12-T125\nArr\u00eat\u00e9 du 19 septembre 2018 - JO du 25/09/2018-T 14-T 126\nAvis relatif \u00e0 la baisse des tarifs et des prix limites de vente au public des locations hebdomadaires de lits m\u00e9dicaux - JO du 03/03/2017-T 122\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>25-09-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v510",
+            "summary": "Version 510 disponible",
+            "title": "Nomenclature LPP Version 510",
+            "type": "LPP",
+            "url": null,
+            "version": "510"
+        },
+        {
+            "available": true,
+            "date": "2018-09-27T17:00:02.799053+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP509.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "387281",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP509.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1045357409777143808"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 509</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nT 74\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nAvis relatif \u00e0 la tarification des neurostimulateurs m\u00e9dullaires vis\u00e9s \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale (JO du 18/09/2018-T 74)\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>18-09-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v509",
+            "summary": "Version 509 disponible",
+            "title": "Nomenclature LPP Version 509",
+            "type": "LPP",
+            "url": null,
+            "version": "509"
+        },
+        {
+            "available": true,
+            "date": "2018-09-21T05:00:02.340915+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP508.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "390430",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP508.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1043001886977060864"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 508</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nRECTIF 4239360 \n3175958\nRAD 1169586 \nTIII Ch1 HOT AXIOS \nPRIX AU 01/10/2018 \n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nCorrection de l\u2019entente pr\u00e9alable n\u00e9cessaire pour le code 4239360 non stipul\u00e9e auparavant.\nCorrection de la majoration \u00e0 1,36 au lieu de 1,16 du code 3175958 \nRadiation du code 1169586 - Arr\u00eat\u00e9 du 7 ao\u00fbt 2013 - JO du 14/08/2013-T 7\nArr\u00eat\u00e9 du 5 septembre 2018 - JO du 11/09/2018-T 5-T 72\nAvis relatif \u00e0 la tarification de PRO-FLEX LP - JO du 24/11/2017-T 145\nAvis relatif \u00e0 la tarification de AEQUASYAL - JO DU 24/11/2017-T 146\nAvis relatif \u00e0 la tarification du pied \u00e0 restitution d\u2019\u00e9nergie de classe III XTEND FOOT H100\n- JO du 12/12/2017-T 98\nAvis relatif \u00e0 la tarification des pieds \u00e0 restitution d\u2019\u00e9nergie (JO du 12/12/2017-T 100)\nAvis relatif \u00e0 la tarification du pied \u00e0 restitution d\u2019\u00e9nergie de classe III CHALLENGER 1E95\n- JO du 27/12/2017-T 231\nAvis relatif \u00e0 la tarification du pied \u00e0 restitution d\u2019\u00e9nergie VARI-FLEX MODULAR\n- JO du 20/04/2018-T 115\nAvis relatif \u00e0 la baisse de certains implants orthop\u00e9diques - JO du 30/08/2018-T 93\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>11-09-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v508",
+            "summary": "Version 508 disponible",
+            "title": "Nomenclature LPP Version 508",
+            "type": "LPP",
+            "url": null,
+            "version": "508"
+        },
+        {
+            "available": true,
+            "date": "2018-09-06T14:00:02.917562+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP507.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "382434",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP507.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1037701966628089858"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 507</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nTIII Ch 1\nTII Ch3\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nArr\u00eat\u00e9 du 23 ao\u00fbt 2018 - JO du 28/08/2018-T 5-T 54\nArr\u00eat\u00e9 du 23 ao\u00fbt 2018 - JO du 28/08/2018/T 6\nArr\u00eat\u00e9 du 23 ao\u00fbt 2018 - JO du 28/08/2018-T7\nArr\u00eat\u00e9 du 23 ao\u00fbt 2018 - JO du 28/08/2018-T 8\nArr\u00eat\u00e9 du 27 ao\u00fbt 2018  - JO du 29/08/2018-T 27-T 90\nArr\u00eat\u00e9 du 27 ao\u00fbt 2018 - JO du 29/08/2018-T 29-T 91\nArr\u00eat\u00e9 du 27 ao\u00fbt 2018 - JO du 29/08/2018-T 31-T 92\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>29-08-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v507",
+            "summary": "Version 507 disponible",
+            "title": "Nomenclature LPP Version 507",
+            "type": "LPP",
+            "url": null,
+            "version": "507"
+        },
+        {
+            "available": true,
+            "date": "2018-08-28T17:00:03.029734+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP506.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "390669",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP506.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1034485774752858112"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 506</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nT 22\nT 137\nT 138\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\n -  inscription de l\u2019implant de l\u2019articulation sacro-iliaque IFUSE IMPLANT SYSTEM -JO du 24/08/2018-T 22 - T 138\n - tarification de l'implant ur\u00e9t\u00e9ral de copolym\u00e8re DEFLUX - JO du 24/08/2018-T 137 \n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>24-08-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v506",
+            "summary": "Version 506 disponible",
+            "title": "Nomenclature LPP Version 506",
+            "type": "LPP",
+            "url": null,
+            "version": "506"
+        },
+        {
+            "available": true,
+            "date": "2018-08-22T17:00:09.560982+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP505.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "387911",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP505.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1032311474998394880"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 505</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nT 72\nT 166\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nAvis relatif \u00e0 la tarification des stents actifs vis\u00e9s \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale\nAvis relatif \u00e0 la tarification de la proth\u00e8se respiratoire de la gamme PROVOX vis\u00e9e \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale  \n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>01-08-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v505",
+            "summary": "Version 505 disponible",
+            "title": "Nomenclature LPP Version 505",
+            "type": "LPP",
+            "url": null,
+            "version": "505"
+        },
+        {
+            "available": true,
+            "date": "2018-08-13T05:00:02.487458+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP504.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "389400",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP504.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1028868760709550080"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 504</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nRECTIF PANSEMENTS\u00a0\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nLa rectification des prix au 01/07/2018 des codes 1381990, 13950006,1399955 et 1374470 publi\u00e9s au JO du 14/07/2016-T 111 annul\u00e9s par le JO du 26/07/2016-T 75\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>01-08-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v504",
+            "summary": "Version 504 disponible",
+            "title": "Nomenclature LPP Version 504",
+            "type": "LPP",
+            "url": null,
+            "version": "504"
+        },
+        {
+            "available": true,
+            "date": "2018-08-10T17:00:02.335266+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP503.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "386355",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP503.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1027962790500360192"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 503</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nRECTIF 5285504\u00a0\nTII Ch7 ORTHO EUROPE \nTII Ch1 CHAUSSURES\nTIII Ch4 AZURE XT \nTIII Ch1 GLASSSBONE\nTIV Ch2 INVACARE   \n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nRECTIF 5285504\u00a0: Rectification de l\u2019entente pr\u00e9alable qui n\u2019a pas lieu d\u2019\u00eatre et coch\u00e9 par erreur \nArr\u00eat\u00e9 du 24 juillet 2018 : inscription du pied \u00e0 restitution d\u2019\u00e9nergie TRES de classe II de la soci\u00e9t\u00e9 ORTHO EUROPE -  (JO du 01/08/2018-T 18- T 162)\nArr\u00eat\u00e9 du 24 juillet 2018 : modification des modalit\u00e9s de prise en charge des chaussures th\u00e9rapeutiques \u00e0 usage temporaire et prolong\u00e9 - (JO du 01/08/2018-T 19)\n- Arr\u00eat\u00e9 du 25 juillet 2018 : inscription des stimulateurs cardiaques implantables simple... \n(JO du 01/08/2018-T 20-T 163)\n- Arr\u00eat\u00e9 du 25 juillet 2018 : inscription du substitut osseux synth\u00e9tique GLASSBONE \n (JO du 01/08/2018-T 22-T 164)\n- Arr\u00eat\u00e9 du 25 juillet 2018 portant inscription du scooter \u00e9lectrique modulaire INVACARE COLIBRI OUTDOOR 3 roues de classe A+ de la soci\u00e9t\u00e9 INVACARE POIRIER\n (JO du 01/08/2018-T 24-T 165)\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>01-08-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v503",
+            "summary": "Version 503 disponible",
+            "title": "Nomenclature LPP Version 503",
+            "type": "LPP",
+            "url": null,
+            "version": "503"
+        },
+        {
+            "available": true,
+            "date": "2018-08-03T18:00:02.963960+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP502.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "387908",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP502.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1025441177292734464"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 502</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\n\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nArr\u00eat\u00e9 du 20 juillet 2018 portant renouvellement d\u2019inscription et suppression d\u2019une r\u00e9f\u00e9rence de l\u2019implant m\u00e9niscal SEQUENT pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale - JO du 25/07/2018-T 25\nArr\u00eat\u00e9 du 20 juillet 2018 portant changement de distributeur et renouvellement d\u2019inscription du pansement au charbon actif Actisorb pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale - JO du 25/07/2018-T 26\nArr\u00eat\u00e9 du 20 juillet 2018 portant modification des conditions d\u2019inscription du ballon \u00e0 \u00e9lution de principe actif RANGER pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale - JO du 25/07/2018-T 27\nArr\u00eat\u00e9 du 20 juillet 2018 portant renouvellement d\u2019inscription et modification des conditions d\u2019inscription de l\u2019implant osseux synth\u00e9tique NANOSTIM  pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale - JO du 25/07/2018-T 28-T 139\nArr\u00eat\u00e9 du 20 juillet 2018 portant modification des conditions d\u2019inscription de la proth\u00e8se cardio-vasculaire hybride E-VITA OPEN PLUS  pr\u00e9vue \u00e0 l\u2019article L. 165-1 du code de la s\u00e9curit\u00e9 sociale  JO du 25/07/2018-T 30\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>25-07-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v502",
+            "summary": "Version 502 disponible",
+            "title": "Nomenclature LPP Version 502",
+            "type": "LPP",
+            "url": null,
+            "version": "502"
+        },
+        {
+            "available": true,
+            "date": "2018-07-27T05:00:02.405098+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP501.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "388661",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP501.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1022708167514501120"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 501</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nT 14\nT 124\nT90\nT13\nT125\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nAvis relatif \u00e0 la tarification de certains pansements vis\u00e9s \u00e0 l'article L. 165-1 du code de la s\u00e9curit\u00e9 sociale - JO du 15/12/2016-T 136\nLa d\u00e9cision du 24 janvier 2018 fixant le tarif de responsabilit\u00e9 et le prix limite de vente au public (PLV) en euros TTC des valves percutan\u00e9es de la gamme SAPIEN - JO du 07/02/2018-T 14\nAvis relatif \u00e0 la tarification des valves percutan\u00e9es -JO du 07/02/2018-T 124\nAvis relatif \u00e0 la tarification de la bioproth\u00e8se valvulaire par voie transcutan\u00e9e COREVALVE EVOLUT PRO - JO du 09/02/2018-T 124\nAvis relatif \u00e0 la tarification de prestations d'oxyg\u00e9noth\u00e9rapie et ses forfaits associ\u00e9s -JO du 19/07/2018-T 90\nArr\u00eat\u00e9 du 10 juillet 2018 portant inscription du scooter \u00e9lectrique modulaire COMET ULTRA de cat\u00e9gorie C de la soci\u00e9t\u00e9 INVACARE POIRIER SAS - JO du 14/07/2018-T 13-T 125\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>19-07-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v501",
+            "summary": "Version 501 disponible",
+            "title": "Nomenclature LPP Version 501",
+            "type": "LPP",
+            "url": null,
+            "version": "501"
+        },
+        {
+            "available": true,
+            "date": "2018-07-20T05:00:02.577858+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP500.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "387992",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP500.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1020171452144857095"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 500</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nT 111\nT15\nT 160\nT 35\nT 17\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nAvis relatif \u00e0 la fixation des prix de cession, des tarifs et des prix limites de vente au public en euros TTC des pansements anatomiques - JO du 14/07/2016-T 111\nArr\u00eat\u00e9 du 31 mars 2017 fixant la liste des dispositifs m\u00e9dicaux que les orthoptistes sont autoris\u00e9s \u00e0 prescrire - JO du 04/04/2017-T15\nArr\u00eat\u00e9 du 9 juillet 2018 portant inscription de l\u2019aliment di\u00e9t\u00e9tique \u00e0 des fins m\u00e9dicales sp\u00e9ciales PAIN G-NUTRITION du Groupe DIJON CEREALES au titre I de la liste des produits et prestations remboursables -JO du 11/07/2018-T 32-T 160\nArr\u00eat\u00e9 du 9 juillet 2018 modifiant l\u2019arr\u00eat\u00e9 du 27 juin 2018 portant inscription des cotyles \u00e0 insert \u00e0 double mobilit\u00e9 - JO du 11/07/2018-T 35 \n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>13-07-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v500",
+            "summary": "Version 500 disponible",
+            "title": "Nomenclature LPP Version 500",
+            "type": "LPP",
+            "url": null,
+            "version": "500"
+        },
+        {
+            "available": true,
+            "date": "2018-07-11T17:00:02.975244+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP499.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "388864",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP499.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1017091156969172993"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 499</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nT5 Ch2\nT2 Ch4\nT1 Ch3\nT3 Ch4\nT3 Ch1\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nArr\u00eat\u00e9 du 27 juin 2018 portant inscription du ballonnet \u00e0 \u00e9lution de paclixatel \nSEQUENT PLEASE OTW -JO du 03/07/2018-T 12-T 139\nArr\u00eat\u00e9 du 27 juin 2018 portant modification des conditions d\u2019inscription de l\u2019orth\u00e8se d\u2019avanc\u00e9e mandibulaire TALI - JO du 03/07/2018-T 14-T140\nArr\u00eat\u00e9 du 27 juin 2018 portant modification des conditions d\u2019inscription du kit de compression veineuse ROSIDAL SYS JO du 03/07/2018-T 15\nArr\u00eat\u00e9 du 27 juin 2018 portant inscription du syst\u00e8me implantable non rechargeable de stimulation du ganglion spinal PROCLAIM DRG - JO du 03/07/2018-T 16-T 141\nArr\u00eat\u00e9 du 27 juin 2018 portant inscription du processeur de son pour implant cochl\u00e9aire NEURO 2 - JO du 03/07/2018-T 18-T 142\nArr\u00eat\u00e9 du 27 juin 2018 portant inscription des cotyles \u00e0 insert \u00e0 double mobilit\u00e9 de la gamme EVORA - JO du 03/07/2018-T 20-T 143\nArr\u00eat\u00e9 du 29 juin 2018 portant renouvellement d\u2019inscription des neurostimulateurs m\u00e9dullaires rechargeables PRECISION SPECTRA et PRECISION MONTAGE MRI  -JO du 05/07/2018-T 14\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>05-07-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v499",
+            "summary": "Version 499 disponible",
+            "title": "Nomenclature LPP Version 499",
+            "type": "LPP",
+            "url": null,
+            "version": "499"
+        },
+        {
+            "available": true,
+            "date": "2018-07-04T14:00:02.256926+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP498.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "388063",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP498.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1014509140390105088"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 498</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nT 108\nT 109\nT 21\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nAvis relatif \u00e0 la tarification du pansement ASKINA CARBOSORB  - JO du 26/06/2018-T 108\nAvis relatif \u00e0 la tarification du pansement en fibres de polyacrylate URGOCLEAN  - JO du 26/06/2018-T 109\nArr\u00eat\u00e9 du 22 juin 2018 portant modification des conditions d\u2019inscription des bioproth\u00e8ses valvulaires pulmonaires MELODY+ENSEMBLE et MELODY+ENSEMBLE II - JO du 28/06/2018-T 21\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>28-06-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v498",
+            "summary": "Version 498 disponible",
+            "title": "Nomenclature LPP Version 498",
+            "type": "LPP",
+            "url": null,
+            "version": "498"
+        },
+        {
+            "available": true,
+            "date": "2018-07-03T17:00:02.887281+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP497.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "387891",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP497.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1014192053650116608"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 497</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\n\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nAvis relatif \u00e0 la tarification de certains pansements - JO du 15/12/2016-T 136\nAvis relatif \u00e0 la tarification des pansements Urgotul et Urgotul Duo - JO du 19/01/2017-T 93\nAvis relatif \u00e0 la tarification du syst\u00e8me flash d\u2019autosurveillance du glucose FREESTYLE LIBRE - JO du 05/05/2017-T 184\n- Avis relatif \u00e0 la baisse des implants cochl\u00e9aires et du tronc c\u00e9r\u00e9bral - JO du 15/06/2017-T 197 \nAvis relatif \u00e0 la tarification de l\u2019implant du tronc c\u00e9r\u00e9bral ABI 541 - JO du 04/07/2017-T121 et T122 \nAvis relatif \u00e0 la tarification des pansements hydrocellulaires Biatain Silicone - JO du 11/07/2017-T 95\nAvis relatif \u00e0 la tarification de VIATORR TIPS - JO du 13/10/2017-T 194\nAvis relatif \u00e0 la tarification des aliments MODULEN IBD, IMPACT ENTERAL, ORAL IMPACT, PEPTAMEN et PEPTAMEN HN - JO du 20/10/2017-T 128 \n Avis relatif \u00e0 la tarification de MEPILEX BORDER - JO du 12/12/2017-T 99\n Avis relatif \u00e0 la tarification des pansements hydrocellulaires anatomiques ALLEVYN GENTLE BORDER HEEL - JO du 20/12/2017-T 121\nAvis relatif \u00e0 la tarification de HIRES ULTRA HIFOCUS SLIM J - JO du 27/12/2017-T 234\n Avis de fixation des tarifs et des prix limites de vente au public (PLV) de certains implants orthop\u00e9diques - JO du 20/04/2018-T 114\n Avis rectifiant l\u2019avis relatif \u00e0 la fixation des prix de cession, des tarifs et des prix limites de vente au public en euros TTC des pansements anatomiques - JO du 04/05/2018-T 92\nAvis relatif \u00e0 la tarification des prestations d\u2019oxyg\u00e9noth\u00e9rapie et ses forfaits associ\u00e9s - JO du 01/06/2018-T 116\n Avis relatif \u00e0 la tarification de certains implants orthop\u00e9diques - JO du 14/06/2018-T 73\nArr\u00eat\u00e9 du 19 juin 2018 - JO du 21/06/2018 - T19- T96\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>21-06-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v497",
+            "summary": "Version 497 disponible",
+            "title": "Nomenclature LPP Version 497",
+            "type": "LPP",
+            "url": null,
+            "version": "497"
+        },
+        {
+            "available": true,
+            "date": "2018-06-20T14:00:02.381033+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP496.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "384999",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP496.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1009435710821228544"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 496</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nTI Ch1 \n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nArr\u00eat\u00e9 du 12 juin 2018 - (JO du 14/06/2018-T10-T74)\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>14-06-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v496",
+            "summary": "Version 496 disponible",
+            "title": "Nomenclature LPP Version 496",
+            "type": "LPP",
+            "url": null,
+            "version": "496"
+        },
+        {
+            "available": true,
+            "date": "2018-06-18T05:00:02.685447+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP495.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "376475",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP495.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1008575041070456838"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 495</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\nRECTIF 1294570\u00a0\nTIII Ch1 TREGOR \nTI Ch1 THEALOSE \nTII Ch4 PROVOX HME\nTII  Ch4 PROVOX \nTII Ch4 RADIATIONS \nTII Ch7 EMAG \nTV Ch2 GLIDELIGHT\nTIII Ch1 QUATRO CIM \nTI Ch1 CHANGEMENTS  \nTIII Ch1 PROFEMUR \nTIII Ch1 ADES\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nCode 1294570\u00a0: rectification dans le texte du libell\u00e9 long de la dur\u00e9e avant renouvellement\u00a0\nArr\u00eat\u00e9 du 31 mai 2018- (JO du 05/06/2018-T54-T164)\nArr\u00eat\u00e9 du 1er juin 2018 - (JO du 05/06/2018-T59-T165)\nArr\u00eat\u00e9 du 1er juin 2018 -  (JO du 05/06/2018-T60)\nArr\u00eat\u00e9 du 1er juin 2018 - (JO du 05/06/2018-T61-T166) \nArr\u00eat\u00e9 du 1er juin 2018 - (JO du 05/06/2018-T62)\nArr\u00eat\u00e9 du 1er juin 2018 - (JO du 06/06/2018-T46-T188)\nArr\u00eat\u00e9 du 1er juin 2018 - (JO du 06/06/2018-T47-T189)\nArr\u00eat\u00e9 du 1er juin 2018 - (JO du 06/06/2018-T49-T190)\nArr\u00eat\u00e9 du 4 juin 2018 -  (JO du 06/06/2018-T54)\nArr\u00eat\u00e9 du 4 juin 2018 - (JO du 06/06/2018-T56-T192)\nArr\u00eat\u00e9 du 4 juin 2018 - (JO du 06/06/2018-T55-T191)\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>06-06-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v495",
+            "summary": "Version 495 disponible",
+            "title": "Nomenclature LPP Version 495",
+            "type": "LPP",
+            "url": null,
+            "version": "495"
+        },
+        {
+            "available": true,
+            "date": "2018-06-07T07:01:38.307158+00:00",
+            "files": [
+                "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP494.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "374425",
+                    "type": "data",
+                    "url": "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP494.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1004619374379044864"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 494</h1>\n    <p>Titre et chapitre vis\u00e9s par les textes r\u00e9glementaires : </p>\n    <pre>\n\n    </pre>\n\n    <p>Dates des arr\u00eat\u00e9s vis\u00e9s - Avis tarifs et prix : </p>\n    <pre>\nRectificatif du code 1139266 erron\u00e9\nArr\u00eat\u00e9 du 25 mai 2018 - (JO du 31/05/2018-T29-T169)\nArr\u00eat\u00e9 du 25 mai 2018 - (JO du 31/05/2018-T31-T170)\nArr\u00eat\u00e9 du 31 mai 2018 - (JO du 01/06/2018-T22-T118)\nArr\u00eat\u00e9 du 28 mai 2018 - (JO du 02/06/2018-T14)\nArr\u00eat\u00e9 du 28 mai 2018 - (JO du 02/06/2018-T15)\n    </pre>\n\n    <p>Date du JO le plus r\u00e9cent de la version : <em>02-06-2018</em></p>\n    <p>Date de mise en ligne sur le site <a\n            href=\"https://www.ameli.fr/etablissement-de-sante/exercice-professionnel/nomenclatures-codage/lpp\">Ameli.fr</a> : <em></em></p>\n</div>",
+            "id": "urn:ameli:lpp:v494",
+            "summary": "Version 494 disponible",
+            "title": "Nomenclature LPP Version 494",
+            "type": "LPP",
+            "url": null,
+            "version": "494"
+        },
+        {
+            "available": true,
             "date": "2018-05-09T17:00:02.829257+00:00",
             "files": [
                 "http://www.codage.ext.cnamts.fr/f_mediam/fo/tips/LPP493.zip"

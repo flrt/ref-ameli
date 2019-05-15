@@ -35,21 +35,6 @@ class VersionDetector:
                                        '{}{}'.format(self.ref, VersionDetector.VERSION_FN_EXT))
         self.last = 0
 
-    def load_previous_(self):
-        """
-
-        TODO: SUPPR
-        :return:
-        """
-        if not os.path.exists(self.version_fn):
-            self.logger.debug("No previous version. Init")
-        else:
-            self.version = helpers.load_json(self.version_fn)
-            # get the max version of all records
-            self.last = int(sorted(set(map(lambda x: x["version"], self.version["versions"])))[-1])
-
-        self.logger.debug("Versions : {}".format(str(self.version)))
-
     def load_previous(self):
         """
         Lecture des données du précédent traitement et calcul du numéro de version
@@ -58,7 +43,7 @@ class VersionDetector:
         self.logger.debug("Loads previous version from {}".format(self.version_fn))
         self.version = helpers.load_json(self.version_fn)
         # calcule la version la plus recente : max
-        self.last = int(sorted(set(map(lambda x: x["version"], self.version["versions"])))[-1])
+        self.last = float(sorted(set(map(lambda x: x["version"], self.version["versions"])))[-1])
 
         self.logger.info("Derniere version traitee : {}".format(self.last))
 
