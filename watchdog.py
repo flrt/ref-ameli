@@ -514,7 +514,8 @@ class NABMWatchDog(WatchDog):
         files = []
         # versions NABM sont entieres
         test_version = int(self.get_current_version()) + 1
-        url_base = "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/"
+        url_base = "http://www.codage.ext.cnamts.fr/codif/nabm/telecharge/index_tele.php?p_site=AMELI"
+        #url_base = "http://www.codage.ext.cnamts.fr/codif/nabm/download_file.php?filename=/f_mediam/fo/nabm/"
         nabm_files = ["NABM_FICHE_TOT%03d.dbf" % test_version,
                       "NABM_HISTO_TOT%03d.dbf" % test_version,
                       "NABM_INCOMP_TOT%03d.dbf" % test_version]
