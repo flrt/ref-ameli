@@ -7,3 +7,4 @@ xlrd
 arrow
 dbfread
 tweepy
+atom_gen
