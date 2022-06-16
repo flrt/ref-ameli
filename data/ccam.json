@@ -2,6 +2,546 @@
     "versions": [
         {
             "available": true,
+            "date": "2022-03-14T11:00:14.990526+00:00",
+            "files": [
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06900_DBF_PART1.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06900_DBF_PART2.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06900_DBF_PART3.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "6659209",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06900_DBF_PART1.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "6019180",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06900_DBF_PART2.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "7238503",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06900_DBF_PART3.zip"
+                }
+            ],
+            "html": null,
+            "id": "urn:ameli:ccam:v69",
+            "summary": "Version 69 disponible",
+            "title": "Nomenclature CCAM Version 69",
+            "type": "CCAM",
+            "url": null,
+            "version": "69"
+        },
+        {
+            "available": true,
+            "date": "2021-12-02T08:00:12.849507+00:00",
+            "files": [
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06800_DBF_PART1.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06800_DBF_PART2.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06800_DBF_PART3.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "6193177",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06800_DBF_PART1.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "5499502",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06800_DBF_PART2.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "6294014",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06800_DBF_PART3.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1466316256181690369"
+                }
+            ],
+            "html": null,
+            "id": "urn:ameli:ccam:v68",
+            "summary": "Version 68 disponible",
+            "title": "Nomenclature CCAM Version 68",
+            "type": "CCAM",
+            "url": null,
+            "version": "68"
+        },
+        {
+            "available": true,
+            "date": "2021-04-08T08:00:08.787525+00:00",
+            "files": [
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06700_DBF_PART1.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06700_DBF_PART2.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06700_DBF_PART3.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "6161651",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06700_DBF_PART1.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "5316777",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06700_DBF_PART2.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "6219726",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06700_DBF_PART3.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1380067927173500929"
+                }
+            ],
+            "html": null,
+            "id": "urn:ameli:ccam:v67",
+            "summary": "Version 67 disponible",
+            "title": "Nomenclature CCAM Version 67",
+            "type": "CCAM",
+            "url": null,
+            "version": "67"
+        },
+        {
+            "available": true,
+            "date": "2020-12-17T11:00:05.864670+00:00",
+            "files": [
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06610_DBF_PART1.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06610_DBF_PART2.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06610_DBF_PART3.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "6122081",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06610_DBF_PART1.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "5249622",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06610_DBF_PART2.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "6153798",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06610_DBF_PART3.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1339525772445442048"
+                }
+            ],
+            "html": null,
+            "id": "urn:ameli:ccam:v66.10",
+            "summary": "Version 66.10 disponible",
+            "title": "Nomenclature CCAM Version 66.10",
+            "type": "CCAM",
+            "url": null,
+            "version": "66.10"
+        },
+        {
+            "available": true,
+            "date": "2020-12-11T09:00:09.662497+00:00",
+            "files": [
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06600_DBF_PART1.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06600_DBF_PART2.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06600_DBF_PART3.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "6094505",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06600_DBF_PART1.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "5321901",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06600_DBF_PART2.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "6122191",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06600_DBF_PART3.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1337321262167822337"
+                }
+            ],
+            "html": null,
+            "id": "urn:ameli:ccam:v66",
+            "summary": "Version 66 disponible",
+            "title": "Nomenclature CCAM Version 66",
+            "type": "CCAM",
+            "url": null,
+            "version": "66"
+        },
+        {
+            "available": true,
+            "date": "2020-10-01T05:00:09.914205+00:00",
+            "files": [
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06500_DBF_PART1.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06500_DBF_PART2.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06500_DBF_PART3.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "6079884",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06500_DBF_PART1.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "5245093",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06500_DBF_PART2.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "6103187",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06500_DBF_PART3.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1311531326831550465"
+                }
+            ],
+            "html": "<div>\n    <h1>Informations sur la version 65</h1>\n    <p>Les informations relatives \u00e0 la version sont consultables dans le document <a\n            href=\"https://www.ameli.fr/fileadmin/user_upload/documents/Cam_Note_V65.pdf\">de notes sur le site ameli.</a></p>\n</div>",
+            "id": "urn:ameli:ccam:v65",
+            "summary": "Version 65 disponible",
+            "title": "Nomenclature CCAM Version 65",
+            "type": "CCAM",
+            "url": null,
+            "version": "65"
+        },
+        {
+            "available": true,
+            "date": "2020-07-08T07:00:06.334542+00:00",
+            "files": [
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06400_DBF_PART1.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06400_DBF_PART2.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06400_DBF_PART3.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "6045309",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06400_DBF_PART1.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "5082528",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06400_DBF_PART2.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "6060527",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06400_DBF_PART3.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1280758542245470209"
+                }
+            ],
+            "html": null,
+            "id": "urn:ameli:ccam:v64",
+            "summary": "Version 64 disponible",
+            "title": "Nomenclature CCAM Version 64",
+            "type": "CCAM",
+            "url": null,
+            "version": "64"
+        },
+        {
+            "available": true,
+            "date": "2020-03-05T09:00:15.768376+00:00",
+            "files": [
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06300_DBF_PART1.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06300_DBF_PART2.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06300_DBF_PART3.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "6009955",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06300_DBF_PART1.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "5269194",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06300_DBF_PART2.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "6024062",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06300_DBF_PART3.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1235490297682857984"
+                }
+            ],
+            "html": null,
+            "id": "urn:ameli:ccam:v63",
+            "summary": "Version 63 disponible",
+            "title": "Nomenclature CCAM Version 63",
+            "type": "CCAM",
+            "url": null,
+            "version": "63"
+        },
+        {
+            "available": true,
+            "date": "2020-02-04T08:00:04.613536+00:00",
+            "files": [
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06200_DBF_PART1.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06200_DBF_PART2.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06200_DBF_PART3.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "5975141",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06200_DBF_PART1.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "5067556",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06200_DBF_PART2.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "5986573",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06200_DBF_PART3.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1224603515336699904"
+                }
+            ],
+            "html": null,
+            "id": "urn:ameli:ccam:v62",
+            "summary": "Version 62 disponible",
+            "title": "Nomenclature CCAM Version 62",
+            "type": "CCAM",
+            "url": null,
+            "version": "62"
+        },
+        {
+            "available": true,
+            "date": "2019-12-02T11:00:10.681398+00:00",
+            "files": [
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06100_DBF_PART1.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06100_DBF_PART2.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06100_DBF_PART3.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "5879539",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06100_DBF_PART1.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "4963331",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06100_DBF_PART2.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "5743003",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06100_DBF_PART3.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1201456015956467712"
+                }
+            ],
+            "html": null,
+            "id": "urn:ameli:ccam:v61",
+            "summary": "Version 61 disponible",
+            "title": "Nomenclature CCAM Version 61",
+            "type": "CCAM",
+            "url": null,
+            "version": "61"
+        },
+        {
+            "available": true,
+            "date": "2019-09-27T07:00:13.988767+00:00",
+            "files": [
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06000_DBF_PART1.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06000_DBF_PART2.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06000_DBF_PART3.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "5835432",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06000_DBF_PART1.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "4775268",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06000_DBF_PART2.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "5693139",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM06000_DBF_PART3.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1177478033042591745"
+                }
+            ],
+            "html": null,
+            "id": "urn:ameli:ccam:v60",
+            "summary": "Version 60 disponible",
+            "title": "Nomenclature CCAM Version 60",
+            "type": "CCAM",
+            "url": null,
+            "version": "60"
+        },
+        {
+            "available": true,
+            "date": "2019-07-24T12:00:14.479246+00:00",
+            "files": [
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05900_DBF_PART1_v2.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05900_DBF_PART2_v2.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05900_DBF_PART3_v2.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "5861119",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05900_DBF_PART1_v2.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "5611284",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05900_DBF_PART2_v2.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "5802452",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05900_DBF_PART3_v2.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1153998320949432321"
+                }
+            ],
+            "html": "<div><em>MAJ</em> des liens vers les fichiers zip suite a la republication par ameli des fichiers en v2 (probleme de mot de passe sur les fichiers initiaux du 24/07/2019)</div>",
+            "id": "urn:ameli:ccam:v59",
+            "summary": "Version 59 disponible",
+            "title": "Nomenclature CCAM Version 59",
+            "type": "CCAM",
+            "url": null,
+            "version": "59"
+        },
+        {
+            "available": true,
+            "date": "2019-07-04T09:00:05.999419+00:00",
+            "files": [
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05800_DBF_PART1.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05800_DBF_PART2.zip",
+                "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05800_DBF_PART3.zip"
+            ],
+            "files_props": [
+                {
+                    "http_status": 200,
+                    "size": "5804073",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05800_DBF_PART1.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "4735072",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05800_DBF_PART2.zip"
+                },
+                {
+                    "http_status": 200,
+                    "size": "5657728",
+                    "type": "data",
+                    "url": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05800_DBF_PART3.zip"
+                },
+                {
+                    "http_status": 301,
+                    "size": 0,
+                    "type": "link",
+                    "url": "https://www.twitter.com/SisInterop/status/1146705229557182465"
+                }
+            ],
+            "html": null,
+            "id": "urn:ameli:ccam:v58",
+            "summary": "Version 58 disponible",
+            "title": "Nomenclature CCAM Version 58",
+            "type": "CCAM",
+            "url": null,
+            "version": "58"
+        },
+        {
+            "available": true,
             "date": "2019-04-23T20:50:27.525983+00:00",
             "files": [
                 "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM05700_DBF_PART1.zip",
